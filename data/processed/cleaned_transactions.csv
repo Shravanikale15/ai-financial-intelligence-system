@@ -1,0 +1,2331 @@
+transaction_id,user_id,date,transaction_type,category,amount,payment_mode,location,notes
+T03512,U039,2021-12-22,expense,rent,998.0,Cash,Pune,Paid electricity bill 
+T04316,U143,2022-10-18,expense,rent,149.0,Cash,Bengaluru,
+T01814,U150,2019-09-12,expense,savings,681.0,Cash,Kolkata,Salary
+T04656,U112,2021-02-03,expense,food,323.0,UPI,Ahmedabad,Monthly rent
+T02596,U050,2021-03-03,income,other income,58874.0,Card,Bengaluru,Salary
+T11684,U114,2022-01-20,expense,food,383.0,Bank Transfer,Hyderabad,Grocery shopping
+T11492,U149,2020-12-28,expense,rent,1580.0,UPI,Lucknow,Uber to office
+T02520,U088,2021-01-01,expense,health,193.0,Bank Transfer,Ahmedabad,Netflix subscription
+T02736,U040,2020-08-05,expense,entertainment,187.0,Bank Transfer,Bengaluru,Doctor visit cash
+T00990,U014,2022-10-16,expense,others,2506.0,Bank Transfer,Ahmedabad,Doctor visit cash
+T04370,U119,2021-03-31,expense,food,5387.0,Bank Transfer,Pune,A7Brvt0bSrovLXo
+T00315,U142,2019-01-09,expense,food,143.0,Cash,Chennai,
+T11066,U031,2020-12-13,expense,,367.0,Bank Transfer,Kolkata,NLS1gMaaOza0C0cf
+T01335,U113,2019-07-17,income,bonus,46491.0,UPI,Delhi,Gift
+T11761,U093,2019-11-10,expense,entertainment,2951.0,Cash,Pune,Uber to office
+T03286,U119,2020-03-27,expense,savings,408.0,Card,Chennai,Paid electricity bill cash
+T01970,U044,2022-10-04,expense,rent,1530.0,Card,Hyderabad,Netflix subscription
+T08098,U049,2019-06-29,expense,travel,183.0,Cash,Ahmedabad,Salary
+T01842,U161,2021-10-13,expense,food,1275.0,Card,Kolkata,Gift 
+T07877,U032,2022-07-21,expense,travel,100.0,Bank Transfer,Jaipur,cJ9BkudD4Tf3Ql
+T09490,U109,2022-05-28,expense,food,55.0,Cash,Hyderabad,Uber to office
+T00428,U041,2020-06-29,expense,food,693.0,Bank Transfer,Hyderabad,Doctor visit
+T13693,U161,2021-02-15,expense,travel,641.0,Card,Delhi,Paid electricity bill
+T02361,U087,2022-06-24,expense,travel,564.0,UPI,Delhi,Doctor visit late
+T08941,U071,2019-08-02,expense,food,189.0,UPI,Ahmedabad,Netflix subscription
+T04057,U147,2021-05-29,expense,ernt,705.0,Cash,Bengaluru,Salary
+T14182,U082,2021-06-11,expense,food,196.0,Bank Transfer,Jaipur,Monthly rent
+T06760,U051,2019-11-23,income,other income,45038.0,Bank Transfer,Ahmedabad,Doctor visit
+T10248,U108,2019-06-26,expense,entertainment,1050.0,Cash,Hyderabad,Uber to office
+T13425,U023,2019-03-13,expense,travel,617.0,Cash,Ahmedabad,Course fee 
+T05533,U026,2021-06-24,expense,travel,45.0,Cash,Delhi,
+T12034,U100,2020-07-25,expense,rtavel,1413.0,Caard,delhi,nqj5djeLfknN4JU
+T14582,U014,2021-10-09,expense,education,207.0,Card,Hyderabad,Netflix subscription
+T05338,U050,2021-07-29,expense,food,406.0,Card,Kolkata,
+T11314,U124,2019-05-30,expense,others,726.0,UPI,Chennai,Salary
+T05368,U170,2021-01-16,expense,food,64.0,Cash,Delhi,Monthly rent 
+T02339,U157,2022-07-24,expense,food,323.0,UPI,Mumbai,Salary cash
+T08561,U112,2022-03-14,expense,rent,116.0,Card,Jaipur,Netflix subscription
+T01429,U085,2022-01-10,expense,rent,69.0,UPI,Delhi,Grocery shopping 
+T11709,U028,2020-11-28,expense,rent,201.0,Cash,Bengaluru,Doctor visit via app
+T07338,U071,2019-07-06,income,bonus,68463.0,Cash,lucknow,zhjquyI3MwYbP4rQr9
+T08610,U147,2019-04-14,expense,food,8096.0,Cash,Jaipur,Course fee
+T03004,U039,2020-10-07,expense,rnt,1706.0,Bank Transfer,Lucknow,Doctor visit
+T11440,U081,2019-11-01,expense,rent,-1049.0,Bank Transfer,Delhi,Grocery shopping 
+T14631,U184,2021-03-27,expense,utilities,101.0,Cash,Jaipur,Course fee
+T14170,U095,2022-07-03,expense,travel,1701.0,Cash,Kolkata,Salary
+T08053,U134,2021-12-13,expense,rent,2016.0,Card,Ahmedabad,Monthly rent
+T09491,U106,2021-08-15,expense,education,548.0,UPI,Mumbai,Monthly rent
+T08671,U042,2019-02-18,expense,utilities,2209.0,Card,Bengaluru,Paid electricity bill
+T05211,U001,2022-11-30,expense,utilities,102.0,Cash,Lucknow,Monthly rent
+T07554,U057,2022-11-05,income,bonus,69315.0,Cash,Chennai,Paid electricity bill via app
+T11126,U054,2022-09-25,expense,health,201.0,Cash,Ahmedabad,Netflix subscription
+T03666,U065,2022-06-20,expense,entertainment,465.0,Bank Transfer,Delhi,Dinner at resto
+T00296,U082,2019-09-16,expense,food,527.0,Bank Transfer,Pune,Gift
+T04299,U138,2022-12-13,expense,rent,457.0,UPI,Mumbai,Gift
+T13750,U057,2021-04-15,expense,savings,45.0,UPI,Mumbai,Doctor visit
+T08158,U112,2020-11-01,expense,rent,72.0,Cash,Jaipur,Gift via app
+T08614,U088,2021-12-05,expense,rent,437.0,Bank Transfer,Mumbai,Dinner at resto cash
+T06012,U038,2020-04-12,expense,utilities,160.0,Cash,Mumbai,Gift late
+T01467,U006,2020-05-09,expense,food,1012.0,UPI,Delhi,oUUq1sbTZ0KCLrWUTx
+T13053,U037,2021-04-22,expense,entertainment,905.0,Bank Transfer,Ahmedabad,Paid electricity bill
+T00022,U118,2022-04-16,expense,entertainment,92.0,Bank Transfer,Kolkata,Paid electricity bill
+T13547,U094,2022-03-05,expense,rent,92.0,Card,Kolkata,Gift
+T12875,U027,2019-02-14,expense,,1460.0,UPI,Chennai,Doctor visit
+T01344,U001,2021-03-29,expense,food,439.0,UPI,Hyderabad,Gift
+T12164,U102,2020-03-02,expense,travel,20.0,Bank Transfer,Hyderabad,Netflix subscription cash
+T11560,U067,2019-07-12,expense,fod,36.0,UPI,Bengaluru,Salary cash
+T09304,U025,2020-05-25,expense,food,4318.0,Bank Transfer,Ahmedabad,Salary 
+T00739,U076,2020-12-28,expense,foodd,902.0,Cash,Bengaluru,Dinner at resto 
+T01170,U116,2020-08-25,expense,food,133.0,Cash,Lucknow,Paid electricity bill late
+T03102,U170,2022-12-12,expense,rent,1016.0,UPI,Jaipur,Doctor visit cash
+T07764,U067,2020-04-17,expense,food,640.0,Bank Transfer,Delhi,Paid electricity bill
+T14226,U057,2022-04-22,expense,entertainment,822.0,Bank Transfer,Hyderabad,Doctor visit
+T14082,U110,2020-07-26,expense,utilities,106.0,Card,Chennai,Course fee
+T07223,U150,2019-08-26,expense,food,745.0,Card,Delhi,Gift
+T04852,U035,2020-12-30,income,other income,42452.0,Bank Transfer,Chennai,Grocery shopping
+T09939,U066,2020-07-21,expense,rent,104.0,Card,Lucknow,
+T14623,U192,2020-09-29,expense,food,2152.0,Cash,Ahmedabad,Salary
+T12200,U042,2019-01-05,expense,rent,592.0,UPI,Bengaluru,Monthly rent
+T13495,U119,2021-06-08,expense,food,255.0,Bank Transfer,Lucknow,Uber to office
+T01739,U121,2020-01-19,expense,utilities,65.0,UPI,Chennai,Uber to office
+T12241,U039,2019-06-02,income,bonus,75939.0,Cash,Kolkata,Grocery shopping
+T09306,U123,2022-10-27,income,bonus,43933.0,Bank Transfer,Bengaluru,Gift
+T12696,U192,2021-07-06,expense,health,552.0,Cash,Ahmedabad,Course fee
+T14525,U156,2022-10-11,expense,food,45.0,Bank Transfer,Bengaluru,Paid electricity bill 
+T14629,U056,2020-09-13,expense,food,286.0,Card,Ahmedabad,Doctor visit
+T09574,U029,2021-10-17,expense,rent,286.0,Cash,Bengaluru,Doctor visit
+T02539,U117,2020-09-11,expense,health,1062.0,Cash,Lucknow,Uber to office cash
+T10911,U048,2020-01-27,expense,utilities,305.0,UPI,Delhi,Monthly rent
+T10396,U099,2022-05-17,expense,rent,80.0,Card,Pune,Dinner at resto
+T11233,U188,2019-05-09,expense,others,25.0,Bank Transfer,Lucknow,Dinner at resto
+T05815,U087,2019-10-12,expense,rent,118.0,Bank Transfer,Hyderabad,Course fee
+T08020,U167,2021-05-17,expense,travel,223.0,Card,Delhi,Course fee cash
+T13384,U185,2019-12-06,expense,rent,2098.0,UPI,Ahmedabad,Doctor visit
+T14209,U154,2020-10-24,expense,entertainment,213.0,UPI,Chennai,RaGsYvbh
+T10245,U168,2019-08-05,expense,rent,1965.0,Cash,Ahmedabad,Oj5dHEuv
+T03377,U019,2021-01-04,expense,food,451.0,Bank Transfer,Lucknow,Doctor visit
+T02983,U073,2021-09-25,expense,others,362.0,Cash,kolkata,5M01gbjIQkWEhD
+T03038,U062,2021-12-22,expense,others,2520.0,Bank Transfer,Chennai,Salary
+T02480,U112,2021-06-05,expense,food,3127.0,UPI,Hyderabad,
+T09233,U120,2022-06-30,expense,travel,373.0,UPI,Delhi,Course fee via app
+T05740,U164,2020-11-15,expense,utilities,362.0,Bank Transfer,Chennai,Doctor visit
+T07466,U163,2019-05-01,income,other income,57565.0,UPI,Kolkata,Uber to office
+T06322,U068,2022-07-13,expense,rent,4777.0,Bank Transfer,Bengaluru,Netflix subscription
+T00474,U085,2022-09-25,expense,food,434.0,UPI,Jaipur,Course fee
+T03793,U094,2021-03-21,expense,rent,269.0,UPI,Hyderabad,IOcqTPRj1mZ
+T06093,U189,2020-07-13,expense,others,71.0,Cash,Chennai,
+T01185,U035,2021-04-01,expense,food,3489.0,Bank Transfer,,Grocery shopping
+T08709,U099,2022-10-04,expense,health,192.0,Bank Transfer,Lucknow,Netflix subscription
+T08374,U079,2020-02-22,expense,travel,386.0,Card,Ahmedabad,Monthly rent 
+T07528,U143,2020-02-17,expense,rent,3552.0,UPI,Mumbai,
+T01376,U110,2022-09-10,expense,entertainment,38.0,Bank Transfer,Mumbai,Grocery shopping cash
+T06668,U033,2019-03-02,expense,travel,150.0,UPI,Kolkata,
+T12554,U050,2022-04-23,expense,travel,2374.0,UPI,kolkata,Monthly rent 
+T03527,U126,2021-01-12,expense,travel,524.0,Card,Kolkata,Dinner at resto
+T09838,U105,2022-10-20,income,other income,66826.0,Card,Lucknow,Netflix subscription
+T08005,U001,2021-06-01,expense,entertainment,77.0,UPI,PUNE,Gift via app
+T02865,U160,2020-06-29,expense,rent,667.0,UPI,lucknow,ur3kNFk5
+T10191,U144,2019-06-09,expense,food,2685.0,UPI,Delhi,Grocery shopping cash
+T01435,U176,2021-02-12,expense,savings,313.0,Card,Mumbai,Doctor visit
+T12173,U063,2022-08-06,expense,rent,848.0,Bank Transfer,Hyderabad,
+T03871,U171,2020-06-08,expense,travel,463.0,,Pune,Gift cash
+T14686,U189,2020-06-05,expense,rent,743.0,Cash,Mumbai,Monthly rent
+T12548,U125,2021-01-28,expense,food,219.0,Card,Hyderabad,Netflix subscription
+T03845,U005,2021-08-10,expense,rent,533.0,Bank Transfer,Chennai,Salary
+T01061,U002,2020-04-10,expense,food,1032.0,,Lucknow,Gift via app
+T08024,U027,2021-08-14,expense,food,273.0,Card,Lucknow,Monthly rent cash
+T04492,U065,2019-03-29,expense,savingss,205.0,Cash,Pune,Dinner at resto
+T13298,U137,2021-03-10,expense,rent,366.0,Bank Transfer,Jaipur,Grocery shopping
+T13716,U145,2022-09-23,expense,otherrs,547.0,UPI,Chennai,Gift
+T10119,U170,2022-10-17,income,other income,48269.0,UPI,Jaipur,Course fee
+T06430,U038,2020-07-09,expense,entertainment,560.0,Cash,Chennai,Netflix subscription
+T08533,U068,2022-12-23,expense,others,313.0,Card,Ahmedabad,
+T03449,U125,2021-11-08,income,other income,56253.0,UPI,Kolkata,Monthly rent via app
+T11226,U073,2020-11-26,income,other income,71178.0,Card,Delhi,Salary
+T00610,U042,2022-02-25,expense,health,142.0,,Jaipur,
+T05220,U005,2020-09-11,expense,rent,882.0,UPI,Jaipur,Gift
+T09296,U100,2020-07-21,expense,food,2383.0,Bank Transfer,Hyderabad,Doctor visit
+T12600,U163,2022-06-04,expense,rent,814.0,UPI,Chennai,Dinner at resto via app
+T00057,U104,2022-05-02,expense,utilities,2314.0,Bank Transfer,Mumbai,Doctor visit cash
+T14501,U115,2021-11-18,expense,rent,256.0,Bank Transfer,Jaipur,Grocery shopping via app
+T02713,U147,2021-01-28,expense,rent,526.0,Card,Mumbai,Course fee via app
+T00511,U044,2022-11-23,expense,utilities,314.0,Card,Ahmedabad,Gift late
+T10944,U182,2022-12-04,expense,travel,711.0,Card,chennai,Monthly rent
+T09614,U164,2020-11-19,expense,savings,2358.0,Card,Ahmedabad,Doctor visit
+T14837,U079,2020-11-22,expense,rent,429.0,Cash,Lucknow,Grocery shopping
+T12502,U007,2021-11-27,expense,rent,535.0,Cash,Bengaluru,Dinner at resto
+T04765,U159,2022-03-19,expense,travel,556.0,Cash,Jaipur,Course fee
+T14852,U086,2022-11-12,expense,food,260.0,Card,Kolkata,
+T08600,U137,2020-01-01,expense,ravel,88.0,Bank Transfer,Kolkata,Monthly rent
+T03183,U034,2021-05-07,expense,food,1333.0,Bank Transfer,Kolkata,Netflix subscription cash
+T06581,U071,2022-09-20,expense,food,1477.0,Cash,Jaipur,Dinner at resto
+T05184,U044,2020-03-14,expense,fod,1103.0,Card,bengaluru,Grocery shopping via app
+T07687,U169,2019-03-05,expense,rent,443.0,,Pune,Dinner at resto
+T10024,U092,2021-01-15,expense,utilities,569.0,UPI,Hyderabad,Paid electricity bill
+T01527,U138,2022-03-11,expense,education,957.0,Card,Ahmedabad,Uber to office via app
+T11735,U129,2022-03-18,expense,travel,199.0,Card,Jaipur,Monthly rent
+T01223,U148,2021-04-20,expense,others,64.0,Card,Delhi,Grocery shopping
+T05193,U143,2020-05-03,expense,utilities,496.0,Card,Hyderabad,Grocery shopping 
+T00405,U183,2019-05-15,income,other income,39404.0,Cash,Hyderabad,Course fee via app
+T01004,U125,2021-02-05,expense,utilities,2593.0,Cash,Lucknow,
+T10359,U091,2021-11-07,expense,rent,90.0,UPI,Delhi,Doctor visit cash
+T06531,U114,2021-10-17,expense,utilities,639.0,UPI,Chennai,Salary
+T07368,U097,2019-10-11,income,bonus,55210.0,Card,,Netflix subscription
+T12503,U101,2021-04-30,expense,food,2359.0,Cash,Chennai,
+T10901,U004,2021-03-01,expense,rent,1707.0,Card,Mumbai,Doctor visit
+T08474,U185,2020-08-30,expense,food,584.0,Cash,hyderabad,Grocery shopping
+T07620,U056,2021-05-08,expense,travel,220.0,Cash,Delhi,Netflix subscription
+T01926,U123,2019-02-16,expense,travel,399.0,Bank Transfer,Ahmedabad,Dinner at resto cash
+T01312,U148,2020-03-20,expense,rent,201.0,Card,Delhi,Grocery shopping
+T06567,U187,2021-07-24,expense,food,769.0,UPI,Bengaluru,Netflix subscription
+T12289,U018,2020-04-09,expense,rent,682.0,Card,Lucknow,Course fee
+T14663,U127,2020-10-21,expense,utilities,694.0,Cash,Chennai,Monthly rent
+T12325,U153,2020-01-03,expense,food,221.0,UPI,Chennai,Course fee
+T12416,U049,2019-06-23,expense,food,94.0,UPI,Hyderabad,Gift
+T10959,U177,2021-03-28,expense,food,34.0,aBnk Transfer,Delhi,Dinner at resto late
+T04867,U068,2019-10-11,expense,rent,90.0,Card,Jaipur,Grocery shopping
+T01321,U046,2022-02-01,expense,asvings,241.0,UPI,,Paid electricity bill
+T06329,U096,2021-03-11,expense,food,680.0,Bank Transfer,Chennai,Doctor visit via app
+T12690,U138,2021-01-13,expense,,380.0,UPI,Jaipur,Monthly rent via app
+T14439,U141,2021-03-27,expense,food,197.0,UPI,Mumbai,Monthly rent
+T12969,U178,2022-07-19,income,other income,40626.0,Cash,Lucknow,Monthly rent
+T02574,U071,2020-01-12,expense,rent,177.0,Card,Lucknow,Doctor visit
+T08160,U021,2019-06-20,expense,travel,237.0,UPI,Jaipur,Uber to office
+T04675,U114,2019-06-10,income,bonus,60588.0,Bank Transfer,mumbai,
+T00276,U096,2022-02-14,income,bonus,31477.0,Cash,Ahmedabad,Dinner at resto late
+T14016,U007,2020-07-27,expense,food,438.0,Card,Mumbai,Salary via app
+T12897,U056,2022-06-25,expense,utilities,781.0,Cash,Hyderabad,s2w5I0uFobe0
+T11381,U027,2022-08-26,expense,travel,90.0,Cash,Chennai,Grocery shopping via app
+T06826,U043,2022-03-08,expense,food,132.0,Cash,Bengaluru,Grocery shopping via app
+T02569,U185,2020-06-23,expense,food,962.0,UPI,Mumbai,Doctor visit
+T02144,U190,2019-03-14,expense,rent,65.0,Cash,Ahmedabad,Salary
+T08580,U130,2021-06-27,income,other income,65829.0,Bank Transfer,Kolkata,Dinner at resto
+T06340,U143,2021-12-16,expense,travel,555.0,UPI,bengaluru,Salary
+T01062,U039,2022-01-12,expense,rent,2279.0,Card,Jaipur,Gift
+T11766,U118,2019-09-17,expense,education,2923.0,UPI,Delhi,Doctor visit late
+T14150,U100,2020-03-23,expense,food,973.0,Cash,Mumbai,Gift via app
+T00411,U099,2019-07-16,expense,utilities,4400.0,UPI,Pune,Doctor visit
+T06833,U038,2020-09-24,expense,food,293.0,Cash,Hyderabad,Gift
+T03936,U016,2021-05-16,expense,food,546.0,Cash,Chennai,Gift
+T12569,U174,2022-09-05,income,bonus,68376.0,Bank Transfer,Kolkata,Netflix subscription
+T11798,U131,2021-05-31,expense,food,116.0,Cash,,v8OInj8e
+T12798,U003,2019-05-19,income,other income,69726.0,BankT ransfer,Mumbai,Monthly rent cash
+T04476,U047,2022-09-04,expense,rent,888.0,Card,bengaluru,Dinner at resto via app
+T08296,U115,2020-06-12,expense,savngs,144.0,Card,Delhi,Paid electricity bill
+T14486,U111,2022-08-10,expense,rent,3828.0,Cash,pune,Doctor visit late
+T08036,U079,2020-07-06,expense,entertainment,202.0,UPI,Hyderabad,Monthly rent
+T13345,U145,2020-10-05,expense,food,269.0,Card,Bengaluru,Gift
+T08936,U024,2022-01-17,expense,rent,202.0,UPI,Pune,Course fee
+T09579,U055,2022-03-30,expense,travel,839.0,Card,,Course fee
+T14579,U078,2019-12-05,expense,others,3903.0,Card,,Gift
+T08811,U103,2019-04-01,income,bonus,69445.0,UPI,Pune,Paid electricity bill
+T14096,U121,2020-12-30,expense,food,2799.0,Bank Transfer,Ahmedabad,Doctor visit via app
+T11765,U091,2022-10-25,expense,rent,741.0,Bank Transfer,Pune,Gift
+T05137,U169,2020-05-18,expense,rent,395.0,Card,Jaipur,Course fee
+T09260,U027,2020-07-03,expense,food,785.0,Cash,Mumbai,Paid electricity bill
+T14093,U059,2019-07-26,expense,rent,999999.0,Card,Ahmedabad,Monthly rent
+T09418,U060,2020-04-06,expense,utilities,583.0,Card,Pune,Course fee
+T07981,U162,2022-04-06,expense,rent,1533.0,Card,bengaluru,Monthly rent
+T11398,U062,2022-06-01,expense,utilities,349.0,Bank Transfer,Hyderabad,Salary
+T08153,U011,2020-10-14,expense,food,126.0,UPI,Hyderabad,Dinner at resto 
+T08564,U060,2021-06-14,expense,entertainment,122.0,Card,Mumbai,Netflix subscription late
+T14141,U117,2019-10-08,expense,savings,364.0,Card,Chennai,Gift
+T04247,U182,2022-05-19,income,bonus,55640.0,Card,Chennai,Salary
+T03398,U132,2021-11-27,income,bonus,59176.0,Bank Transfer,Kolkata,qU4FPOJp4Szqe6JTH
+T00247,U161,2022-06-02,expense,rent,320.0,,Lucknow,Course fee
+T00731,U104,2020-08-07,expense,food,2933.0,UPI,Chennai,
+T09564,U112,2020-10-01,expense,fod,346.0,Cash,Delhi,Uber to office
+T04864,U123,2020-07-25,expense,food,18.0,Bank Transfer,Delhi,Dinner at resto
+T02763,U068,2021-09-26,expense,rent,96.0,UPI,jaipur,Dinner at resto
+T08960,U091,2020-12-16,income,other income,42115.0,Card,Hyderabad,Doctor visit
+T10468,U159,2021-08-26,expense,food,125.0,UPI,delhi,Gift late
+T04520,U127,2019-11-26,income,bonus,57350.0,Card,Pune,Xqqy7QcK9sPSi11
+T12754,U147,2022-09-21,expense,food,64.0,Cash,Bengaluru,Salary
+T06534,U190,2022-08-01,expense,rent,459.0,,Chennai,Course fee
+T12239,U043,2022-03-22,income,salary,50893.0,UPI,Jaipur,Grocery shopping 
+T09825,U079,2019-01-11,expense,education,3182.0,Cash,Jaipur,Netflix subscription 
+T01359,U142,2020-12-09,income,bonus,69010.0,Bank Transfer,Chennai,Netflix subscription
+T07672,U061,2020-01-17,expense,utiltiies,6265.0,UPI,Delhi,Uber to office
+T02048,U011,2019-12-16,expense,rent,866.0,Bank Transfer,Delhi,Gift 
+T03874,U100,2021-09-26,expense,food,797.0,Card,Hyderabad,Monthly rent via app
+T01514,U126,2019-03-10,income,toher income,72011.0,,Mumbai,Paid electricity bill via app
+T12003,U073,2021-04-07,expense,food,158.0,,Lucknow,Dinner at resto
+T09527,U017,2019-02-20,expense,food,127.0,Cash,Bengaluru,Course fee
+T04077,U065,2019-01-14,expense,entertainment,1794.0,Card,Lucknow,Doctor visit
+T01060,U134,2022-03-06,expense,food,1755.0,Bank Transfer,chennai,Doctor visit
+T10548,U062,2022-11-03,expense,food,1914.0,Card,Pune,Monthly rent
+T08163,U057,2020-04-03,expense,travel,413.0,Cash,Kolkata,Course fee 
+T05655,U052,2021-06-13,expense,food,310.0,UPI,Kolkata,Doctor visit
+T11081,U099,2021-07-02,expense,food,1786.0,Card,Delhi,Paid electricity bill
+T00698,U091,2019-01-13,expense,travel,194.0,,Mumbai,Uber to office
+T05522,U155,2019-10-18,expense,utilities,372.0,Cash,Mumbai,
+T11429,U171,2020-03-21,expense,travel,1337.0,ash,Ahmedabad,
+T03692,U101,2021-11-13,income,bonus,51764.0,Bank Transfer,kolkata,Doctor visit
+T03357,U150,2021-08-29,expense,fodo,160.0,Cash,Mumbai,
+T05981,U175,2021-12-08,expense,entertainment,3479.0,UPI,Ahmedabad,Netflix subscription via app
+T14806,U147,2022-12-14,expense,food,369.0,UPI,Delhi,MZzqkp69hRtxLBPDO
+T05462,U056,2021-01-14,income,salary,54333.0,Card,Kolkata,3aoIXPm7mwleFUf
+T08460,U190,2020-07-12,expense,rent,599.0,Cash,Mumbai,Grocery shopping
+T12099,U184,2021-09-21,expense,food,1287.0,,Ahmedabad,Doctor visit late
+T07259,U012,2022-02-26,expense,food,67.0,Cash,lucknow,Gift 
+T06811,U165,2021-08-15,expense,food,153.0,Card,Ahmedabad,Doctor visit
+T09381,U114,2022-06-06,expense,food,132.0,UPI,Delhi,Salary
+T10527,U073,2020-04-22,expense,rent,854.0,Bank Transfer,Hyderabad,iz1WKeV7B
+T06649,U074,2021-09-09,expense,others,82.0,Cash,Chennai,Gift
+T08762,U138,2020-06-18,expense,travel,2714.0,UPI,Kolkata,Netflix subscription
+T11149,U011,2020-05-08,income,bonus,45790.0,Bank Transfer,Bengaluru,Paid electricity bill 
+T05259,U074,2019-08-24,expense,rent,286.0,Card,Bengaluru,Gift 
+T03709,U035,2022-02-28,expense,utilities,377.0,Bank Transfer,Delhi,Grocery shopping
+T11489,U023,2021-12-01,expense,utilities,228.0,Bank Transfer,Chennai,Uber to office 
+T06470,U026,2022-07-04,expense,utilities,525.0,Bank Transfer,Pune,Grocery shopping
+T11607,U045,2022-10-22,expense,others,503.0,UPI,Chennai,Gift
+T06922,U126,2020-05-08,expense,food,39.0,Cash,Ahmedabad,
+T01449,U121,2019-04-23,income,other income,43755.0,UPI,Bengaluru,Salary 
+T08461,U159,2019-07-04,expense,entertainment,383.0,Bank Transfer,Hyderabad,Dinner at resto
+T03951,U035,2019-08-26,expense,food,116.0,UPI,Jaipur,Gift
+T09096,U001,2022-01-08,income,other income,71407.0,UPI,Jaipur,Salary late
+T05767,U117,2019-03-09,expense,entertainment,398.0,Cash,mumbai,Gift
+T04544,U153,2019-02-10,expense,travel,156.0,Card,Mumbai,Grocery shopping 
+T13077,U183,2020-06-06,expense,,115.0,UPI,Pune,Uber to office cash
+T04611,U089,2022-01-28,expense,entertainment,812.0,Bank Transfer,Bengaluru,Gift
+T02837,U080,2022-02-21,expense,food,263.0,UPI,Pune,Dinner at resto
+T05068,U192,2020-05-17,expense,utilities,562.0,Card,Mumbai,Netflix subscription via app
+T07860,U190,2020-05-10,expense,reent,1084.0,Card,Jaipur,Netflix subscription via app
+T14753,U188,2019-12-01,expense,rent,858.0,,Hyderabad,Paid electricity bill late
+T03298,U082,2021-12-04,expense,food,1779.0,UPI,Delhi,Paid electricity bill cash
+T13940,U033,2022-04-22,expense,rent,1294.0,Cash,jaipur,Grocery shopping
+T06938,U181,2021-05-15,expense,food,50.0,Bank Transfer,,Grocery shopping
+T04509,U169,2020-06-06,expense,rent,384.0,Bank Transfer,Lucknow,Salary via app
+T13876,U142,2022-02-20,income,salary,45403.0,Card,lucknow,Doctor visit
+T05741,U154,2020-10-20,expense,rent,50.0,Card,Hyderabad,Grocery shopping
+T05359,U132,2022-08-30,expense,,336.0,Bank Transfer,Chennai,Doctor visit cash
+T01898,U024,2019-10-08,expense,food,623.0,Cash,,aeDKRcPdyZ7zubOxKrB
+T02895,U115,2020-01-05,expense,rent,426.0,Bank Transfer,Ahmedabad,Uber to office
+T08956,U068,2019-10-21,expense,travel,2386.0,Bank Transfer,Mumbai,Netflix subscription cash
+T01804,U101,2021-05-18,expense,food,77.0,Cash,Bengaluru,Salary via app
+T03201,U044,2020-02-18,expense,entertainment,476.0,Cash,Pune,Paid electricity bill
+T12142,U020,2019-08-18,expense,food,424.0,Card,Pune,Monthly rent
+T10851,U123,2020-01-17,expense,rent,1107.0,UPI,Ahmedabad,
+T03636,U107,2019-03-03,expense,food,564.0,Bank Transfer,,Dinner at resto cash
+T14787,U103,2020-07-23,expense,food,357.0,Cash,Delhi,Paid electricity bill
+T05918,U128,2020-11-17,expense,food,1148.0,Cash,Ahmedabad,Monthly rent
+T08936,U123,2020-03-26,income,bonus,60263.0,Bank Transfer,Lucknow,Dinner at resto
+T02790,U162,2020-08-22,expense,entertainment,532.0,UPI,Ahmedabad,Monthly rent
+T07112,U176,2020-10-21,expense,others,1849.0,Card,Jaipur,Dinner at resto 
+T12282,U128,2019-04-09,expense,rent,601.0,UPI,ahmedabad,Dinner at resto
+T09133,U181,2020-02-22,expense,rent,298.0,Bank Transfer,Hyderabad,Paid electricity bill
+T02433,U168,2019-02-16,expense,travel,1398.0,Card,Lucknow,Netflix subscription
+T04501,U001,2021-09-15,expense,rent,1017.0,Cash,Jaipur,Netflix subscription
+T08880,U017,2022-06-07,income,bonus,62771.0,Bank Transfer,Bengaluru,Dinner at resto
+T09991,U188,2022-10-14,expense,entertainment,771.0,Card,Delhi,Monthly rent cash
+T00869,U054,2020-03-10,expense,ravel,121.0,Cash,Bengaluru,Gift late
+T00459,U044,2022-10-29,expense,food,193.0,Card,Hyderabad,Uber to office
+T01181,U024,2022-03-06,expense,savings,908.0,UPI,Delhi,Course fee
+T11192,U003,2022-12-29,expense,rent,45.0,Card,Kolkata,Salary via app
+T05258,U064,2020-09-25,income,other income,78234.0,UPI,Delhi,Doctor visit
+T11925,U026,2019-01-21,expense,savings,425.0,Bank Transfer,Bengaluru,Salary
+T01779,U041,2021-09-01,expense,rent,1428.0,Bank Transfer,Mumbai,Monthly rent
+T11690,U114,2021-02-25,expense,rent,2131.0,Cash,Kolkata,Uber to office
+T10561,U006,2021-08-15,expense,entertainment,63.0,Cash,Ahmedabad,Uber to office
+T08582,U134,2021-07-02,expense,savings,122.0,Cash,Delhi,Salary
+T14101,U125,2021-02-11,income,,23965.0,Cash,Pune,Monthly rent late
+T08733,U101,2022-08-05,expense,travel,185.0,UPI,Pune,
+T05277,U135,2022-11-01,income,other income,59559.0,Cash,Hyderabad,Salary late
+T08374,U033,2021-12-10,expense,entertainment,349.0,Card,Mumbai,Dinner at resto cash
+T12850,U067,2019-12-15,expense,travel,33.0,Bank Transfer,Kolkata,9qdfmmq0h77
+T10551,U172,2020-11-06,income,bonus,73794.0,Cash,Lucknow,Course fee
+T00516,U043,2020-02-26,expense,rent,109.0,Card,Hyderabad,Doctor visit
+T08864,U184,2019-11-14,expense,ravel,1295.0,UPI,Ahmedabad,Uber to office cash
+T12715,U038,2021-03-06,expense,food,2469.0,Bank Transfer,,Uber to office
+T03529,U101,2020-03-04,expense,rent,673.0,Bank Transfer,Bengaluru,Course fee
+T05998,U072,2021-12-08,income,other income,54180.0,Cash,,Gift
+T04151,U011,2022-01-07,expense,entertainment,170.0,Card,Jaipur,Salary late
+T14638,U002,2020-09-05,expense,entertainment,269.0,Bank Transfer,Pune,Doctor visit
+T14581,U164,2021-08-31,expense,food,258.0,Card,Ahmedabad,Doctor visit 
+T14038,U034,2020-11-17,expense,food,220.0,Cash,Pune,Salary
+T04011,U064,2019-10-29,expense,utilities,948.0,Card,Mumbai,Course fee cash
+T01749,U138,2021-09-03,expense,food,194.0,Bank Transfer,,Salary
+T02894,U047,2022-02-09,expense,food,432.0,UPI,Hyderabad,Doctor visit
+T01774,U024,2022-08-23,expense,entertainment,1698.0,UPI,Mumbai,Course fee
+T05314,U175,2022-10-15,income,salary,47749.0,Bank Transfer,Hyderabad,Monthly rent
+T08251,U090,2022-10-12,expense,savings,2128.0,Bank Transfer,Chennai,Course fee
+T09911,U171,2020-03-02,expense,utilities,67.0,Card,Chennai,Netflix subscription
+T04930,U105,2022-11-26,income,salary,66880.0,Card,Kolkata,NRABXrd7ut5nKDVp
+T02255,U093,2021-04-23,expense,education,188.0,Cash,KOLKATA,Gift late
+T07134,U125,2020-08-31,expense,enteertainment,302.0,Bank Transfer,Mumbai,Paid electricity bill
+T03857,U125,2020-08-06,income,salary,34439.0,Bank Transfer,mumbai,Doctor visit
+T03650,U055,2021-09-16,expense,rent,472.0,Bank Transfer,Hyderabad,Gift late
+T12673,U025,2021-06-02,expense,,116.0,Bank Transfer,Bengaluru,Course fee
+T08253,U048,2022-03-26,expense,health,68.0,Cash,Chennai,Paid electricity bill
+T08784,U064,2022-02-21,expense,,410.0,UPI,,
+T03602,U121,2020-03-14,income,salary,51981.0,UPI,,Gift
+T08068,U174,2020-09-13,expense,savings,384.0,UPI,Pune,Doctor visit 
+T01819,U054,2022-03-20,expense,food,1758.0,Bank Transfer,Bengaluru,Course fee
+T10337,U173,2019-03-01,expense,food,576.0,Bank Transfer,Jaipur,
+T14994,U163,2020-06-14,income,other income,82797.0,Card,Delhi,Grocery shopping
+T11856,U075,2022-07-24,expense,food,754.0,UPI,Lucknow,Monthly rent
+T12509,U031,2020-01-08,expense,rent,930.0,Cash,Mumbai,Uber to office via app
+T09390,U152,2022-12-09,expense,rent,404.0,UPI,Mumbai,Course fee late
+T06855,U070,2021-11-16,expense,travel,1433.0,UPI,Bengaluru,Salary
+T04155,U092,2019-06-19,income,bonus,52153.0,UPI,Chennai,EfyaidMv6htyolwlIleX
+T07173,U120,2021-02-21,expense,travel,384.0,Bank Transfer,Ahmedabad,Monthly rent
+T04450,U049,2022-12-04,income,salary,66326.0,UPI,Chennai,Salary
+T11808,U096,2021-10-12,expense,utilities,585.0,Cadr,Pune,Dinner at resto
+T08744,U141,2022-10-05,expense,rent,821.0,,Hyderabad,Uber to office cash
+T08032,U154,2021-05-28,expense,rent,1355.0,Cash,Pune,Salary via app
+T01048,U170,2021-04-24,expense,food,433.0,PUI,Jaipur,Course fee late
+T05224,U181,2020-07-31,expense,travel,100.0,Cash,Mumbai,Salary cash
+T00723,U139,2022-03-09,expense,food,430.0,UPI,Pune,Monthly rent via app
+T05267,U045,2021-09-26,expense,food,498.0,Bank Transfer,Bengaluru,Course fee
+T12400,U047,2022-06-27,expense,food,252.0,Card,bengaluru,Netflix subscription via app
+T02709,U071,2020-07-10,expense,utilities,308.0,UPI,Delhi,Gift
+T09088,U034,2021-11-28,expense,foo,212.0,Bank Transfer,Pune,Netflix subscription
+T06115,U014,2021-01-03,expense,rent,2861.0,Card,Chennai,Grocery shopping
+T14781,U002,2019-02-11,expense,rent,46.0,Bank Transfer,Lucknow,Uber to office late
+T06642,U113,2022-09-23,expense,others,400.0,Bank Transfer,Hyderabad,JdXR9FZKNTYFjn
+T07993,U090,2020-08-20,expense,food,498.0,Bank Transfer,Chennai,Salary
+T09760,U029,2019-01-09,expense,food,162.0,Card,Kolkata,Course fee
+T09932,U175,2019-05-25,income,salary,67662.0,UPI,Bengaluru,Netflix subscription
+T14230,U172,2021-06-22,expense,education,1317.0,UPI,Jaipur,
+T03165,U040,2020-04-22,income,salary,76904.0,Cash,Bengaluru,Monthly rent via app
+T04190,U143,2022-02-11,expense,rent,1460.0,Card,Lucknow,Doctor visit cash
+T12955,U025,2021-05-06,income,other income,57331.0,UPI,Lucknow,Grocery shopping
+T12133,U101,2019-02-14,expense,rent,699.0,Card,Lucknow,POjsz0KTKSeYGj6g49b
+T00067,U186,2020-04-26,expense,food,54.0,Card,,Doctor visit late
+T01153,U192,2021-09-01,expense,utilities,-105.0,Bank Transfer,Mumbai,Doctor visit
+T13560,U124,2022-12-28,expense,ernt,967.0,Card,Kolkata,Salary
+T04353,U080,2020-09-02,expense,others,148.0,Cash,Kolkata,Doctor visit
+T13118,U188,2019-08-05,expense,,2442.0,,Lucknow,Uber to office
+T06086,U187,2019-10-07,expense,rent,635.0,Cash,Kolkata,Grocery shopping
+T13563,U056,2022-01-03,expense,rent,2743.0,UPI,Kolkata,Grocery shopping
+T13072,U161,2019-11-16,income,salary,63235.0,Card,mumbai,Dinner at resto
+T05054,U188,2022-01-10,expense,others,584.0,Bank Transfer,chennai,Dinner at resto late
+T08552,U001,2020-09-15,expense,education,863.0,UPI,Jaipur,Paid electricity bill
+T02832,U019,2019-08-06,expense,travel,1421.0,Card,Ahmedabad,k43n03NhguKSG
+T03724,U038,2021-09-26,expense,travel,2235.0,Cash,Bengaluru,Grocery shopping late
+T02855,U149,2020-01-23,expense,rent,1308.0,,Delhi,Salary late
+T09257,U192,2019-04-05,income,bonus,46988.0,UPI,Kolkata,Salary
+T00596,U039,2021-03-01,expense,food,878.0,Card,Jaipur,Doctor visit
+T00784,U080,2021-06-13,expense,food,2730.0,,Delhi,Uber to office late
+T14988,U169,2021-05-23,expense,rent,897.0,Cash,Jaipur,Course fee 
+T09421,U173,2021-02-23,expense,health,743.0,Cash,Pune,Doctor visit
+T03176,U043,2021-04-20,expense,food,44.0,Card,Hyderabad,Salary
+T06295,U109,2020-05-22,expense,travel,122.0,Card,Delhi,Gift 
+T14384,U148,2019-07-08,income,salary,70850.0,Card,Delhi,Salary 
+T13670,U010,2022-02-15,expense,others,263.0,UPI,Lucknow,Gift
+T10256,U139,2019-11-19,expense,utilities,491.0,Cash,Bengaluru,Doctor visit
+T04730,U111,2019-06-02,expense,entertainment,211.0,Cas,Lucknow,Uber to office
+T01235,U178,2022-12-26,income,bonus,36702.0,Card,Hyderabad,Netflix subscription via app
+T07309,U152,2021-01-11,expense,education,796.0,Cash,Mumbai,Dinner at resto cash
+T08887,U130,2022-07-04,expense,food,432.0,UPI,Lucknow,Gift
+T03180,U021,2022-08-20,expense,savings,789.0,Cash,,Doctor visit
+T11907,U039,2019-01-27,expense,rent,351.0,Bank Transfer,Jaipur,Uber to office
+T00765,U178,2019-08-27,expense,rent,229.0,UPI,,Uber to office
+T02327,U167,2022-05-08,expense,food,217.0,Bank Transfer,Chennai,Course fee
+T11092,U010,2022-04-25,expense,rent,3480.0,Bank Transfer,Mumbai,Netflix subscription
+T13429,U103,2019-06-23,expense,food,458.0,Card,mumbai,Netflix subscription 
+T09345,U036,2022-05-04,expense,rent,3208.0,UPI,Pune,Course fee 
+T06723,U042,2020-12-31,expense,travel,741.0,UPI,Pune,Dinner at resto
+T05385,U078,2020-07-02,expense,food,440.0,Bank Transfer,Mumbai,Doctor visit
+T07795,U065,2019-10-19,income,bonus,55293.0,Card,Ahmedabad,Paid electricity bill
+T11662,U149,2022-02-27,expense,travel,-1016.0,Card,delhi,
+T05633,U169,2022-12-31,income,other income,54173.0,Bank Transfer,Chennai,Monthly rent
+T03132,U172,2020-12-13,expense,rent,280.0,Bank Transfer,Chennai,Gift
+T10847,U135,2021-03-01,expense,rent,1417.0,Card,,Paid electricity bill
+T05596,U118,2020-02-05,expense,food,773.0,Card,Ahmedabad,Grocery shopping
+T08646,U026,2022-04-10,expense,rent,1823.0,UPI,Mumbai,Course fee late
+T11367,U154,2020-09-16,income,salary,63372.0,Card,Lucknow,nXnyJag3NqslID
+T00587,U176,2020-05-24,income,bonus,72326.0,Card,Bengaluru,Netflix subscription
+T03341,U107,2021-02-12,expense,food,516.0,UPI,Kolkata,
+T13447,U138,2022-05-09,expense,food,179.0,Card,Hyderabad,Uber to office
+T02071,U118,2019-08-22,expense,travel,2194.0,Ban Transfer,Pune,Netflix subscription
+T05873,U153,2021-02-12,expense,food,211.0,Bank Transfer,Lucknow,
+T09117,U158,2022-02-08,expense,food,4664.0,Bank Transfer,Pune,Grocery shopping
+T01906,U097,2021-04-06,income,salary,57099.0,Cash,lucknow,Doctor visit
+T02308,U107,2022-11-19,expense,entertaniment,354.0,Bank Transfer,,Monthly rent
+T10264,U182,2021-07-24,expense,food,59.0,Bank Transfer,Bengaluru,Doctor visit 
+T09373,U040,2021-03-30,expense,ernt,1048.0,Cash,Pune,Salary via app
+T08775,U066,2019-05-27,income,bous,47556.0,UPI,Jaipur,Paid electricity bill
+T05203,U004,2020-01-12,expense,ent,1067.0,Card,Kolkata,Salary
+T06039,U175,2021-05-24,income,salary,86069.0,Bank Transfer,delhi,
+T06319,U188,2019-07-11,expense,travel,79.0,UPI,Bengaluru,
+T09943,U044,2020-05-27,income,salary,58238.0,Bank Transfer,Lucknow,Dinner at resto 
+T04517,U011,2022-04-23,expense,food,4892.0,Bank Transfer,Ahmedabad,Salary
+T07537,U070,2021-05-04,expense,food,954.0,Bank Transfer,Pune,Course fee cash
+T06833,U038,2020-09-24,expense,food,293.0,Cash,Hyderabad,Gift
+T07656,U073,2019-10-30,expense,rent,228.0,Bank Transfer,JAIPUR,Grocery shopping via app
+T14804,U139,2020-11-09,expense,rent,1026.0,UPI,Hyderabad,Paid electricity bill
+T13477,U076,2022-11-20,expense,food,238.0,Bank Transfer,Mumbai,Uber to office 
+T04876,U037,2022-08-30,expense,food,308.0,UPI,Pune,A83ibfO0HNQn
+T12136,U133,2022-06-13,expense,,202.0,Bank Transfer,Bengaluru,Monthly rent via app
+T10793,U054,2019-10-12,expense,food,1025.0,Cash,Ahmedabad,Uber to office
+T04867,U068,2019-10-11,expense,rent,90.0,Card,Jaipur,Grocery shopping
+T09456,U131,2019-02-25,expense,food,165.0,Bank Transfer,Bengaluru,
+T07449,U075,2019-10-09,expense,utilities,208.0,Cash,Bengaluru,Gift
+T07317,U155,2020-07-10,expense,education,549.0,Bank Transfer,kolkata,Grocery shopping
+T03099,U050,2021-04-25,expense,foo,191.0,Card,Bengaluru,4YzMGoFJuaqFYAtEn5
+T03384,U134,2021-07-08,expense,education,663.0,UPI,Pune,Dinner at resto
+T01771,U143,2020-12-30,expense,health,1164.0,Card,bengaluru,Grocery shopping
+T13041,U146,2019-07-05,income,bonus,73046.0,Cash,Jaipur,Uber to office via app
+T01458,U016,2019-05-15,expense,others,551.0,Card,Delhi,Dinner at resto
+T04716,U033,2019-11-28,expense,utilities,999999.0,Card,Hyderabad,Gift
+T06263,U140,2022-10-20,expense,entertainment,260.0,Bank Transfer,Bengaluru,Paid electricity bill
+T11894,U173,2022-12-11,expense,utilities,56.0,Cash,Kolkata,Salary via app
+T06729,U128,2022-08-21,expense,food,101.0,,Mumbai,Netflix subscription via app
+T05764,U053,2021-10-22,expense,food,16324.0,UPI,Lucknow,Monthly rent
+T02093,U098,2022-05-26,expense,food,966.0,UPI,Chennai,Course fee
+T11370,U154,2019-06-21,expense,food,60.0,Cash,AHMEDABAD,Doctor visit
+T10923,U034,2020-06-21,expense,rent,558.0,Card,Delhi,Salary 
+T09824,U011,2020-01-28,expense,rent,510.0,UPI,Jaipur,
+T00827,U116,2021-09-05,expense,rent,208.0,UPI,Mumbai,Course fee
+T13555,U053,2020-05-18,expense,rent,121.0,UPI,hyderabad,Gift late
+T03476,U038,2019-05-28,expense,food,403.0,Card,Delhi,cP1wvFHklSagsgxhfd9M
+T13155,U189,2021-01-29,income,salary,72016.0,Card,Jaipur,Course fee 
+T07029,U192,2021-11-07,expense,travel,39.0,Bank Transfer,Bengaluru,Doctor visit
+T10412,U074,2020-08-16,expense,food,320.0,Bank Transfer,Delhi,Salary
+T11663,U158,2019-08-04,expense,food,658.0,UPI,Ahmedabad,Netflix subscription
+T01619,U124,2020-02-08,expense,rennt,452.0,Card,Hyderabad,Dinner at resto 
+T02710,U035,2022-06-22,expense,utiilities,205.0,Cash,Pune,Doctor visit
+T07279,U123,2021-09-05,income,bonus,67005.0,Cash,Bengaluru,Gift
+T05327,U088,2021-12-28,expense,rent,139.0,Bank Transfer,mumbai,Course fee
+T07209,U056,2022-04-19,expense,others,249.0,Cash,Delhi,Grocery shopping cash
+T08777,U094,2019-05-14,expense,utilities,693.0,Card,Chennai,Doctor visit late
+T01580,U170,2022-09-30,expense,rent,353.0,UPI,Mumbai,
+T08963,U014,2019-09-17,expense,rent,305.0,UPI,Pune,
+T07683,U117,2020-10-12,expense,fodo,533.0,Bank Transfer,Jaipur,Uber to office
+T07827,U020,2022-07-09,expense,utilities,382.0,Cash,Hyderabad,Dinner at resto via app
+T12185,U061,2019-09-09,expense,food,73.0,Cash,Chennai,Netflix subscription
+T06175,U069,2019-10-25,income,salary,72219.0,UPI,Jaipur,Dinner at resto
+T02291,U138,2022-10-16,expense,health,817.0,Bank Transfer,Ahmedabad,
+T14951,U167,2021-11-10,expense,utilities,594.0,Cash,Lucknow,zbr3V7MVv
+T12263,U047,2021-03-21,income,salary,47517.0,Card,Hyderabad,
+T01114,U044,2019-09-15,expense,utilities,735.0,Card,Chennai,Uber to office cash
+T02632,U090,2019-01-06,expense,savings,3791.0,UPI,kolkata,Netflix subscription
+T07202,U171,2022-06-11,expense,food,410.0,Cash,Chennai,Salary
+T08282,U015,2019-05-28,expense,food,423.0,UPI,Delhi,Dinner at resto
+T05359,U132,2022-08-30,expense,savings,336.0,Bank Transfer,Chennai,Doctor visit cash
+T09863,U177,2021-06-15,expense,food,829.0,UPI,Hyderabad,Gift
+T11879,U023,2020-09-07,expense,food,63.0,Bank Transfer,Lucknow,Doctor visit
+T04997,U093,2020-02-15,expense,education,651.0,Bank Transfer,Mumbai,Grocery shopping
+T13540,U113,2022-10-28,expense,utilities,3219.0,Cash,Pune,Monthly rent
+T04123,U061,2022-04-25,expense,food,173.0,UPI,Delhi,Uber to office late
+T03149,U007,2019-12-21,expense,rent,20.0,Cash,Kolkata,Doctor visit
+T09437,U047,2022-02-08,expense,entertainment,414.0,Cash,Kolkata,Doctor visit
+T05479,U166,2021-10-02,income,bonus,72899.0,Cash,Bengaluru,Monthly rent late
+T05478,U084,2021-06-11,expense,rent,16020.0,,Chennai,Doctor visit
+T08425,U081,2021-08-22,expense,rent,7808.0,Card,Delhi,Monthly rent
+T06798,U154,2019-04-16,income,other income,82130.0,Bank Transfer,Kolkata,Course fee
+T12628,U005,2021-10-08,expense,entertainment,318.0,Cash,Hyderabad,Netflix subscription
+T12152,U168,2019-09-03,expense,food,807.0,Bank Transfer,Pune,Uber to office
+T08027,U102,2021-08-17,expense,rent,855.0,Bank Transfer,Jaipur,Salary cash
+T09981,U047,2020-03-19,expense,food,499.0,Card,Delhi,Salary
+T07555,U124,2021-02-12,expense,tarvel,676.0,Card,Lucknow,Dinner at resto
+T04087,U166,2021-03-21,expense,utilities,1149.0,Card,Kolkata,Doctor visit late
+T02846,U180,2021-01-30,expense,rent,177.0,Bank Transfer,Kolkata,Uber to office cash
+T12892,U016,2019-09-28,expense,food,1723.0,UPI,Bengaluru,joUywaKv6e2x72PiKJW
+T01396,U105,2019-08-06,expense,food,8576.0,UPI,hyderabad,Salary
+T06047,U099,2019-10-12,expense,food,265.0,Bank Transfer,,Salary cash
+T05336,U080,2020-09-19,expense,food,136.0,Card,Jaipur,Course fee
+T04821,U050,2019-04-19,expense,food,191.0,Bank Transfer,Bengaluru,Course fee
+T12499,U160,2021-06-23,income,bonus,45356.0,Card,PUNE,
+T12276,U079,2019-09-22,expense,rent,36.0,Card,Hyderabad,Paid electricity bill
+T02587,U014,2021-10-09,expense,savings,194.0,UPI,Lucknow,Gift
+T10126,U048,2020-11-10,income,other income,63877.0,Bank Transfer,Chennai,Monthly rent
+T09315,U071,2020-12-03,expense,others,95.0,Bank Transfer,Ahmedabad,Dinner at resto via app
+T08373,U077,2019-06-11,expense,savings,254.0,Cash,Delhi,Netflix subscription
+T08044,U060,2022-06-13,expense,food,926.0,Card,Chennai,Dinner at resto 
+T11556,U060,2021-11-02,expense,savings,106.0,,Kolkata,Monthly rent
+T04649,U019,2022-03-19,expense,savings,192.0,Card,Delhi,Grocery shopping
+T00243,U024,2019-08-01,expense,rent,2898.0,Cash,,Uber to office
+T04374,U100,2019-12-08,expense,rent,2457.0,Cash,Chennai,Monthly rent
+T05979,U184,2019-11-28,expense,utilities,1133.0,Bank Transfer,Ahmedabad,Salary cash
+T11318,U047,2022-06-25,expense,food,579.0,Card,Hyderabad,Doctor visit
+T11999,U046,2022-12-30,expense,utilities,1162.0,Cash,Delhi,Paid electricity bill
+T05794,U167,2022-12-05,expense,food,251.0,UPI,Kolkata,Monthly rent
+T02314,U116,2021-07-23,expense,rentt,720.0,Cash,Jaipur,
+T00346,U021,2021-04-19,expense,,728.0,UPI,Ahmedabad,Salary
+T01691,U093,2021-12-07,expense,food,3093.0,Card,Bengaluru,Grocery shopping
+T08743,U070,2022-05-18,expense,rent,149.0,Card,Kolkata,Netflix subscription
+T00940,U126,2022-12-19,income,other income,66491.0,UPI,Chennai,Doctor visit
+T00787,U048,2022-08-20,expense,food,824.0,,Lucknow,Grocery shopping
+T10159,U071,2021-05-05,expense,travel,5021.0,Cash,,Grocery shopping cash
+T06391,U012,2020-08-06,expense,rent,485.0,Bank Transfer,Chennai,Netflix subscription 
+T03455,U138,2021-07-15,expense,entertainment,2005.0,Bank Transfer,Kolkata,
+T12315,U034,2020-04-11,expense,food,372.0,UPI,Kolkata,Netflix subscription 
+T03539,U179,2020-01-05,expense,travel,421.0,Cash,Mumbai,Dinner at resto
+T09092,U150,2022-08-23,expense,,42.0,UPI,Hyderabad,Uber to office
+T07963,U040,2019-01-14,expense,rent,180.0,Bank Transfer,Kolkata,Dinner at resto
+T03590,U020,2022-05-31,expense,food,7275.0,Card,Kolkata,Gift
+T05477,U170,2021-12-30,income,other income,35109.0,Bank Transfer,Bengaluru,Paid electricity bill via app
+T00834,U082,2022-06-23,expense,travel,763.0,Card,Lucknow,
+T08239,U064,2021-04-10,expense,food,174.0,ard,Lucknow,Salary
+T04746,U081,2019-09-29,expense,savings,526.0,Bank Transfer,,Doctor visit
+T07288,U044,2021-03-16,expense,food,375.0,Cash,Bengaluru,Dinner at resto
+T11010,U060,2022-02-23,income,salary,42325.0,Bank Transfer,Chennai,Grocery shopping
+T07609,U097,2022-12-07,expense,others,169.0,Bank Transfer,Jaipur,Course fee
+T08833,U016,2020-04-01,expense,rent,759.0,,PUNE,Uber to office
+T02854,U166,2020-08-14,income,other income,72568.0,Bank Transfer,Hyderabad,Dinner at resto cash
+T03902,U188,2022-08-26,expense,entertainment,198.0,Card,Bengaluru,Gift 
+T08993,U103,2022-08-03,expense,savings,2967.0,UPI,Delhi,Grocery shopping
+T07274,U087,2019-07-05,expense,education,1774.0,UPI,Delhi,Monthly rent
+T06568,U057,2021-10-26,income,salary,57068.0,UPI,Pune,Monthly rent
+T14445,U006,2021-01-26,expense,savings,186.0,Cash,Pune,Uber to office
+T06836,U130,2022-07-15,expense,food,480.0,Bank Transfer,Jaipur,Paid electricity bill
+T02554,U015,2020-11-29,expense,rent,369.0,Cash,Jaipur,Course fee
+T09643,U041,2020-10-14,expense,ret,210.0,Card,Lucknow,
+T03998,U167,2021-09-06,expense,food,76.0,Card,Lucknow,Dinner at resto via app
+T02805,U150,2020-01-06,income,salary,31607.0,Cash,Bengaluru,G37EFPMoP1SPj
+T03269,U048,2022-04-29,expense,food,1428.0,Cash,Bengaluru,c27Yxk7VFAI4MAOi8M
+T12828,U058,2019-09-08,income,other income,67648.0,Cash,Delhi,Course fee
+T02171,U060,2021-02-17,expense,rent,286.0,UPI,Chennai,Gift
+T10282,U027,2020-08-10,income,bonus,82294.0,Cash,Kolkata,
+T08267,U066,2020-03-08,expense,utilities,263.0,Cash,Hyderabad,Grocery shopping cash
+T04461,U056,2019-07-27,expense,rent,474.0,Card,Kolkata,Course fee
+T12109,U071,2021-07-08,expense,food,368.0,UPI,Bengaluru,Paid electricity bill via app
+T07265,U096,2019-08-03,expense,food,281.0,Card,Mumbai,Course fee 
+T07703,U173,2022-12-16,expense,food,209.0,Cash,Bengaluru,ossRbcoyP226TTiT7I9
+T10190,U151,2019-08-03,income,salary,80555.0,Bank Transfer,Ahmedabad,Monthly rent
+T13572,U016,2022-10-25,expense,food,1599.0,Card,Ahmedabad,Monthly rent late
+T08440,U022,2019-09-07,expense,food,195.0,Bank Transfer,Ahmedabad,Monthly rent
+T00086,U016,2020-06-08,expense,entertainment,118.0,Cash,Delhi,
+T06433,U116,2021-03-05,expense,food,1192.0,Cash,ahmedabad,
+T08346,U062,2022-07-26,expense,food,132.0,Bank Transfer,Lucknow,Dinner at resto
+T12033,U192,2019-07-25,expense,food,157.0,Card,Ahmedabad,Course fee
+T08814,U030,2019-03-18,expense,travel,653.0,Bank Transfer,Delhi,
+T08879,U002,2020-06-04,expense,food,168.0,Cash,kolkata,Salary
+T09149,U088,2020-06-16,expense,entertainment,789.0,Cash,Lucknow,acDe9Bkpk1qg
+T01359,U142,2020-12-09,income,bonus,69010.0,Bank Transfer,Chennai,Netflix subscription
+T13113,U019,2020-02-16,expense,entertainment,374.0,Card,Mumbai,Uber to office
+T14591,U014,2019-09-23,expense,others,287.0,Cash,Kolkata,Monthly rent
+T03160,U145,2021-11-14,expense,food,170.0,Cash,Delhi,Monthly rent
+T13542,U033,2020-09-07,expense,rent,2510.0,Bank Transfer,Chennai,XFEQmrlD5DAD
+T09882,U026,2020-05-10,expense,savings,58.0,Card,Kolkata,Paid electricity bill late
+T12450,U034,2021-03-06,expense,utilities,800.0,UPI,Bengaluru,fdNyYvsy0U2wJ7zrW
+T12852,U007,2022-09-19,expense,utilities,341.0,Card,Delhi,Monthly rent
+T06000,U103,2019-03-08,expense,food,21.0,Cash,Mumbai,Salary
+T12715,U038,2021-03-06,expense,food,2469.0,Bank Transfer,,Uber to office
+T02058,U035,2021-04-14,expense,education,29.0,Bank Transfer,Jaipur,Course fee
+T11241,U158,2019-12-28,expense,food,979.0,Bank Transfer,chennai,
+T02586,U190,2021-05-22,expense,travel,362.0,Bank Transfer,Ahmedabad,Gift
+T07438,U032,2021-12-18,expense,utilities,1923.0,Cash,Jaipur,Monthly rent
+T14586,U091,2019-04-29,expense,savings,305.0,UPI,Pune,Doctor visit
+T14098,U182,2019-04-16,expense,rent,2195.0,Cash,Kolkata,Monthly rent late
+T13903,U088,2020-08-11,expense,food,80.0,Cash,Hyderabad,Doctor visit
+T10603,U060,2021-04-28,income,salary,40092.0,UPI,Bengaluru,Gift
+T05262,U020,2021-05-23,expense,food,132.0,UPI,Chennai,Salary
+T01530,U148,2019-11-02,expense,travel,615.0,Bank Transfer,Mumbai,Uber to office via app
+T04437,U044,2020-03-17,expense,rent,186.0,Card,,Monthly rent
+T06030,U066,2020-09-09,income,salary,67118.0,Bank Transfer,Bengaluru,Paid electricity bill
+T04971,U148,2021-11-11,expense,entertainment,401.0,Card,Ahmedabad,
+T09642,U184,2019-12-11,expense,utilities,37.0,UPI,Chennai,Grocery shopping
+T11875,U135,2021-08-26,expense,travel,463.0,Card,Chennai,
+T06127,U128,2020-05-16,expense,food,399.0,UPI,Mumbai,Course fee
+T05888,U024,2022-09-23,expense,travel,1045.0,Cash,Chennai,6a9U3LhY
+T00999,U124,2022-11-07,income,other income,41974.0,Card,Mumbai,Grocery shopping
+T05690,U103,2020-09-10,expense,rent,3952.0,Cash,Pune,Doctor visit
+T13837,U157,2020-11-14,expense,rrent,293.0,Bank Transfer,,Doctor visit
+T00098,U021,2021-04-15,expense,rent,907.0,Card,Lucknow,Course fee
+T06681,U145,2021-06-09,expense,rent,-376.0,Card,Chennai,Uber to office
+T01272,U163,2022-02-23,expense,others,118.0,Bank Transfer,Kolkata,Dinner at resto
+T02556,U116,2020-04-10,expense,tilities,61.0,UPI,Chennai,Doctor visit
+T14196,U179,2022-05-31,income,other income,50302.0,UPI,Lucknow,Uber to office
+T13498,U143,2022-05-22,expense,rent,158.0,Card,pune,Course fee cash
+T03718,U170,2020-09-20,income,,94629.0,Cash,Ahmedabad,Dinner at resto
+T00943,U031,2021-05-27,expense,food,274.0,Cash,Delhi,Course fee cash
+T10799,U178,2022-05-13,expense,food,61.0,,mumbai,Grocery shopping
+T10976,U029,2021-09-27,expense,food,103.0,Bank Transfer,Delhi,Dinner at resto
+T13318,U186,2020-06-15,income,salary,38756.0,Card,Jaipur,Uber to office
+T14705,U180,2022-08-12,expense,rent,155.0,Cash,KOLKATA,Monthly rent
+T13559,U142,2019-03-01,expense,rent,1012.0,Bank Transfer,Pune,Course fee
+T10219,U108,2020-08-28,expense,rent,2667.0,UPI,Pune,Paid electricity bill
+T07334,U150,2021-01-08,expense,others,2066.0,Card,Ahmedabad,Salary
+T09675,U021,2021-03-04,income,salary,53293.0,Card,Pune,Grocery shopping
+T01685,U128,2020-05-18,expense,utilities,376.0,Card,Bengaluru,Paid electricity bill late
+T01147,U004,2020-12-03,income,other income,57500.0,Cash,Hyderabad,Course fee 
+T10646,U057,2022-10-08,expense,rent,51.0,UPI,Lucknow,Netflix subscription via app
+T06152,U005,2019-10-26,income,other income,75167.0,Card,Chennai,Salary
+T13916,U094,2021-07-13,expense,travel,324.0,Bank Transfer,,HlS6NoXrFhEE11K
+T02520,U088,2021-01-01,expense,health,193.0,Bank Transfer,Ahmedabad,Netflix subscription
+T07173,U120,2021-02-21,expense,travel,384.0,Bank Transfer,Ahmedabad,Monthly rent
+T06769,U086,2021-06-20,expense,others,357.0,Bank Transfer,Hyderabad,Salary cash
+T08376,U158,2019-04-05,income,other income,32642.0,,Lucknow,
+T12553,U029,2021-12-22,income,other income,102640.0,Cash,Jaipur,Grocery shopping via app
+T06369,U031,2021-05-24,expense,rent,33.0,UPI,Ahmedabad,Course fee cash
+T03063,U104,2020-08-30,expense,savings,4205.0,UPI,Pune,
+T12632,U099,2021-09-19,income,bonus,37303.0,UPI,Delhi,Uber to office
+T11089,U055,2020-09-05,expense,health,211.0,Cash,Hyderabad,Doctor visit
+T03978,U151,2022-10-30,income,other income,29719.0,Card,Pune,Gift
+T14319,U038,2019-05-08,expense,rent,273.0,Bank Transfer,Chennai,Dinner at resto cash
+T12677,U013,2022-11-22,income,salary,51984.0,Bank Transfer,,Monthly rent
+T03386,U178,2020-04-15,expense,food,50.0,Cash,Ahmedabad,Netflix subscription
+T05299,U081,2019-10-25,expense,rent,287.0,Card,Hyderabad,Paid electricity bill
+T07803,U139,2021-10-24,expense,fodo,248.0,Cash,Bengaluru,
+T09486,U166,2022-12-29,expense,health,669.0,UPI,Jaipur,Salary
+T01493,U114,2022-02-17,expense,food,333.0,Card,Kolkata,Dinner at resto
+T14336,U191,2020-04-18,income,bonus,78345.0,Bank Transfer,Pune,NDHF8tdqNewIJtTKw
+T03784,U120,2022-05-03,expense,utilities,737.0,Card,Bengaluru,Uber to office 
+T07340,U072,2022-04-26,expense,others,77.0,UPI,Kolkata,BqxPtAR949x0e
+T05449,U074,2019-03-14,expense,food,947.0,Card,Pune,Monthly rent cash
+T08234,U157,2022-12-31,expense,travel,305.0,Cash,Kolkata,Course fee
+T09784,U127,2021-03-12,expense,food,225.0,Bank Transfer,Ahmedabad,Dinner at resto 
+T13655,U082,2020-10-08,expense,,301.0,Card,Ahmedabad,Uber to office
+T08313,U075,2020-05-07,expense,food,247.0,Bank Transfer,Jaipur,Dinner at resto
+T00184,U148,2021-07-22,expense,rent,283.0,Bank Transfer,Chennai,Doctor visit 
+T11353,U028,2019-02-23,expense,food,575.0,UPI,Lucknow,Doctor visit 
+T05066,U174,2020-07-23,income,bonus,26373.0,Card,Kolkata,Uber to office
+T00400,U002,2019-09-04,income,bonus,66773.0,Card,Lucknow,
+T07142,U012,2022-05-24,expense,entertainment,90.0,Card,Lucknow,Salary
+T08719,U030,2022-11-11,expense,food,-121.0,Bank Transfer,Chennai,Uber to office 
+T11911,U034,2019-03-16,expense,food,206.0,Card,Jaipur,Paid electricity bill
+T04144,U022,2022-07-20,expense,others,616.0,,Mumbai,Paid electricity bill
+T09731,U184,2020-06-09,expense,travel,221.0,Card,Jaipur,Uber to office
+T05672,U107,2020-02-08,expense,travel,4244.0,Cash,ahmedabad,Course fee
+T03544,U043,2019-04-16,income,salary,68683.0,Cash,Delhi,Paid electricity bill via app
+T08307,U129,2021-08-27,expense,food,52.0,Cash,Bengaluru,
+T06238,U036,2022-05-28,expense,food,1143.0,Cash,Bengaluru,Grocery shopping late
+T11538,U017,2020-05-25,expense,food,225.0,Cash,Kolkata,Uber to office
+T06649,U074,2021-09-09,expense,others,82.0,Cash,Chennai,Gift
+T12743,U030,2022-04-06,expense,education,992.0,Card,Delhi,Course fee
+T08545,U100,2020-07-02,expense,food,8962.0,UPI,Chennai,Course fee late
+T00607,U005,2019-12-29,expense,entertainment,591.0,Cash,Mumbai,Salary
+T14210,U107,2019-11-21,expense,food,746.0,Cash,Pune,6WiM7VjSIV1PBvx9JNYn
+T13943,U056,2022-12-06,expense,rent,774.0,Cash,Hyderabad,Gift cash
+T11402,U125,2019-01-07,expense,utilities,525.0,Bank Transfer,Jaipur,Dinner at resto
+T11104,U075,2020-07-05,expense,foood,1316.0,Card,Delhi,Grocery shopping via app
+T05532,U083,2021-11-27,expense,entertainment,1463.0,UPI,Lucknow,Doctor visit cash
+T06860,U077,2021-06-22,income,salary,45405.0,Cash,Hyderabad,yLMEhzumBaMun
+T01701,U141,2020-02-20,expense,rent,26.0,Card,Delhi,Salary via app
+T13889,U052,2019-11-17,expense,savings,44.0,Bank Transfr,,Paid electricity bill cash
+T09301,U156,2021-02-08,expense,others,1364.0,Card,Ahmedabad,Course fee 
+T08787,U049,2021-05-06,expense,savings,117.0,Bank Transfer,Chennai,Gift cash
+T11677,U167,2019-03-04,income,salary,69051.0,Cash,Hyderabad,Gift
+T02964,U054,2019-01-19,expense,reent,257.0,Card,Jaipur,Uber to office
+T10151,U163,2022-11-08,expense,food,338.0,UPI,delhi,
+T14814,U080,2020-04-12,expense,education,2523.0,Bank Transfer,lucknow,Salary
+T05330,U100,2020-02-23,expense,food,717.0,UPI,mumbai,2zLMWnh03j7qGgL7
+T11792,U026,2022-12-07,expense,travel,43.0,Bank Transfer,Chennai,Grocery shopping cash
+T10208,U118,2019-01-22,expense,food,274.0,Cash,Chennai,Salary
+T06082,U073,2019-01-01,income,bonus,28500.0,Cash,Lucknow,Course fee
+T03270,U093,2019-01-28,expense,food,155.0,Card,hyderabad,Uber to office
+T09939,U066,2020-07-21,expense,rent,104.0,Card,Lucknow,
+T09658,U099,2020-12-09,expense,rent,1177.0,UPI,Hyderabad,Netflix subscription
+T13909,U014,2021-09-28,expense,rent,248.0,Cash,Mumbai,Grocery shopping 
+T11335,U129,2021-04-09,expense,travel,160.0,UPI,Pune,Grocery shopping late
+T11323,U153,2021-07-30,expense,rent,237.0,Card,Kolkata,Uber to office via app
+T07882,U009,2021-12-01,expense,entertainment,128.0,Cash,AHMEDABAD,Monthly rent
+T02281,U012,2019-04-28,expense,rent,528.0,UPI,Kolkata,Course fee 
+T09105,U085,2022-03-01,expense,entertainment,1749.0,Bank Transfer,Jaipur,Netflix subscription
+T08587,U108,2019-02-19,income,salary,69025.0,Bank Transfer,Pune,Course fee
+T10925,U084,2019-10-13,expense,rent,103.0,Card,Mumbai,Uber to office
+T13420,U094,2022-10-10,expense,food,80.0,Card,Kolkata,Uber to office
+T13541,U192,2020-11-22,income,bonus,69541.0,Card,Hyderabad,Course fee
+T05647,U078,2022-10-06,expense,health,3991.0,UPI,Jaipur,Gift late
+T03899,U060,2022-07-30,expense,health,374.0,UPI,Kolkata,Dinner at resto
+T10957,U053,2021-10-30,expense,food,258.0,Bank Transfer,Bengaluru,Monthly rent
+T12932,U014,2019-07-22,expense,food,70.0,Cash,Jaipur,IK9us8mCURGYbrNTJ
+T04637,U154,2019-06-16,expense,food,669.0,Bank Transfer,Jaipur,
+T11614,U079,2019-07-30,expense,others,1670.0,Card,Kolkata,Monthly rent
+T12543,U174,2019-10-23,income,salary,71102.0,Cash,Chennai,Salary
+T08210,U122,2021-07-05,expense,food,219.0,UPI,Ahmedabad,Uber to office late
+T13463,U138,2021-12-05,expense,utilities,157.0,UPI,delhi,Uber to office
+T08862,U012,2020-11-14,expense,travel,350.0,UPI,Delhi,Netflix subscription
+T03827,U022,2020-06-11,expense,retn,88.0,UPI,Kolkata,Grocery shopping
+T01239,U184,2021-07-05,expense,entertainment,7993.0,Cash,Lucknow,
+T08845,U084,2021-07-22,expense,entertainment,98.0,UPI,Mumbai,Salary
+T07040,U151,2021-07-07,expense,rent,520.0,UPI,Chennai,Netflix subscription late
+T05305,U086,2022-06-19,expense,food,3100.0,UPI,Delhi,Doctor visit 
+T08091,U018,2019-06-19,expense,rent,1258.0,Card,Mumbai,Monthly rent
+T13668,U076,2020-12-04,expense,rent,1116.0,Cash,Hyderabad,Uber to office 
+T13201,U169,2019-03-26,expense,travel,3108.0,Bank Transfer,Ahmedabad,mmSRiJ97wQUkI3B4gE
+T04196,U062,2021-03-07,expense,utilities,632.0,UPI,Kolkata,Salary
+T08947,U071,2022-08-25,expense,others,1372.0,UPI,Hyderabad,Gift
+T05045,U097,2020-09-30,expense,travel,449.0,Bank Transfer,Ahmedabad,Monthly rent
+T12929,U144,2021-06-20,income,bonus,54010.0,Card,Lucknow,Course fee
+T00947,U188,2021-07-23,expense,travel,1246.0,Bank Transfer,pune,Paid electricity bill
+T12343,U041,2020-02-23,income,other income,83267.0,,Bengaluru,Paid electricity bill
+T05292,U089,2021-06-15,expense,food,39.0,,Kolkata,
+T14478,U116,2019-04-07,expense,education,93.0,Bank Transfer,,Grocery shopping
+T10442,U042,2021-02-05,expense,rent,135.0,Card,Kolkata,Dinner at resto late
+T13190,U048,2021-12-02,expense,food,851.0,Cash,Chennai,Gift 
+T12959,U161,2020-01-12,expense,rent,100.0,Cash,Delhi,Uber to office
+T02772,U149,2020-05-28,expense,travel,221.0,Card,Ahmedabad,Gift
+T12824,U084,2019-11-02,expense,rent,626.0,Card,Mumbai,sUMzF12AO
+T09064,U075,2019-05-15,expense,savings,371.0,Bank Transfer,Hyderabad,
+T14041,U087,2021-04-04,expense,food,410.0,Bank Transfer,Pune,Uber to office
+T13138,U179,2019-12-24,expense,food,766.0,Bank Transfer,Hyderabad,ujSgBw0L0eydUCC
+T08405,U087,2021-10-21,expense,others,497.0,UPI,Pune,Salary
+T14434,U083,2021-06-20,expense,rent,80.0,UPI,Chennai,
+T11142,U002,2022-03-01,expense,rent,336.0,Card,Kolkata,Netflix subscription
+T01641,U110,2019-11-29,expense,others,535.0,Card,Hyderabad,Grocery shopping cash
+T03409,U081,2021-09-16,expense,food,1870.0,Cash,Delhi,Monthly rent
+T14140,U001,2021-03-18,expense,food,487.0,Bank Trannsfer,Ahmedabad,Dinner at resto
+T07397,U092,2019-10-19,expense,travel,442.0,UPI,Chennai,Course fee
+T07131,U086,2020-07-16,expense,travel,182.0,Bank Transfer,Jaipur,Uber to office
+T11628,U077,2020-11-30,expense,food,106.0,Card,Ahmedabad,Dinner at resto
+T02067,U089,2021-03-26,income,other income,65432.0,Card,Mumbai,
+T09201,U059,2021-05-04,expense,food,149.0,Cash,Ahmedabad,Paid electricity bill
+T12739,U164,2022-03-14,expense,entertainment,126.0,Card,Hyderabad,Doctor visit late
+T13772,U072,2020-04-17,expense,food,343.0,Cash,Hyderabad,Uber to office cash
+T03953,U092,2021-12-09,expense,food,117.0,UPI,Delhi,Grocery shopping
+T11263,U054,2021-03-11,expense,rent,578.0,,Ahmedabad,Dinner at resto
+T12787,U103,2022-03-10,expense,uitlities,717.0,Cash,Mumbai,Course fee
+T08885,U079,2019-05-19,expense,food,260.0,UPI,Bengaluru,Doctor visit
+T04273,U151,2021-11-26,expense,utilities,93.0,Card,Jaipur,Dinner at resto
+T01424,U050,2019-04-22,expense,rent,1579.0,Cash,delhi,Doctor visit via app
+T06037,U169,2020-09-09,expense,others,201.0,Card,Ahmedabad,Salary
+T14329,U031,2020-06-20,expense,travel,154.0,Cash,Delhi,Gift
+T03985,U035,2019-04-23,expense,food,494.0,Cash,Chennai,Grocery shopping
+T04004,U058,2022-02-10,expense,utilities,269.0,UPI,Bengaluru,Doctor visit
+T07865,U059,2020-03-31,expense,rent,1046.0,ard,Mumbai,O6bcnjjYb9S6RU
+T00347,U080,2020-02-07,expense,ssavings,2276.0,Cash,Hyderabad,Monthly rent late
+T07737,U035,2021-09-03,expense,savings,305.0,Bank Transfer,Ahmedabad,
+T05297,U021,2020-05-09,income,bonus,83971.0,Card,Pune,Paid electricity bill
+T11533,U121,2020-02-16,expense,food,1096.0,Bank Transfer,Lucknow,Doctor visit
+T05096,U191,2020-01-23,expense,rent,472.0,Cash,jaipur,Course fee cash
+T06771,U095,2019-01-16,expense,rent,364.0,Card,Chennai,Grocery shopping
+T14335,U021,2019-08-11,expense,rent,132.0,Cash,Chennai,Doctor visit via app
+T05884,U050,2020-07-15,expense,travel,405.0,Cash,Delhi,
+T07463,U131,2022-02-18,income,other income,59424.0,Card,Ahmedabad,Course fee late
+T03643,U038,2019-12-29,expense,ttravel,2502.0,Cash,Kolkata,Salary
+T03709,U035,2022-02-28,expense,utilities,377.0,Bank Transfer,Delhi,Grocery shopping
+T05981,U175,2021-12-08,expense,entertainment,3479.0,UPI,Ahmedabad,Netflix subscription via app
+T12860,U132,2021-04-08,expense,food,588.0,Card,,Monthly rent
+T13254,U185,2021-05-07,income,bonus,50395.0,Cash,Hyderabad,Dinner at resto cash
+T04048,U176,2020-08-28,expense,travel,100.0,Bank Transfer,Pune,
+T04097,U047,2021-03-23,expense,food,158.0,Bank Transfer,kolkata,Salary
+T13212,U010,2020-03-06,expense,,159.0,Card,Bengaluru,Salary
+T12675,U065,2022-01-08,income,salary,84815.0,Bank Transfer,Lucknow,Paid electricity bill
+T09917,U089,2022-05-17,expense,,470.0,Card,Bengaluru,Netflix subscription
+T04351,U103,2021-04-24,income,salary,66139.0,Bank Transfer,Jaipur,Paid electricity bill
+T07869,U042,2019-09-11,expense,food,352.0,Cash,Delhi,Grocery shopping
+T02317,U022,2020-07-23,expense,rent,169.0,UPI,kolkata,Uber to office cash
+T11707,U094,2019-07-05,expense,food,246.0,Bank Transfer,Kolkata,Paid electricity bill 
+T14343,U076,2020-05-20,income,other income,57479.0,Card,Lucknow,Dinner at resto
+T01436,U002,2020-01-15,expense,savings,1014.0,UI,Ahmedabad,Gift
+T09678,U145,2019-05-17,expense,travel,110.0,UPI,,Salary
+T09081,U062,2021-02-10,expense,food,123.0,Bank Transfer,Chennai,Grocery shopping
+T12133,U101,2019-02-14,expense,rent,699.0,Card,Lucknow,POjsz0KTKSeYGj6g49b
+T02971,U087,2019-09-02,expense,others,1274.0,UPI,Mumbai,Doctor visit
+T00388,U163,2020-01-10,income,onus,58567.0,Card,Pune,Monthly rent
+T00941,U010,2021-03-30,expense,travel,114.0,UPI,Hyderabad,Uber to office
+T03335,U016,2020-12-15,expense,savings,160.0,Card,,Netflix subscription
+T06644,U040,2019-02-17,expense,food,2414.0,Card,Hyderabad,
+T13478,U188,2019-05-23,expense,travel,423.0,Card,Delhi,sfB51hjfmMRG8ksj
+T12442,U059,2019-07-23,expense,rent,108.0,Bank Transfer,Bengaluru,Dinner at resto
+T08595,U016,2020-12-31,income,bonus,35484.0,UPI,Pune,Course fee via app
+T00975,U164,2020-03-13,expense,rent,111.0,Card,Pune,Grocery shopping late
+T13828,U065,2022-10-09,expense,rent,327.0,Cash,Mumbai,Salary via app
+T05535,U178,2019-02-13,expense,food,206.0,Bank Transfer,Delhi,Gift
+T12619,U092,2021-11-01,expense,entertainment,686.0,UPI,Chennai,Course fee
+T01798,U088,2022-11-11,expense,rent,882.0,Card,Hyderabad,Dinner at resto
+T00797,U157,2021-11-19,expense,education,223.0,Card,Kolkata,Gift
+T09466,U032,2022-12-31,expense,entertainment,2215.0,Bank Transfer,Bengaluru,
+T04721,U177,2019-12-30,expense,entertainment,2547.0,Bank Transfer,pune,Uber to office via app
+T12429,U136,2021-03-27,expense,savings,2378.0,Card,Chennai,Dinner at resto
+T02054,U043,2022-11-17,expense,,229.0,Card,Lucknow,Salary via app
+T12315,U034,2020-04-11,expense,food,372.0,UPI,Kolkata,Netflix subscription 
+T07910,U014,2019-02-26,expense,food,118.0,Card,Hyderabad,qU9bOAfrXAL9By1l
+T02467,U038,2020-01-09,expense,rent,2267.0,UPI,Ahmedabad,
+T09734,U141,2020-08-12,income,salary,34458.0,Card,,Uber to office via app
+T02968,U034,2021-08-25,expense,food,66.0,UPI,Delhi,
+T11994,U085,2019-01-19,income,bonus,44995.0,Bank Transfer,bengaluru,Salary
+T09872,U014,2019-03-10,expense,food,70.0,Bank Transfer,lucknow,Paid electricity bill cash
+T13319,U155,2022-04-07,expense,rent,293.0,Bank Transfer,Kolkata,Paid electricity bill
+T02615,U014,2022-08-03,expense,rent,384.0,Bank Transfer,delhi,iHHnqfUc3qRCQZfxsHp8
+T11863,U182,2021-03-08,expense,,33.0,,Kolkata,Monthly rent
+T03621,U192,2022-02-02,expense,food,57.0,Cash,Delhi,Salary
+T09751,U114,2020-01-22,expense,otherrs,155.0,Cash,Delhi,Salary
+T09018,U181,2021-04-01,income,salary,73760.0,UPI,Jaipur,
+T08690,U018,2021-04-29,expense,utilities,1125.0,Card,,Uber to office
+T02798,U035,2019-03-01,expense,rent,977.0,UPI,Hyderabad,Gift
+T02591,U045,2019-09-09,income,bonus,65529.0,Card,Bengaluru,Netflix subscription
+T01062,U039,2022-01-12,expense,rent,2279.0,Card,Jaipur,Gift
+T06809,U051,2020-04-04,expense,food,105.0,Card,Kolkata,Dinner at resto
+T14869,U073,2020-07-23,expense,ernt,842.0,UPI,Kolkata,
+T05670,U179,2021-06-17,expense,rent,142.0,Cash,Hyderabad,Uber to office
+T11085,U078,2022-12-18,income,salary,30957.0,Bank Transfer,Hyderabad,iD9bBr5Fax0Xb
+T01056,U132,2022-02-22,income,bonus,45439.0,Cash,Delhi,Salary late
+T03032,U085,2019-10-06,expense,travel,292.0,Card,Chennai,Salary via app
+T07222,U041,2019-08-17,income,other income,64523.0,Card,Lucknow,Doctor visit
+T00633,U046,2020-11-28,expense,savings,125.0,Card,,
+T05081,U070,2020-09-29,expense,rent,996.0,Bank Transfer,Lucknow,Salary cash
+T08430,U105,2019-01-26,expense,education,513.0,Bank Transfer,Chennai,Uber to office late
+T04218,U083,2019-04-16,expense,food,458.0,Cash,,Doctor visit 
+T02336,U009,2022-09-28,expense,rent,2617.0,Cash,Jaipur,Monthly rent late
+T10907,U095,2021-11-19,expense,travel,145.0,UPI,Lucknow,Paid electricity bill via app
+T14276,U052,2022-04-23,expense,utilities,692.0,Cash,Mumbai,
+T02774,U060,2020-04-30,expense,travel,420.0,Card,ahmedabad,Uber to office
+T09880,U155,2021-07-17,expense,utilitie,68.0,UPI,Jaipur,Gift
+T12323,U124,2019-04-27,expense,rent,980.0,UPI,Pune,Course fee
+T13713,U135,2022-03-30,expense,entertainment,164.0,Bank Transfer,Ahmedabad,Uber to office
+T04653,U093,2022-04-25,income,salary,43257.0,Cash,hyderabad,
+T14689,U077,2020-11-08,expense,rent,918.0,Cash,Mumbai,Salary
+T00486,U171,2019-06-16,expense,food,2104.0,Cash,Bengaluru,Netflix subscription
+T06743,U011,2019-08-16,income,salary,61099.0,Bank Transfer,Delhi,Salary
+T09543,U085,2020-05-05,expense,travel,250.0,Bank Transfer,Bengaluru,Doctor visit
+T13286,U082,2019-08-07,expense,savings,236.0,Bank Transfer,Mumbai,Paid electricity bill 
+T11115,U099,2020-05-20,expense,entertainment,98.0,Bank Transfer,KOLKATA,Netflix subscription
+T02863,U140,2022-12-24,expense,food,52.0,Bank Transfer,Chennai,Grocery shopping 
+T08964,U104,2022-08-09,expense,entertainment,238.0,Cash,Ahmedabad,Grocery shopping
+T09153,U092,2020-11-07,income,saary,57357.0,UPI,Chennai,Dinner at resto
+T04435,U104,2020-02-19,expense,,4660.0,Card,Mumbai,
+T01861,U027,2021-08-12,expense,health,349.0,Bank Transfer,Pune,Gift late
+T10701,U097,2021-05-02,expense,utilities,1334.0,UPI,Delhi,Dinner at resto
+T03099,U050,2021-04-25,expense,foo,191.0,Card,Bengaluru,4YzMGoFJuaqFYAtEn5
+T07656,U073,2019-10-30,expense,rent,228.0,Bank Transfer,JAIPUR,Grocery shopping via app
+T04750,U138,2020-12-08,expense,utilities,578.0,Cash,Mumbai,
+T11771,U006,2020-11-04,expense,food,309.0,UPI,Hyderabad,Salary
+T07334,U150,2021-01-08,expense,others,2066.0,Card,Ahmedabad,Salary
+T09388,U079,2020-02-24,expense,food,16.0,,Lucknow,Paid electricity bill
+T08374,U033,2021-12-10,expense,entertainment,349.0,Card,Mumbai,Dinner at resto cash
+T00588,U171,2019-07-06,expense,food,138.0,Card,chennai,Uber to office cash
+T10004,U163,2022-07-15,expense,food,198.0,Card,Chennai,Uber to office
+T05445,U141,2022-07-08,expense,rent,256.0,Card,Hyderabad,Monthly rent
+T09083,U057,2019-05-25,expense,utilitiess,546.0,Cash,Bengaluru,Uber to office late
+T04986,U153,2019-11-10,expense,savings,607.0,UPI,Delhi,Grocery shopping 
+T01671,U182,2019-02-07,income,other income,74790.0,Bank Transfer,Hyderabad,Grocery shopping via app
+T14854,U048,2022-06-07,expense,food,3843.0,Bank Transfer,,Monthly rent
+T05833,U078,2020-08-24,expense,entertainment,77.0,Cash,ahmedabad,Gift late
+T12850,U067,2019-12-15,expense,travel,33.0,Bank Transfer,Kolkata,9qdfmmq0h77
+T03026,U033,2022-01-31,expense,fod,30.0,Cash,jaipur,Netflix subscription 
+T10052,U136,2022-09-28,expense,eentertainment,116.0,UPI,Lucknow,Uber to office
+T14433,U078,2019-10-09,expense,rent,778.0,UPI,Jaipur,
+T00040,U137,2019-10-23,expense,entertainment,1438.0,Cash,Ahmedabad,Gift
+T14505,U163,2021-12-13,expense,ffood,1106.0,Cash,Mumbai,Grocery shopping
+T01143,U117,2021-10-21,expense,travel,260.0,Card,Chennai,Grocery shopping
+T10683,U183,2019-05-19,expense,food,1289.0,UPI,Mumbai,Gift via app
+T14161,U030,2019-05-31,expense,entertainment,854.0,Card,Bengaluru,Monthly rent via app
+T03881,U030,2021-12-03,expense,rent,116.0,Bank Transfer,Delhi,Grocery shopping
+T04318,U021,2020-11-10,expense,savings,105.0,UPI,Pune,Netflix subscription
+T04307,U076,2019-07-30,expense,food,76.0,Bank Transfer,Jaipur,Salary cash
+T02924,U168,2019-06-03,expense,food,1713.0,UPI,Lucknow,iT7C9PcFs7B3
+T05007,U136,2022-06-23,expense,travel,1915.0,Cash,Ahmedabad,L01zdhyI2hztZ
+T00496,U108,2020-12-20,expense,travel,946.0,Cash,,Salary
+T10630,U157,2022-08-17,income,bonus,93079.0,UPI,Lucknow,aOHbBN379r6VQEk
+T10906,U025,2019-04-16,expense,food,204.0,Card,Pune,Paid electricity bill
+T06640,U173,2021-09-13,expense,rent,230.0,UPI,Kolkata,Course fee
+T08359,U001,2019-08-06,income,salary,54358.0,UPI,Kolkata,Salary
+T09268,U028,2021-05-18,expense,food,-302.0,Bank Transfer,Mumbai,
+T07230,U150,2022-12-05,expense,rent,292.0,Bank Transfer,Lucknow,Course fee
+T12201,U191,2021-09-06,expense,rent,2620.0,Cash,Pune,Uber to office
+T00048,U175,2021-09-13,expense,utilities,1167.0,Bank Transfer,Lucknow,Doctor visit
+T13556,U061,2021-05-31,expense,utilities,72.0,Card,Ahmedabad,Gift via app
+T01497,U050,2021-03-01,expense,food,769.0,Bank Transfer,,Ng7AU2apyHhIGyUzbJ
+T05059,U103,2020-05-15,expense,entertainment,183.0,UPI,Mumbai,Gift
+T04735,U102,2021-06-12,expense,utilities,519.0,UPI,Delhi,Course fee late
+T06802,U015,2019-07-31,expense,utillities,37.0,Cash,Delhi,Netflix subscription cash
+T04661,U096,2022-10-06,expense,food,169.0,Cash,Hyderabad,Paid electricity bill
+T13414,U077,2022-10-31,expense,rent,364.0,Cassh,Ahmedabad,Gift
+T03627,U162,2021-08-12,expense,entertainment,41.0,UPI,Chennai,Doctor visit late
+T09859,U101,2021-11-29,expense,food,1148.0,,,
+T05463,U158,2019-10-08,expense,food,108.0,Bank Transferr,Lucknow,
+T05542,U039,2022-07-21,income,salary,67973.0,UPI,chennai,Gift late
+T14596,U028,2020-03-09,income,salary,64366.0,Bank Transfer,Kolkata,Uber to office late
+T11971,U023,2022-05-08,expense,travel,1675.0,Card,bengaluru,Gift
+T03081,U134,2019-09-27,income,other income,52781.0,Card,Pune,Uber to office
+T13739,U105,2019-07-01,expense,rent,96.0,UPI,Lucknow,Doctor visit
+T09391,U141,2022-12-20,expense,food,164.0,UPI,Jaipur,Grocery shopping
+T00696,U159,2019-05-22,expense,food,44.0,Bank Transfer,Jaipur,Gift
+T10057,U190,2022-03-16,expense,food,69.0,UPI,mumbai,Course fee
+T12740,U108,2022-08-16,expense,,335.0,UPI,Pune,Paid electricity bill
+T11543,U047,2021-08-12,income,salary,76398.0,UPI,Hyderabad,Doctor visit via app
+T01502,U113,2022-04-07,expense,food,508.0,UPI,Ahmedabad,Salary
+T00031,U065,2021-07-23,income,other income,53739.0,Cash,Chennai,Uber to office
+T04011,U064,2019-10-29,expense,utilities,948.0,Card,Mumbai,Course fee cash
+T09388,U079,2020-02-24,expense,food,16.0,,Lucknow,Paid electricity bill
+T06851,U016,2019-10-14,expense,food,78.0,Card,Jaipur,Paid electricity bill
+T02989,U009,2021-07-30,expense,rent,507.0,Card,Ahmedabad,Monthly rent cash
+T08581,U063,2020-01-15,expense,rent,199.0,Cash,Mumbai,Grocery shopping
+T01856,U134,2019-03-25,expense,food,298.0,Cash,Kolkata,Salary
+T12793,U089,2022-09-13,expense,travel,165.0,Card,Lucknow,Gift 
+T05622,U097,2019-08-21,expense,rent,123.0,Cash,Bengaluru,Gift
+T12272,U041,2021-12-13,expense,travel,30.0,Bank Transfer,Hyderabad,Dinner at resto cash
+T12757,U176,2022-07-14,expense,savings,93.0,Bank Transfer,Bengaluru,Gift
+T05163,U009,2019-02-12,expense,rent,2285.0,Bank Transfer,Pune,
+T10154,U060,2019-02-26,expense,utiities,430.0,Card,Chennai,Doctor visit
+T05391,U153,2019-11-23,expense,travel,259.0,Card,Delhi,Doctor visit
+T10860,U129,2022-09-02,expense,utilities,118.0,Cash,Ahmedabad,Uber to office
+T01848,U053,2019-10-13,expense,rent,273.0,Cash,Mumbai,Dinner at resto 
+T00564,U105,2019-07-12,expense,savings,127.0,Bank Transfer,Bengaluru,Paid electricity bill 
+T08691,U146,2019-10-06,expense,utilities,1033.0,Bank Transfer,ahmedabad,Uber to office
+T13070,U147,2019-10-06,expense,ren,244.0,Card,pune,Uber to office
+T12179,U111,2019-07-17,expense,utilities,517.0,Cash,Kolkata,Doctor visit
+T12766,U129,2021-01-03,expense,travel,581.0,Cash,Chennai,Grocery shopping
+T03625,U145,2019-07-14,expense,travel,232.0,Bank Transfer,Mumbai,Course fee
+T11395,U041,2019-11-11,income,bonus,53536.0,Cash,Mumbai,Netflix subscription
+T11704,U122,2021-09-28,expense,health,892.0,Card,Pune,Netflix subscription 
+T03688,U047,2020-11-20,expense,food,477.0,Bank Transfer,Bengaluru,
+T10711,U082,2021-01-10,expense,ffood,2913.0,,Lucknow,Doctor visit
+T11147,U096,2021-12-09,expense,food,130.0,UPI,Hyderabad,Paid electricity bill
+T05099,U111,2021-10-25,expense,travel,201.0,UPI,Kolkata,
+T02747,U027,2022-09-08,expense,rent,1201.0,Card,Delhi,Dinner at resto
+T02349,U037,2019-08-27,expense,food,2242.0,UPI,Delhi,Uber to office
+T08377,U180,2021-07-29,expense,rent,39.0,Bank Transfer,Delhi,Monthly rent 
+T03202,U140,2022-03-26,expense,food,195.0,UPI,Chennai,Doctor visit
+T11769,U163,2022-06-28,expense,utilities,822.0,Card,Ahmedabad,Paid electricity bill
+T02422,U175,2019-05-07,expense,rent,2568.0,UPI,Chennai,Grocery shopping
+T09883,U191,2020-05-11,expense,travel,166.0,Bank Transfer,Hyderabad,Netflix subscription
+T03235,U100,2019-12-05,expense,rent,943.0,UPI,Pune,PZDWIncKfwD90VSgk
+T03450,U058,2019-06-02,income,other income,41290.0,UPI,Bengaluru,Netflix subscription late
+T10226,U011,2019-02-21,expense,rent,244.0,Bank Transfer,Kolkata,TMdaq4hl2rzjm04j
+T10981,U076,2021-12-13,expense,rent,347.0,,Delhi,Gift
+T01438,U065,2022-10-08,expense,utilities,675.0,Bank Transfer,hyderabad,Doctor visit
+T12437,U122,2020-08-07,expense,food,517.0,UPI,Delhi,Doctor visit via app
+T11987,U054,2022-07-16,expense,travel,173.0,,Chennai,Netflix subscription 
+T05294,U061,2020-06-04,expense,utilitie,1635.0,Bank Transfer,Hyderabad,Monthly rent
+T06688,U076,2022-12-16,expense,rent,231.0,Cash,Delhi,Course fee
+T10827,U183,2020-10-04,expense,food,241.0,UPI,chennai,XFjR6G5OsOvToW8QF
+T13964,U054,2020-07-06,expense,utilities,153.0,Cash,Mumbai,Doctor visit late
+T00651,U098,2019-03-04,income,other income,42147.0,Bank Transfer,Pune,Uber to office
+T02361,U087,2022-06-24,expense,travel,564.0,UPI,Delhi,Doctor visit late
+T00675,U158,2022-12-09,expense,entertainment,14.0,Card,Jaipur,Uber to office
+T07000,U060,2021-12-07,income,bonus,46259.0,UPI,Lucknow,Salary 
+T00388,U163,2020-01-10,income,onus,58567.0,Card,Pune,Monthly rent
+T05129,U139,2019-08-18,expense,food,289.0,Bank Transfer,Jaipur,Monthly rent
+T01474,U160,2020-09-21,expense,rent,64.0,Bank Transfer,Lucknow,Uber to office 
+T03531,U014,2021-03-29,expense,food,1398.0,UPI,Lucknow,Doctor visit
+T05461,U078,2020-05-06,expense,utilities,3336.0,Bank Transfer,Bengaluru,Gift
+T04411,U027,2021-08-30,expense,entertainment,120.0,Bank Transfer,Jaipur,Doctor visit
+T03091,U019,2019-01-28,expense,rent,104.0,Cash,Bengaluru,Gift
+T13994,U191,2022-04-08,expense,travel,306.0,Card,Lucknow,Doctor visit
+T07982,U182,2020-08-17,expense,food,144.0,Card,Hyderabad,QPiy4huoA0Jw
+T02465,U026,2022-01-28,expense,rent,12092.0,Card,Mumbai,Grocery shopping
+T03945,U172,2022-01-06,expense,entertainment,213.0,Cash,Delhi,Salary late
+T08402,U118,2021-05-12,expense,rent,632.0,UPI,Mumbai,Monthly rent
+T05411,U019,2019-09-18,expense,travel,854.0,Bank Transfer,Jaipur,Gift
+T08832,U033,2020-01-07,expense,food,858.0,Cash,Hyderabad,Gift late
+T14980,U069,2021-12-07,income,other income,18089.0,Card,Kolkata,FoqvcgvAIU6I
+T07487,U040,2020-11-27,expense,savings,1144.0,Bank Transfer,Pune,Doctor visit
+T11921,U083,2020-09-04,expense,utiliies,162.0,Bank Transfer,Lucknow,Monthly rent via app
+T14492,U192,2021-10-23,expense,rent,193.0,Card,chennai,Doctor visit
+T00684,U103,2020-10-22,expense,travel,823.0,UPI,Mumbai,
+T06002,U125,2019-09-06,expense,travel,2308.0,UPI,Ahmedabad,Doctor visit
+T13015,U016,2021-03-11,expense,rent,162.0,Cash,Chennai,Uber to office
+T07936,U128,2020-10-31,expense,rent,446.0,Card,Lucknow,Grocery shopping
+T02920,U017,2020-05-25,expense,food,225.0,Cash,Kolkata,Uber to office
+T14233,U146,2021-01-11,expense,rent,331.0,Card,Ahmedabad,Uber to office cash
+T06265,U163,2019-03-05,income,salary,63985.0,Bank Transfer,Chennai,Uber to office cash
+T12721,U164,2020-11-26,expense,travel,277.0,Card,Bengaluru,
+T03429,U167,2019-06-30,expense,rent,133.0,Bank Transfer,Hyderabad,Gift
+T09304,U186,2022-03-01,expense,,642.0,Cash,Kolkata,Doctor visit
+T03107,U111,2022-03-07,expense,education,731.0,Card,Jaipur,Grocery shopping
+T12204,U131,2020-11-22,expense,rent,241.0,UPI,Mumbai,Doctor visit
+T06757,U035,2019-04-17,expense,food,469.0,Cash,Kolkata,Uber to office
+T11334,U151,2019-07-09,expense,travel,653.0,UPI,Lucknow,Salary
+T14901,U128,2019-09-11,expense,rent,91.0,Bank Transfer,Lucknow,Salary late
+T11599,U001,2022-05-04,expense,food,240.0,Card,LUCKNOW,Monthly rent
+T11346,U027,2022-07-14,expense,travel,1950.0,Cash,Pune,Course fee late
+T13975,U018,2019-02-21,expense,utilities,1052.0,Bank Transfer,Kolkata,Course fee cash
+T09922,U087,2021-04-11,expense,utilities,540.0,Card,Bengaluru,Uber to office
+T00416,U135,2022-08-23,expense,utilities,343.0,Card,Bengaluru,Paid electricity bill
+T10837,U123,2021-02-04,expense,rent,408.0,Bank Transfer,hyderabad,Salary
+T07835,U094,2019-09-17,expense,travel,962.0,Card,Bengaluru,Uber to office
+T09897,U054,2022-01-19,expense,food,105.0,UPI,Mumbai,Uber to office late
+T00365,U156,2020-10-30,expense,rnet,463.0,Card,Chennai,Dinner at resto cash
+T03657,U030,2021-10-09,expense,savings,310.0,Bank Transfer,Delhi,Course fee
+T04775,U088,2020-10-18,income,salary,74889.0,Card,Hyderabad,Dinner at resto
+T13230,U109,2022-11-13,expense,food,458.0,UPI,Hyderabad,Dinner at resto
+T10904,U010,2021-11-22,expense,food,1478.0,Bank Transfer,Kolkata,Uber to office
+T00460,U044,2021-05-09,expense,travel,41.0,Cash,Pune,
+T14310,U169,2022-06-21,expense,entertainment,396.0,UPI,Hyderabad,Gift cash
+T12406,U175,2021-04-16,expense,rent,249.0,Bank Transfer,Pune,Monthly rent 
+T00301,U035,2020-10-11,expense,entertainment,320.0,Card,Hyderabad,Gift
+T10898,U059,2021-10-31,expense,rent,100.0,Cash,Lucknow,Paid electricity bill 
+T02355,U165,2019-05-17,expense,rent,183.0,Card,Chennai,wgcz56ZSoAskmVaTRvCI
+T02435,U063,2020-07-23,expense,food,1029.0,Bank Transfer,Kolkata,Salary
+T05084,U013,2022-10-06,income,bonus,28536.0,UPI,Lucknow,Netflix subscription
+T01804,U101,2021-05-18,expense,food,77.0,Cash,Bengaluru,Salary via app
+T08897,U129,2022-10-24,income,othe rincome,80354.0,UPI,Ahmedabad,
+T09268,U028,2021-05-18,expense,food,-302.0,Bank Transfer,Mumbai,
+T12867,U139,2021-08-10,expense,food,519.0,Card,Delhi,Gift
+T11419,U155,2019-12-09,income,bonus,49898.0,UPI,Ahmedabad,Gift
+T10481,U013,2021-05-21,expense,food,262.0,Bank Transfer,jaipur,Gift 
+T00071,U039,2021-08-21,expense,travel,732.0,Card,Jaipur,Monthly rent
+T01831,U181,2020-09-23,expense,utilities,990.0,Card,,
+T11340,U105,2022-09-24,expense,food,621.0,Card,delhi,Netflix subscription
+T03572,U080,2022-01-18,income,salary,77205.0,Cash,Ahmedabad,Doctor visit
+T09017,U043,2020-12-18,income,bonus,56120.0,UPI,Pune,MK3lSndb6WS7tFqrXaF
+T10977,U046,2020-06-02,expense,rent,764.0,Card,Bengaluru,Doctor visit
+T03614,U103,2022-09-05,income,other income,66793.0,Bank Transfer,Jaipur,Gift
+T13247,U174,2022-10-24,expense,travel,699.0,Bank Transfer,lucknow,Paid electricity bill
+T08718,U011,2021-07-03,expense,entertainment,479.0,Bank Transfer,Jaipur,Uber to office cash
+T11839,U170,2019-02-03,expense,food,49.0,Cash,Delhi,Salary 
+T00613,U142,2022-08-11,expense,rent,757.0,Card,jaipur,
+T14326,U133,2019-03-10,income,salary,84045.0,Bank Transfer,Delhi,Grocery shopping
+T08030,U162,2019-07-14,expense,food,651.0,Bank Transfer,Mumbai,Monthly rent
+T07376,U184,2021-05-07,expense,,1171.0,UPI,Jaipur,Salary late
+T11446,U067,2021-06-03,expense,savings,128.0,Card,Pune,Monthly rent 
+T09185,U098,2021-11-18,expense,utilities,926.0,Cash,Lucknow,Uber to office
+T04122,U001,2021-06-15,expense,food,885.0,Card,Hyderabad,Course fee cash
+T00672,U097,2022-07-23,expense,rent,541.0,UPI,Kolkata,Paid electricity bill late
+T13169,U142,2021-12-09,income,salary,45105.0,Bank Transfer,mumbai,Dinner at resto
+T05241,U102,2021-09-08,expense,utilities,484.0,Card,Chennai,Salary
+T05468,U150,2021-09-07,expense,food,1007.0,Card,Delhi,Doctor visit
+T00447,U085,2021-06-10,expense,travel,66.0,UPI,,
+T13486,U166,2020-08-27,income,other income,56305.0,UPI,Mumbai,65VF51AQGuwEBx9le
+T10961,U184,2022-01-24,expense,health,107.0,Bank Transfer,Hyderabad,Monthly rent
+T05315,U156,2021-04-07,income,other income,68850.0,Card,lucknow,Doctor visit
+T10579,U003,2021-06-15,income,other income,76958.0,UPI,Kolkata,Gift
+T12998,U089,2021-12-01,expense,utilities,2045.0,Bank Transfer,mumbai,Netflix subscription
+T06551,U069,2020-11-07,expense,rent,1141.0,Bank Transfer,delhi,Doctor visit
+T06691,U008,2022-11-25,expense,rent,366.0,Bank Transfer,Pune,Uber to office via app
+T06581,U071,2022-09-20,expense,food,1477.0,Cash,Jaipur,Dinner at resto
+T07799,U133,2022-09-11,expense,savings,1396.0,Bank Transfer,Hyderabad,Netflix subscription
+T10928,U039,2019-08-13,expense,rent,181.0,UPI,Delhi,
+T13251,U181,2022-08-30,expense,rent,1153.0,UPI,,Course fee late
+T14784,U171,2022-06-06,income,other income,76300.0,UPI,Delhi,Monthly rent late
+T13232,U155,2022-11-27,income,other income,76761.0,Cash,Chennai,
+T10094,U013,2020-01-01,expense,rent,159.0,UPI,delhi,Zrtmb5kF
+T08390,U043,2021-12-11,expense,rent,51.0,Bank Transfer,Lucknow,Uber to office
+T06958,U097,2020-08-19,expense,rent,689.0,Bank Transfer,Hyderabad,Course fee
+T03095,U093,2020-01-14,expense,health,393.0,Card,Mumbai,Salary
+T11852,U144,2019-02-07,expense,health,150.0,Cash,,tJLWfatyKKNn
+T00313,U045,2021-07-31,expense,savings,533.0,UPI,Jaipur,Salary
+T00052,U192,2022-12-07,expense,entertainment,490.0,Cash,Kolkata,Salary 
+T05500,U167,2021-06-09,expense,utilities,4982.0,Cash,Delhi,wmHgznKmpowFHyt9W
+T09398,U007,2020-02-29,expense,entertainment,259.0,UPI,Lucknow,Netflix subscription 
+T09853,U029,2020-09-22,expense,rent,512.0,Bank Transfer,Mumbai,
+T00997,U168,2019-08-30,income,bonus,83243.0,Cash,Bengaluru,Monthly rent
+T14800,U186,2020-09-25,expense,food,167.0,UPI,Lucknow,Gift
+T06011,U095,2020-06-19,income,salary,45596.0,Card,Hyderabad,Monthly rent
+T10988,U190,2019-08-24,expense,entertainment,59.0,Bank Transfer,jaipur,Netflix subscription
+T08625,U034,2020-06-09,income,bonus,66152.0,Card,Lucknow,Monthly rent
+T04904,U062,2020-09-06,expense,food,627.0,Cash,Jaipur,Gift late
+T11343,U098,2021-06-17,expense,food,481.0,Cash,Pune,Grocery shopping
+T01167,U152,2022-02-07,expense,rent,175.0,UPI,Lucknow,Salary late
+T14978,U074,2020-04-15,expense,travel,2623.0,Card,Ahmedabad,Dinner at resto late
+T11263,U054,2021-03-11,expense,rent,578.0,,Ahmedabad,Dinner at resto
+T08562,U163,2019-01-07,expense,rent,1033.0,Cash,Kolkata,Monthly rent
+T01708,U177,2021-01-05,expense,food,9336.0,UPI,Hyderabad,Salary cash
+T04528,U128,2020-07-10,expense,utilities,1763.0,Bank Transfer,Mumbai,
+T14644,U116,2019-05-29,expense,entertainment,717.0,Cash,Bengaluru,
+T01055,U107,2019-01-27,expense,reent,2108.0,Cash,hyderabad,Salary
+T06410,U120,2022-06-17,income,other income,62830.0,Card,Delhi,Monthly rent 
+T10738,U028,2019-07-09,income,other income,53160.0,Card,Delhi,Uber to office
+T07789,U144,2019-08-21,expense,food,187.0,,chennai,Paid electricity bill
+T13801,U107,2019-07-22,expense,fod,60.0,Card,Chennai,Course fee
+T10057,U190,2022-03-16,expense,food,69.0,UPI,mumbai,Course fee
+T09402,U119,2020-10-15,expense,rent,356.0,Bank Transfer,Ahmedabad,Netflix subscription
+T02015,U088,2022-06-25,income,salary,70197.0,UPI,Pune,Doctor visit
+T06796,U137,2019-05-29,expense,food,186.0,Bank Transfer,Bengaluru,sLbzFHE7xorbFJO
+T11932,U167,2021-07-12,expense,entertanment,742.0,Card,Mumbai,Doctor visit via app
+T07783,U007,2019-06-21,expense,food,180.0,,Lucknow,Course fee late
+T05385,U078,2020-07-02,expense,food,440.0,Bank Transfer,Mumbai,Doctor visit
+T01012,U113,2021-02-15,expense,food,-348.0,Bank Transfer,Lucknow,Dinner at resto 
+T09875,U139,2022-12-07,expense,rent,1309.0,Bank Transfer,ahmedabad,VvCANTHjANzcC2I
+T04047,U047,2022-12-13,income,salary,94390.0,Card,Chennai,Salary via app
+T01133,U190,2020-08-03,expense,utilities,1373.0,Card,Pune,Paid electricity bill
+T09758,U045,2020-02-23,income,other income,24467.0,UPI,Kolkata,Grocery shopping
+T04936,U007,2022-06-21,expense,health,70.0,Bank Transfer,Jaipur,Gift
+T08788,U096,2022-05-23,expense,rent,92.0,Cash,Bengaluru,Paid electricity bill late
+T05225,U172,2021-02-02,expense,food,986.0,Cash,,Gift
+T02155,U163,2019-04-29,expense,utilities,1049.0,Cash,Chennai,Uber to office
+T03262,U189,2022-11-13,expense,food,138.0,Cash,mumbai,
+T04186,U092,2020-03-25,income,other income,64199.0,Bank Transfer,Mumbai,Dinner at resto late
+T08595,U016,2020-12-31,income,bonus,35484.0,UPI,Pune,Course fee via app
+T03516,U005,2019-09-23,expense,entertainment,166.0,Bank Transfer,Hyderabad,Monthly rent 
+T07180,U084,2019-07-24,expense,food,152.0,Cash,Lucknow,Uber to office
+T05677,U128,2021-09-05,expense,rent,295.0,Cash,Chennai,Dinner at resto
+T03259,U143,2022-08-13,expense,others,691.0,Bank Transfer,mumbai,Paid electricity bill
+T07295,U062,2022-06-04,expense,utilities,63.0,Cash,mumbai,Gift
+T00457,U184,2021-08-23,expense,food,531.0,Bank Transfer,delhi,Paid electricity bill via app
+T13571,U109,2020-11-15,income,bonus,71407.0,Bank Transfer,,Doctor visit 
+T00441,U065,2020-03-26,expense,rent,209.0,Bank Transfer,Delhi,Course fee via app
+T09807,U175,2020-10-27,expense,fod,178.0,Cash,Hyderabad,Dinner at resto
+T07075,U109,2019-11-11,expense,food,818.0,Cash,Mumbai,Doctor visit
+T11203,U019,2019-04-06,expense,food,5166.0,Card,Hyderabad,qii01rPKqydZctF79A7o
+T03485,U020,2020-01-26,income,other income,59787.0,Cash,Jaipur,Gift
+T07570,U098,2022-10-04,expense,othes,340.0,Card,Chennai,Uber to office
+T05578,U128,2021-05-31,expense,food,135.0,Cash,,uYLlggvtb4kvcrRY
+T05205,U115,2020-01-12,expense,food,363.0,,Delhi,Course fee
+T09024,U192,2019-08-31,income,salary,69187.0,Cash,Lucknow,Uber to office via app
+T12916,U114,2020-04-01,expense,savings,5077.0,Bank Transfer,Pune,Doctor visit
+T12738,U094,2019-03-05,expense,utilities,1059.0,Cash,Hyderabad,Monthly rent
+T04004,U058,2022-02-10,expense,utilities,269.0,UPI,Bengaluru,Doctor visit
+T07094,U031,2019-09-18,expense,rent,310.0,Bank Transfer,Kolkata,Dinner at resto
+T13289,U023,2021-02-10,expense,entertainment,1227.0,Cash,Lucknow,
+T00585,U045,2019-08-26,expense,travel,331.0,Card,Delhi,Gift cash
+T14843,U169,2022-05-09,expense,food,3520.0,Cash,Mumbai,Paid electricity bill
+T01660,U057,2019-04-03,income,other income,52232.0,,Lucknow,
+T14859,U062,2019-10-12,expense,others,1489.0,Bank Transfer,Jaipur,Monthly rent
+T13128,U001,2020-06-02,expense,food,13556.0,Bank Transfer,Delhi,Dinner at resto
+T04838,U035,2020-06-17,expense,rent,542.0,UPI,Hyderabad,Paid electricity bill
+T02202,U095,2021-10-01,expense,utilities,150.0,,Jaipur,
+T04343,U100,2022-02-21,expense,savings,647.0,Card,Bengaluru,Dinner at resto
+T03612,U135,2020-11-09,expense,savings,1030.0,Cash,Lucknow,Course fee
+T00250,U013,2021-05-24,income,bonus,46462.0,Cash,Hyderabad,Gift
+T11976,U135,2019-12-27,income,other income,58867.0,UPI,Chennai,Dinner at resto 
+T00140,U077,2021-10-29,expense,others,885.0,Bank Transfer,Chennai,Salary cash
+T05935,U022,2019-08-05,expense,utilities,5122.0,UPI,Ahmedabad,Doctor visit
+T04241,U117,2019-05-08,expense,entertainment,1735.0,Cash,bengaluru,Dinner at resto
+T04469,U122,2019-04-21,expense,food,720.0,Cash,Hyderabad,Doctor visit
+T08105,U188,2021-06-20,expense,food,564.0,Bank Transfer,Bengaluru,Dinner at resto cash
+T03219,U009,2020-02-20,expense,entertainment,1982.0,Cash,Ahmedabad,Salary
+T05305,U086,2022-06-19,expense,food,3100.0,UPI,Delhi,Doctor visit 
+T08843,U164,2019-12-18,expense,entertainment,391.0,Card,,Gift
+T08317,U124,2020-06-19,income,other income,46462.0,Bank Transfer,Jaipur,Uber to office
+T04296,U062,2021-12-31,income,bonus,61256.0,Cash,Bengaluru,Salary
+T05418,U139,2021-10-31,income,bonus,67192.0,UPI,Bengaluru,Course fee
+T05056,U008,2019-09-10,expense,food,2823.0,Card,Bengaluru,Gift
+T12203,U130,2022-12-27,expense,travel,1064.0,Cash,jaipur,Dinner at resto
+T08197,U110,2022-10-22,expense,food,247.0,Cash,Mumbai,Grocery shopping via app
+T03466,U187,2020-08-21,expense,health,183.0,Cash,Delhi,Course fee cash
+T11890,U168,2019-03-05,expense,rent,264.0,Card,Delhi,Course fee via app
+T04294,U009,2019-02-13,expense,travel,869.0,Cash,,Course fee
+T11869,U177,2020-10-18,expense,rent,245.0,UPI,Hyderabad,Salary via app
+T01931,U147,2021-01-13,expense,food,2080.0,Bank Transfer,Kolkata,Dinner at resto
+T06981,U183,2021-08-17,expense,entertainmnt,1814.0,UPI,Ahmedabad,Grocery shopping
+T01079,U061,2021-10-12,expense,travel,34.0,Card,Mumbai,nXFJg60jsbWGzj
+T05858,U071,2020-06-16,income,bonus,74728.0,Bank Transfer,Chennai,
+T06655,U028,2021-03-24,income,bonus,88721.0,Cash,Pune,URvwBSEUIG2STezn
+T06871,U003,2019-03-04,expense,others,432.0,Bank Transfer,bengaluru,Gift
+T03547,U079,2019-05-10,expense,rent,518.0,Cash,Jaipur,Salary
+T12676,U090,2020-03-12,expense,food,819.0,UPI,Chennai,Grocery shopping
+T02811,U096,2019-11-07,expense,food,864.0,Card,Bengaluru,Paid electricity bill late
+T07551,U098,2022-05-27,expense,travel,1081.0,Bank Transfer,Bengaluru,
+T00165,U164,2020-03-19,expense,rent,898.0,Cash,DELHI,Dinner at resto via app
+T02925,U077,2021-05-23,expense,utilities,532.0,Card,Hyderabad,
+T05648,U029,2020-09-27,expense,food,68.0,Cash,Pune,Paid electricity bill 
+T08490,U059,2020-03-22,expense,food,1315.0,UPI,Bengaluru,Netflix subscription 
+T08471,U004,2021-03-11,expense,food,83.0,Bank Transfer,Hyderabad,Course fee
+T00579,U188,2022-02-12,expense,food,448.0,Cash,Kolkata,TbqMvyPXr6J2
+T04366,U103,2021-11-08,expense,food,40.0,UPI,Ahmedabad,Salary
+T02870,U046,2021-08-29,income,salary,74420.0,Bank Transfer,Pune,Paid electricity bill
+T10977,U046,2020-06-02,expense,rent,764.0,Card,Bengaluru,Doctor visit
+T07854,U060,2019-07-26,expense,utilities,312.0,UPI,Delhi,Course fee
+T12918,U064,2022-10-01,expense,travel,46.0,UP,Jaipur,Doctor visit 
+T00519,U089,2019-09-25,income,other income,52236.0,Cash,Kolkata,Gift
+T14616,U064,2019-05-05,expense,food,1325.0,,,Gift 
+T07608,U187,2020-06-14,expense,savings,209.0,Card,Mumbai,Gift
+T14555,U131,2021-08-28,income,,38636.0,Bank Transfer,Lucknow,Dinner at resto
+T01580,U170,2022-09-30,expense,rent,353.0,UPI,Mumbai,
+T01222,U053,2019-08-15,expense,entertainment,601.0,Card,Ahmedabad,Paid electricity bill
+T07538,U128,2020-08-30,expense,savings,96.0,UPI,Chennai,Grocery shopping 
+T09336,U128,2021-09-18,expense,travel,285.0,Card,delhi,Grocery shopping
+T13773,U102,2019-03-09,expense,fod,200.0,Card,Hyderabad,Dinner at resto
+T04892,U023,2022-07-19,expense,travel,327.0,UPI,Kolkata,Course fee
+T10312,U081,2019-11-05,expense,utilities,251.0,Card,Kolkata,Gift
+T12455,U186,2021-02-27,expense,food,817.0,Bank Transfer,,Dinner at resto
+T02315,U174,2019-06-15,expense,travel,357.0,Bank Transfer,Hyderabad,
+T13724,U111,2021-03-11,expense,entertainment,247.0,Card,Mumbai,
+T02682,U087,2021-09-22,expense,food,2760.0,Cash,Lucknow,Doctor visit
+T01404,U016,2019-03-21,expense,entertainment,223.0,Card,Pune,Monthly rent via app
+T09164,U099,2020-09-11,expense,utilities,573.0,Card,Delhi,ajtJcxv55
+T07363,U173,2021-03-12,expense,rent,585.0,Cash,Delhi,Course fee
+T14179,U018,2020-12-17,expense,entertainment,103.0,UPI,Bengaluru,Grocery shopping
+T04620,U176,2021-05-21,expense,food,286.0,Bank Transfer,Kolkata,Monthly rent late
+T00866,U181,2022-06-09,expense,rent,293.0,Cash,Lucknow,Salary
+T00690,U104,2019-04-10,income,bbonus,44214.0,Cash,Hyderabad,Doctor visit
+T04088,U135,2022-03-10,expense,rent,2374.0,Card,Delhi,
+T09445,U162,2019-11-16,income,salary,45245.0,UPI,CHENNAI,
+T02911,U182,2019-06-27,expense,utilities,3300.0,Cash,Lucknow,Doctor visit
+T06594,U161,2022-06-25,expense,others,406.0,Cash,Jaipur,Uber to office
+T12971,U056,2020-02-26,expense,food,124.0,Cash,Bengaluru,Course fee
+T01556,U114,2021-02-17,expense,savings,73.0,Card,Chennai,Grocery shopping
+T07026,U137,2021-09-25,expense,food,996.0,Cash,,Paid electricity bill
+T12844,U075,2020-11-28,expense,entertainment,849.0,Cash,Chennai,klFpFX8klGtcoclg29
+T10200,U083,2020-05-16,income,salary,50593.0,Card,Ahmedabad,Salary cash
+T03685,U101,2020-01-10,expense,utilities,401.0,Bank Transfer,Hyderabad,Course fee
+T01039,U190,2019-02-08,expense,entertainment,116.0,Cash,Kolkata,Course fee
+T01003,U062,2020-09-20,expense,others,327.0,UPI,Lucknow,Paid electricity bill
+T11332,U118,2019-01-07,expense,education,25.0,UPI,Chennai,Salary via app
+T01333,U058,2022-06-22,expense,rrent,256.0,,Pune,Grocery shopping via app
+T04456,U163,2021-04-17,expense,food,454.0,UPI,Ahmedabad,Netflix subscription 
+T09110,U109,2022-11-13,expense,travel,586.0,Bank Transfer,Pune,Netflix subscription via app
+T04277,U108,2019-02-17,income,salary,78511.0,,Ahmedabad,Grocery shopping
+T14721,U024,2021-10-26,expense,food,1276.0,Bank Transfer,Jaipur,Doctor visit
+T11299,U076,2022-05-07,income,other income,53548.0,Card,Ahmedabad,Gift
+T13784,U145,2019-09-16,expense,education,149.0,UPI,Bengaluru,Gift
+T12947,U125,2019-09-22,expense,food,349.0,Card,Lucknow,Netflix subscription
+T14440,U065,2019-01-27,expense,entertainment,322.0,Bank Transfer,Lucknow,Doctor visit 
+T11010,U060,2022-02-23,income,salary,42325.0,Bank Transfer,Chennai,Grocery shopping
+T08948,U018,2019-03-11,expense,utilities,122.0,UPI,Delhi,Uber to office
+T08365,U163,2020-03-21,expense,rent,250.0,Card,Hyderabad,Gift late
+T12000,U008,2021-04-20,expense,utilities,3678.0,Cash,Delhi,Gift
+T08844,U122,2019-03-14,expense,food,508.0,Cash,Lucknow,Gift
+T08666,U063,2020-08-01,expense,education,499.0,Bank Transfer,,Monthly rent
+T02865,U160,2020-06-29,expense,rent,667.0,UPI,lucknow,ur3kNFk5
+T14506,U119,2019-02-23,income,bonus,52860.0,Card,Pune,Course fee
+T03537,U115,2020-09-15,expense,savings,388.0,Cash,Lucknow,Course fee late
+T14129,U136,2019-05-22,expense,food,106.0,Cash,Hyderabad,Gift
+T02691,U009,2022-09-16,expense,savings,146.0,Bank Transfer,Chennai,Dinner at resto
+T05660,U167,2021-04-14,expense,food,390.0,Card,Kolkata,
+T08543,U102,2019-08-04,expense,utilities,134.0,Cash,Kolkata,Uber to office
+T11526,U050,2020-02-09,expense,rent,1706.0,Card,Delhi,
+T02359,U150,2020-04-23,expense,food,160.0,Bank Transfer,Kolkata,Course fee late
+T04779,U166,2022-06-03,expense,rent,126.0,Bank Transfer,Delhi,Doctor visit via app
+T10657,U024,2020-05-11,expense,food,372.0,Cash,Pune,Netflix subscription
+T05144,U045,2020-06-19,expense,utilities,389.0,UPI,Mumbai,Gift via app
+T10100,U018,2020-09-16,expense,food,71.0,Bank Transfer,Delhi,Monthly rent
+T12011,U186,2021-07-05,expense,food,406.0,Bank Transfer,Pune,Paid electricity bill
+T10659,U004,2022-01-22,expense,ofod,81.0,Cash,Pune,Dinner at resto
+T01118,U146,2022-06-17,expense,,102.0,Bank Transfer,bengaluru,Grocery shopping
+T01263,U008,2021-12-14,expense,rent,187.0,UPI,Chennai,Monthly rent
+T06724,U074,2021-03-08,expense,rent,211.0,Card,Lucknow,Doctor visit late
+T14077,U190,2019-01-20,income,salary,74095.0,Cash,,Grocery shopping
+T06694,U131,2020-04-16,expense,rent,207.0,Card,Kolkata,Salary via app
+T08322,U181,2019-09-12,expense,travel,625.0,Card,Kolkata,Uber to office
+T03355,U155,2022-04-21,income,salary,34170.0,UPI,Mumbai,Paid electricity bill
+T10576,U045,2022-01-06,expense,food,99.0,UPI,Kolkata,Monthly rent cash
+T04030,U083,2020-01-02,expense,savings,385.0,UPI,Delhi,Grocery shopping late
+T09858,U044,2022-04-15,expense,food,159.0,UIP,Mumbai,Paid electricity bill late
+T06619,U184,2022-12-10,income,bonus,78295.0,Card,Bengaluru,Course fee via app
+T02159,U011,2021-03-17,expense,food,177.0,UPI,Kolkata,
+T00861,U154,2020-11-26,expense,food,1482.0,Card,Lucknow,Course fee
+T09721,U036,2022-05-08,expense,travel,247.0,UPI,Kolkata,
+T02341,U079,2022-05-16,expense,education,1258.0,Card,Jaipur,Salary cash
+T08396,U070,2021-05-28,expense,travel,16.0,Bank Transfer,Pune,Course fee
+T04713,U136,2019-12-13,expense,utilities,22.0,Card,Ahmedabad,Doctor visit
+T07835,U094,2019-09-17,expense,travel,962.0,Card,Bengaluru,Uber to office
+T02007,U115,2020-05-22,income,other income,29290.0,Bank Transfer,Bengaluru,Grocery shopping
+T06810,U094,2021-01-28,expense,utilities,293.0,Card,Jaipur,Dinner at resto
+T01812,U040,2022-09-09,expense,others,28.0,UPI,Kolkata,Course fee cash
+T02313,U033,2022-01-02,expense,others,638.0,UPI,Pune,
+T03443,U124,2021-08-08,expense,utilities,585.0,Bank Transfer,Kolkata,Gift
+T06142,U119,2022-10-19,expense,utiilities,908.0,UPI,Jaipur,KNextYn5AH
+T12866,U162,2021-09-21,expense,food,1774.0,Card,Kolkata,Doctor visit
+T07080,U131,2021-04-30,income,salaryy,57779.0,Bank Transfer,Chennai,Salary cash
+T05405,U189,2020-10-07,expense,food,175.0,Card,DELHI,Course fee
+T02086,U080,2021-03-09,expense,food,58.0,Cash,Mumbai,Gift
+T06516,U030,2019-08-19,expense,food,799.0,Bank Transfer,Hyderabad,Netflix subscription
+T12453,U156,2021-06-12,expense,rentt,253.0,Bank Transfer,Mumbai,Netflix subscription
+T00231,U110,2019-03-26,income,bonus,80518.0,UPI,Delhi,Uber to office
+T09780,U034,2022-08-25,expense,savings,230.0,Bank Transfer,Pune,Course fee cash
+T13452,U158,2020-04-13,expense,food,336.0,UPI,Kolkata,Netflix subscription
+T04102,U003,2019-12-24,expense,food,993.0,UPI,Bengaluru,Salary
+T07837,U001,2019-10-18,expense,travel,433.0,Card,Chennai,EfTihskJXQOUyebK5iO7
+T02061,U189,2022-01-04,expense,rent,1645.0,UPI,Lucknow,Monthly rent via app
+T06561,U002,2021-12-27,expense,rent,100.0,UPI,Hyderabad,nyctSqOVtxHGz6ALO
+T11086,U161,2020-05-15,expense,rent,341.0,Bank Transfer,Delhi,Doctor visit
+T08271,U097,2022-06-30,expense,rent,626.0,Card,Delhi,Course fee
+T09932,U175,2019-05-25,income,salary,67662.0,UPI,Bengaluru,Netflix subscription
+T13598,U165,2022-06-07,expense,food,48.0,Bank Transfer,Hyderabad,Monthly rent late
+T12613,U156,2022-12-10,expense,utilities,343.0,Cash,Bengaluru,Dinner at resto
+T06265,U163,2019-03-05,income,salary,63985.0,Bank Transfer,Chennai,Uber to office cash
+T11104,U075,2020-07-05,expense,foood,1316.0,Card,Delhi,Grocery shopping via app
+T09067,U102,2021-08-30,income,other income,65374.0,UPI,Chennai,Paid electricity bill
+T11412,U110,2019-05-06,income,other income,63511.0,Card,Pune,Gift cash
+T02943,U158,2022-02-26,expense,,1988.0,Cash,delhi,Paid electricity bill 
+T10746,U183,2020-06-01,expense,savings,671.0,Card,Kolkata,Grocery shopping
+T07478,U085,2020-09-20,expense,food,43.0,Cash,Mumbai,
+T08199,U052,2022-08-06,expense,savings,272.0,Card,Bengaluru,Monthly rent
+T03114,U027,2021-06-29,expense,utilities,530.0,Card,Bengaluru,Monthly rent
+T00168,U184,2022-02-11,income,bonus,43658.0,Bank Transfer,Mumbai,Dinner at resto
+T04846,U076,2021-05-18,expense,utilities,1071.0,Card,Delhi,Netflix subscription
+T10020,U065,2022-11-19,expense,food,134.0,Cash,Bengaluru,Dinner at resto via app
+T14733,U054,2019-06-23,expense,utilities,74.0,UPI,,Paid electricity bill cash
+T04303,U072,2022-08-30,expense,rent,256.0,Bank Transfer,Mumbai,Grocery shopping
+T10761,U030,2020-12-15,income,bonus,74630.0,Cash,Bengaluru,Dinner at resto 
+T14657,U001,2021-11-19,expense,food,1421.0,Bank Transsfer,Pune,
+T08751,U007,2020-06-14,expense,travel,565.0,UPI,Delhi,Doctor visit
+T02279,U180,2021-11-20,expense,entertainment,1662.0,Cash,Hyderabad,Netflix subscription
+T05001,U105,2019-01-21,expense,,496.0,Cash,Ahmedabad,Grocery shopping
+T01524,U046,2020-09-01,expense,travel,134.0,Bank Transfer,Delhi,Monthly rent
+T11209,U015,2020-02-23,expense,travel,729.0,Cash,Bengaluru,Netflix subscription late
+T07533,U013,2022-12-22,expense,food,956.0,UPI,Ahmedabad,Gift
+T09850,U191,2020-07-05,income,bonus,62669.0,Bank Transfer,Pune,Paid electricity bill
+T01433,U185,2019-01-13,expense,rent,1658.0,Card,Kolkata,Grocery shopping
+T05284,U175,2020-09-25,income,salary,80297.0,Cash,Bengaluru,Netflix subscription
+T12160,U184,2019-10-03,income,other income,68098.0,UPI,Ahmedabad,
+T02427,U032,2022-10-13,income,salary,51965.0,Cash,Hyderabad,Gift
+T04208,U101,2021-04-04,expense,food,1333.0,Card,Hyderabad,Course fee
+T06357,U098,2022-05-26,expense,food,1017.0,UPI,Bengaluru,Grocery shopping
+T05194,U176,2019-02-27,income,other income,85604.0,UPI,Mumbai,Uber to office via app
+T08386,U029,2021-03-28,expense,food,227.0,Bank Transfer,Jaipur,Paid electricity bill
+T00652,U020,2022-01-07,expense,food,120.0,UPI,Ahmedabad,
+T07257,U091,2022-12-01,expense,entertainment,606.0,Cash,Jaipur,Grocery shopping late
+T02002,U104,2022-05-08,expense,rent,308.0,Cash,Jaipur,Salary
+T13321,U062,2020-11-17,expense,savings,1954.0,Card,Hyderabad,Paid electricity bill
+T09380,U075,2021-04-27,expense,utilities,-716.0,UPI,Jaipur,Grocery shopping late
+T12669,U039,2022-05-23,expense,rent,1250.0,Card,Hyderabad,Salary via app
+T14154,U137,2020-08-24,expense,food,367.0,Bank Transfer,Mumbai,
+T09173,U003,2019-12-29,expense,rent,527.0,UPI,Chennai,Doctor visit via app
+T04123,U061,2022-04-25,expense,food,173.0,UPI,Delhi,Uber to office late
+T12318,U090,2020-01-12,expense,rent,197.0,Card,Kolkata,Gift
+T02698,U001,2020-01-16,income,salary,44962.0,Card,Pune,
+T00049,U168,2019-12-20,expense,rent,327.0,Bank Transfer,Lucknow,Paid electricity bill
+T11200,U063,2019-12-17,expense,food,751.0,Bank Transfer,Chennai,Gift via app
+T10408,U003,2021-08-18,expense,rent,805.0,Bank Transfer,Kolkata,Monthly rent
+T12149,U161,2020-11-25,expense,food,1213.0,UPI,Hyderabad,Paid electricity bill 
+T04969,U064,2021-06-11,expense,rent,718.0,UPI,Kolkata,Uber to office
+T13877,U092,2019-01-02,expense,travel,379.0,Cash,Chennai,
+T00105,U079,2019-04-21,income,other income,51348.0,UPI,Mumbai,Grocery shopping
+T04689,U097,2019-11-17,expense,rent,6321.0,UPI,Pune,Gift
+T11033,U013,2021-01-09,expense,food,433.0,UPI,chennai,Doctor visit cash
+T08711,U177,2020-08-07,expense,entertainment,257.0,Cash,Pune,Uber to office late
+T05450,U076,2022-12-26,expense,rent,-729.0,Card,,Salary
+T00677,U186,2019-02-16,expense,food,364.0,UPI,Kolkata,Salary 
+T06190,U119,2021-04-23,expense,travel,265.0,,Lucknow,Uber to office
+T01713,U075,2019-04-11,expense,food,100.0,UPI,Lucknow,Uber to office 
+T09476,U190,2019-05-20,expense,fod,314.0,Bank Transfer,Bengaluru,Monthly rent
+T12421,U125,2019-07-15,expense,education,875.0,Bank Transfer,Chennai,Uber to office
+T05867,U067,2019-01-07,expense,enertainment,537.0,Cash,Ahmedabad,Gift
+T05727,U051,2021-12-12,expense,food,370.0,Cash,ahmedabad,Doctor visit cash
+T10652,U055,2019-09-23,expense,rent,18.0,Bank Transfer,Chennai,Doctor visit
+T11300,U039,2019-03-26,expense,travel,2389.0,Card,Chennai,Netflix subscription cash
+T13085,U177,2020-09-15,expense,rent,296.0,Card,Chennai,
+T09231,U015,2020-02-23,expense,food,1256.0,UPI,Kolkata,Monthly rent
+T11185,U129,2022-12-28,expense,food,377.0,UPI,Chennai,Paid electricity bill late
+T08597,U042,2019-07-31,expense,rent,466.0,Cash,Delhi,Course fee via app
+T05980,U041,2022-11-07,expense,travel,230.0,Cash,delhi,Paid electricity bill
+T05820,U168,2019-02-28,expense,food,112.0,UPI,Kolkata,Netflix subscription cash
+T01381,U048,2020-12-02,expense,food,247.0,Cash,Mumbai,Paid electricity bill
+T04170,U002,2022-05-08,expense,ofod,50.0,Bank Transfer,Kolkata,Grocery shopping
+T11282,U150,2020-05-14,expense,others,205.0,Card,Mumbai,
+T05764,U053,2021-10-22,expense,food,16324.0,UPI,Lucknow,Monthly rent
+T07985,U137,2020-03-11,income,bonus,62170.0,Cash,Bengaluru,Doctor visit
+T02506,U160,2021-03-26,expense,rent,28.0,Cash,Jaipur,Uber to office
+T11377,U054,2020-04-14,expense,rent,992.0,Cash,kolkata,Grocery shopping
+T14939,U111,2021-04-24,income,bonus,51036.0,Cash,Delhi,Grocery shopping
+T00533,U079,2019-06-03,expense,food,2393.0,UPI,Hyderabad,Gift
+T04755,U116,2020-07-28,expense,travel,387.0,Cash,,Monthly rent 
+T04433,U098,2019-09-06,expense,entertainment,79.0,Bank Transfer,Bengaluru,Paid electricity bill
+T09501,U032,2020-01-08,expense,food,137.0,UPI,Lucknow,Monthly rent
+T12714,U129,2019-12-20,income,salary,59532.0,,Lucknow,Netflix subscription via app
+T09285,U025,2021-03-25,expense,others,2497.0,UPI,Ahmedabad,Grocery shopping
+T12874,U029,2020-03-28,expense,health,140.0,Card,Bengaluru,Course fee via app
+T12330,U077,2020-12-14,expense,rent,201.0,Bank Transfer,,Gift
+T09535,U067,2021-12-12,expense,utilities,1133.0,UPI,Lucknow,Monthly rent
+T02051,U029,2021-12-15,expense,food,-837.0,Bank Transfer,Chennai,Salary cash
+T07977,U073,2020-12-31,expense,rent,533.0,UPI,Kolkata,Grocery shopping
+T08685,U007,2020-05-17,expense,rent,304.0,UPI,Kolkata,
+T05922,U060,2019-12-22,expense,utilities,513.0,Bank Tranfser,Hyderabad,Doctor visit
+T04045,U008,2022-01-22,expense,utilities,1198.0,Bank Transfer,Jaipur,Netflix subscription cash
+T08966,U116,2020-11-25,expense,health,4544.0,Bank Transfer,Ahmedabad,Gift
+T04758,U149,2022-06-06,income,other income,58320.0,Card,Ahmedabad,Uber to office
+T09805,U157,2020-09-28,expense,rent,818.0,Card,,Course fee
+T07559,U177,2022-11-24,income,bonus,57673.0,Card,Jaipur,
+T06992,U036,2020-05-25,expense,rent,141.0,Card,Pune,Grocery shopping
+T00658,U177,2020-03-23,expense,food,259.0,Card,Kolkata,Monthly rent
+T07002,U106,2020-06-20,expense,travel,287.0,,Kolkata,Doctor visit
+T14185,U092,2021-07-04,expense,utilities,999999.0,UPI,Chennai,Doctor visit
+T04281,U123,2022-01-06,expense,health,318.0,Cash,Chennai,Dinner at resto late
+T08010,U047,2021-03-12,expense,rent,1001.0,Card,Delhi,Grocery shopping
+T10224,U029,2021-06-14,expense,entertainment,68.0,Cash,,Course fee
+T14084,U153,2019-12-16,expense,rent,201.0,Bank Transfer,bengaluru,Dinner at resto
+T11222,U192,2019-12-11,expense,food,189.0,Card,CHENNAI,Salary
+T03840,U010,2019-06-06,expense,rent,116.0,Cash,Kolkata,Monthly rent
+T14369,U083,2020-12-28,expense,rent,157.0,Cash,Jaipur,
+T03986,U035,2021-08-31,expense,savings,687.0,UPI,Ahmedabad,Netflix subscription
+T07105,U113,2021-03-01,expense,rent,904.0,Cash,Lucknow,
+T07549,U190,2020-11-08,expense,travel,1610.0,Cash,Delhi,Salary via app
+T12010,U161,2022-08-31,expense,rent,533.0,Card,Jaipur,Uber to office
+T11184,U026,2019-08-29,expense,rent,123.0,UPI,Kolkata,Doctor visit
+T00369,U146,2021-01-05,income,other income,67834.0,UPI,hyderabad,Paid electricity bill
+T00824,U003,2021-04-04,expense,rent,1000.0,Bank Transfer,Delhi,Grocery shopping
+T01380,U150,2022-09-19,expense,others,3005.0,Card,Chennai,Doctor visit
+T03027,U151,2022-08-03,expense,rent,-397.0,Crd,Pune,Gift
+T08421,U139,2021-06-08,expense,rent,334.0,Bank Transfer,Hyderabad,Salary late
+T01599,U180,2021-02-12,expense,entertainment,2219.0,Cash,Chennai,Netflix subscription
+T03417,U043,2021-07-11,expense,savings,1164.0,Cash,Delhi,Netflix subscription
+T08025,U106,2019-09-25,expense,utilities,717.0,Card,Pune,Gift
+T08483,U031,2021-11-27,expense,others,293.0,Cash,,
+T13297,U019,2019-11-10,expense,savings,232.0,Cash,Lucknow,Grocery shopping 
+T12524,U001,2022-05-28,expense,food,4167.0,UPI,Mumbai,Gift
+T13369,U020,2022-10-02,expense,others,72.0,Cash,Hyderabad,Gift 
+T03185,U156,2022-02-13,expense,travel,44.0,Bank Transfer,Jaipur,
+T13440,U118,2020-12-19,expense,food,107.0,Bank Transfer,Lucknow,Dinner at resto via app
+T08994,U119,2020-12-14,income,other income,55395.0,UPI,Mumbai,Monthly rent
+T06208,U131,2020-04-19,expense,food,50.0,Cash,Chennai,SzfmMHGcMKOrR
+T04813,U178,2022-03-18,expense,travel,331.0,Card,Hyderabad,Netflix subscription
+T13494,U187,2021-01-17,expense,entertainment,603.0,,Bengaluru,Gift 
+T04788,U021,2021-03-18,expense,rent,1904.0,,Lucknow,Doctor visit
+T03139,U136,2021-12-19,income,other income,59229.0,Card,Lucknow,Salary late
+T10940,U003,2021-11-12,expense,education,453.0,Bank Transfer,Ahmedabad,Uber to office cash
+T02463,U117,2020-08-21,income,bonus,65453.0,Card,Jaipur,Uber to office
+T00161,U049,2019-12-18,expense,travel,999999.0,Card,Delhi,Paid electricity bill
+T06869,U124,2021-04-14,expense,rent,264.0,Bank Transfer,Jaipur,Doctor visit 
+T10996,U086,2020-10-02,expense,travel,108.0,Cash,Bengaluru,Grocery shopping
+T08797,U135,2019-09-08,expense,food,327.0,Cash,Ahmedabad,Paid electricity bill cash
+T00280,U042,2020-01-01,expense,enteertainment,111.0,Cash,Pune,Grocery shopping late
+T14817,U156,2020-10-25,expense,food,240.0,Card,Pune,Paid electricity bill
+T13131,U111,2022-11-10,expense,others,817.0,Card,AHMEDABAD,Monthly rent
+T07133,U117,2021-12-18,expense,food,51.0,Card,delhi,Gift via app
+T06059,U053,2020-09-02,expense,rent,1857.0,Card,MUMBAI,
+T07382,U047,2020-04-06,expense,food,8.0,Bank Transfer,Kolkata,Doctor visit
+T04134,U047,2022-09-02,expense,food,244.0,Bank Transfer,Ahmedabad,Uber to office
+T05992,U158,2019-12-21,expense,food,558.0,Card,Kolkata,Paid electricity bill 
+T12687,U006,2021-08-24,expense,food,666.0,Card,Kolkata,Salary
+T03445,U129,2020-11-10,expense,food,115.0,Cash,Hyderabad,Dinner at resto
+T14842,U050,2022-03-04,income,salary,42219.0,UPI,Mumbai,Paid electricity bill
+T11487,U137,2019-07-16,expense,utilities,7141.0,Cash,Jaipur,Monthly rent
+T09825,U079,2019-01-11,expense,education,3182.0,Cash,Jaipur,Netflix subscription 
+T05644,U021,2020-06-03,expense,utilities,2980.0,Bank Transfer,Mumbai,Course fee
+T03812,U041,2019-03-04,expense,food,86.0,Bank Transfer,Delhi,Grocery shopping cash
+T03900,U133,2021-07-25,expense,travel,66.0,Bank Transfer,Bengaluru,Gift
+T11299,U076,2022-05-07,income,other income,53548.0,Card,Ahmedabad,Gift
+T07909,U165,2022-12-03,expense,food,348.0,Card,Lucknow,Grocery shopping
+T14786,U011,2022-05-07,income,other income,39155.0,Bank Transfer,Delhi,Grocery shopping
+T08790,U058,2022-06-08,expense,food,76.0,Cash,Bengaluru,Salary via app
+T06947,U167,2019-12-26,income,other income,59967.0,Card,Lucknow,Paid electricity bill via app
+T09226,U069,2019-03-11,expense,rent,855.0,Card,Chennai,6kXMo8EP
+T02020,U090,2020-06-24,expense,food,1452.0,Cash,Delhi,Monthly rent
+T10181,U150,2019-06-25,expense,rent,1377.0,UPI,Hyderabad,Paid electricity bill
+T08391,U141,2021-02-19,expense,rent,111.0,Bank Transfer,Pune,Course fee
+T08959,U146,2022-06-16,expense,food,692.0,Card,Delhi,Uber to office
+T00338,U100,2019-09-17,expense,savings,130.0,Cash,Pune,Uber to office
+T03929,U057,2022-07-14,expense,rent,1165.0,UPI,mumbai,Paid electricity bill
+T04895,U068,2022-12-29,income,,50845.0,Cash,Jaipur,Paid electricity bill late
+T02792,U100,2021-10-24,expense,others,494.0,Bank Transfer,Mumbai,Salary
+T11128,U047,2020-04-19,expense,saving,409.0,Bank Transfer,Chennai,Course fee
+T13519,U139,2020-02-13,expense,entertainment,1138.0,Cash,Kolkata,Gift
+T05013,U098,2022-05-19,expense,travel,2648.0,Car,Chennai,wiWqLlET
+T03979,U101,2020-05-05,expense,rent,226.0,Card,Mumbai,Doctor visit
+T11507,U065,2019-05-13,expense,food,3935.0,Cash,Ahmedabad,
+T05617,U078,2021-05-22,expense,utilities,355.0,UPI,Mumbai,Gift
+T06382,U080,2022-05-30,expense,food,6218.0,Card,,Grocery shopping
+T06285,U163,2020-05-01,expense,travel,858.0,UPI,Ahmedabad,Dinner at resto
+T01262,U129,2021-02-09,expense,foodd,543.0,Bank Transfer,Hyderabad,Uber to office
+T02212,U165,2019-02-06,expense,rent,119.0,Cash,Delhi,Paid electricity bill via app
+T13238,U189,2020-05-04,income,bonus,75799.0,Card,Bengaluru,Monthly rent
+T04316,U143,2022-10-18,expense,rent,149.0,Cash,Bengaluru,
+T02498,U002,2022-02-25,expense,food,82.0,UPI,Bengaluru,Course fee
+T11037,U133,2021-03-02,expense,rent,327.0,Bank Transfer,Chennai,Doctor visit
+T01227,U159,2019-03-26,expense,rnet,206.0,Card,Hyderabad,Monthly rent
+T14833,U072,2020-11-14,expense,food,1469.0,Card,Ahmedabad,Monthly rent 
+T11571,U118,2019-02-27,expense,trravel,524.0,Card,Mumbai,Course fee
+T04603,U106,2021-08-20,expense,rent,2927.0,Cash,Jaipur,Grocery shopping via app
+T12052,U063,2022-07-21,expense,travel,674.0,Cash,Hyderabad,Course fee
+T00251,U028,2019-01-06,expense,rent,1166.0,Bank Transfer,Mumbai,Grocery shopping late
+T04145,U068,2021-10-27,expense,ood,1623.0,Card,jaipur,
+T06185,U094,2022-12-24,expense,others,309.0,Cash,Mumbai,
+T05732,U127,2021-09-26,expense,entertainment,95.0,UPI,chennai,Paid electricity bill
+T02115,U137,2021-04-18,expense,rent,312.0,Bank Transfer,,Monthly rent
+T01338,U057,2020-09-16,expense,utilities,849.0,Card,Ahmedabad,Monthly rent cash
+T08537,U078,2019-04-15,expense,food,663.0,Bank Transfer,Hyderabad,Grocery shopping
+T12383,U179,2022-03-02,expense,food,2677.0,Cash,Ahmedabad,Grocery shopping
+T06330,U162,2021-01-06,expense,travel,658.0,Cash,delhi,Salary
+T02761,U090,2022-08-18,expense,food,52.0,UPI,Hyderabad,Dinner at resto
+T01446,U131,2020-03-22,expense,entertainment,1307.0,Card,Pune,Gift
+T14192,U119,2021-01-22,expense,entertainment,104.0,UPI,Jaipur,Salary
+T10572,U137,2021-01-06,expense,utilities,1235.0,Card,Pune,Course fee
+T08422,U002,2019-05-19,income,bonus,75910.0,Cash,Hyderabad,jWHhaQIj5TYF7jL
+T10368,U179,2019-08-23,income,other income,40312.0,Bank Transfer,Chennai,Course fee
+T06082,U073,2019-01-01,income,bonus,28500.0,Cash,Lucknow,Course fee
+T08994,U119,2020-12-14,income,other income,55395.0,UPI,Mumbai,Monthly rent
+T07699,U059,2019-12-18,expense,rent,244.0,UPI,Hyderabad,Soj8c39eWZCaJw9wcUm
+T02078,U143,2020-01-24,expense,food,112.0,Bank Transfer,Chennai,
+T07374,U010,2021-05-11,expense,savings,175.0,UPI,Mumbai,Dinner at resto
+T02643,U123,2019-06-26,expense,rent,169.0,Cash,Hyderabad,Dinner at resto via app
+T09555,U103,2019-11-30,expense,food,60.0,Bank Transfer,Bengaluru,Uber to office
+T02824,U101,2021-05-28,expense,entertainment,276.0,Cash,Jaipur,Netflix subscription
+T01703,U160,2019-12-04,expense,rent,222.0,UPI,Hyderabad,Grocery shopping
+T01775,U143,2020-09-11,expense,travel,533.0,UPI,Jaipur,
+T09580,U019,2019-02-09,expense,rent,762.0,Card,Kolkata,Uber to office
+T03376,U077,2019-05-30,expense,food,321.0,Cash,Ahmedabad,
+T04041,U117,2019-07-18,expense,rent,455.0,Card,Kolkata,Grocery shopping late
+T04360,U096,2020-12-05,income,bonus,51748.0,UPI,Lucknow,Gift 
+T09777,U034,2021-07-05,expense,utiltiies,361.0,Card,Ahmedabad,Paid electricity bill
+T13768,U122,2019-02-16,expense,,339.0,Bank Transfer,Jaipur,Paid electricity bill
+T06937,U111,2020-07-17,expense,food,184.0,Card,Mumbai,Netflix subscription
+T03619,U153,2020-03-10,expense,rent,196.0,UPI,Mumbai,Netflix subscription
+T13136,U157,2021-11-23,expense,rent,163.0,Card,Delhi,Dinner at resto
+T13639,U088,2019-12-31,expense,food,759.0,,Hyderabad,Salary
+T07312,U056,2019-10-08,expense,rent,2083.0,UPI,Chennai,Uber to office
+T05774,U011,2019-05-06,expense,food,280.0,Bank Transfer,Ahmedabad,Gift 
+T03131,U153,2019-06-21,income,bonus,42932.0,Card,Bengaluru,Netflix subscription
+T01063,U014,2022-03-11,expense,entertainment,272.0,Cash,Lucknow,
+T13994,U191,2022-04-08,expense,travel,306.0,Card,Lucknow,Doctor visit
+T07641,U120,2019-09-29,income,bnous,46068.0,Bank Transfer,Hyderabad,Monthly rent
+T02531,U160,2019-07-14,expense,rent,912.0,Card,Ahmedabad,Gift
+T01630,U117,2021-05-14,expense,food,248.0,Card,Mumbai,Gift
+T08874,U019,2020-02-10,expense,ofod,161.0,Bank Transfer,Mumbai,Salary
+T01400,U188,2019-03-04,expense,others,1606.0,Bank Transfer,Lucknow,Netflix subscription via app
+T14555,U131,2021-08-28,income,other income,38636.0,Bank Transfer,Lucknow,Dinner at resto
+T01482,U131,2022-03-12,income,other income,31986.0,,Lucknow,Monthly rent
+T06632,U041,2021-03-24,expense,food,152.0,Bank Transfer,lucknow,Dinner at resto
+T00302,U130,2021-11-29,expense,food,55.0,Bank Transfer,Lucknow,Grocery shopping 
+T04462,U172,2022-07-15,expense,rent,3904.0,Card,Bengaluru,Doctor visit
+T01816,U079,2020-02-01,expense,rent,184.0,UPI,Delhi,Uber to office
+T11499,U143,2020-08-30,expense,education,1465.0,Bank Transfer,,Course fee
+T08592,U009,2019-08-23,expense,rent,211.0,Cardd,kolkata,Doctor visit
+T00639,U116,2019-03-05,expense,entertainment,86.0,UPI,Kolkata,Monthly rent cash
+T01262,U129,2021-02-09,expense,foodd,543.0,Bank Transfer,Hyderabad,Uber to office
+T04677,U070,2021-09-28,income,other income,58346.0,Bank Transfer,,Dinner at resto 
+T05510,U151,2022-07-16,income,other income,58156.0,UPI,Mumbai,
+T00114,U160,2022-04-03,expense,rent,11.0,UPI,Hyderabad,Grocery shopping
+T11514,U066,2020-06-20,expense,utilities,375.0,Card,Jaipur,Uber to office
+T03446,U176,2021-10-18,expense,rent,900.0,Card,Kolkata,Gift
+T03236,U063,2022-06-20,expense,rent,84.0,UPI,Jaipur,Salary
+T00618,U055,2022-06-03,expense,rent,109.0,Bank Transfer,,Dinner at resto 
+T04618,U134,2020-12-22,expense,entertainment,225.0,Card,Chennai,Doctor visit cash
+T07515,U149,2021-09-05,expense,health,648.0,Bank Transfer,Chennai,Doctor visit late
+T01175,U158,2021-07-23,expense,food,425.0,Cash,pune,Doctor visit
+T07638,U143,2022-01-23,expense,food,1169.0,Card,Kolkata,Netflix subscription
+T07285,U034,2022-05-02,expense,entertainment,1694.0,UPI,Mumbai,Paid electricity bill cash
+T03869,U049,2019-08-26,income,other income,51038.0,Bank Transfer,Jaipur,Monthly rent
+T13636,U097,2022-11-16,expense,rent,2115.0,Cash,Delhi,Dinner at resto
+T04717,U064,2020-05-17,expense,food,261.0,UPI,Hyderabad,Uber to office
+T13428,U153,2019-06-05,expense,food,2353.0,Card,Kolkata,Course fee
+T12835,U117,2019-11-20,expense,reent,527.0,Card,Mumbai,Gift
+T07863,U071,2020-02-13,expense,otehrs,125.0,Card,Kolkata,Salary
+T01653,U076,2019-03-13,expense,education,31.0,Card,Ahmedabad,Gift
+T00034,U068,2020-01-05,expense,travel,252.0,UPI,Chennai,Dinner at resto
+T10949,U172,2019-12-17,expense,food,70.0,Card,pune,Grocery shopping cash
+T06491,U176,2019-01-04,expense,food,39.0,Cash,Jaipur,Gift
+T03055,U138,2021-09-03,expense,food,633.0,Card,,Gift late
+T14045,U006,2022-06-13,expense,food,-325.0,UPI,Lucknow,Paid electricity bill late
+T13645,U187,2021-04-23,income,bonus,33594.0,Bank Transfer,Delhi,Salary
+T07951,U017,2020-11-30,expense,entertainment,71.0,UPI,Hyderabad,Gift
+T06304,U084,2021-10-14,expense,savings,585.0,UPI,Chennai,Uber to office late
+T00048,U175,2021-09-13,expense,utilities,1167.0,Bank Transfer,Lucknow,Doctor visit
+T10049,U093,2019-05-24,expense,food,153.0,UPI,Delhi,Gift cash
+T00235,U139,2020-12-10,expense,rent,278.0,,Jaipur,
+T03464,U160,2019-04-01,expense,utilities,1730.0,Cash,Pune,Doctor visit
+T08937,U024,2022-01-03,expense,rent,806.0,Cash,Jaipur,Doctor visit
+T10840,U161,2022-12-22,income,salary,78428.0,Card,Chennai,Gift
+T02222,U131,2022-12-12,income,salary,99502.0,Cash,Bengaluru,Grocery shopping
+T12693,U049,2020-07-08,expense,food,2809.0,UPI,PUNE,Grocery shopping 
+T05103,U067,2020-09-11,expense,food,306.0,Bank Transfer,Jaipur,Doctor visit
+T13411,U152,2020-12-02,expense,food,492.0,Card,Ahmedabad,Gift via app
+T08145,U100,2021-10-04,income,bonus,54543.0,UPI,,Uber to office 
+T09559,U180,2020-01-27,expense,travel,530.0,UPI,Chennai,Gift
+T13142,U158,2019-10-18,income,salary,63239.0,UPI,jaipur,Course fee late
+T14035,U014,2022-03-19,expense,food,84.0,Cash,Mumbai,Salary
+T00821,U135,2021-12-28,expense,food,1335.0,Bank Transfer,Pune,A6t0Vv40n3PqGSu
+T07401,U072,2020-03-02,expense,others,103.0,Bank Transfer,Lucknow,Dinner at resto
+T06502,U066,2020-09-20,expense,rent,3305.0,UPI,Chennai,
+T07504,U187,2019-12-30,income,other income,33362.0,Bank Transfer,Jaipur,Paid electricity bill
+T11638,U113,2019-03-06,expense,entertainment,1005.0,UPI,Chennai,Paid electricity bill
+T08382,U076,2019-02-14,income,bonus,64643.0,UPI,Jaipur,Salary
+T02415,U089,2019-12-14,expense,rent,295.0,UPI,Lucknow,Dinner at resto
+T02830,U017,2020-01-27,expense,rent,405.0,Cash,Mumbai,Course fee 
+T10061,U029,2021-08-21,expense,rent,631.0,Cash,Ahmedabad,Paid electricity bill 
+T05657,U142,2019-11-22,expense,rent,448.0,Bank Transfer,Kolkata,Doctor visit via app
+T09897,U054,2022-01-19,expense,food,105.0,UPI,Mumbai,Uber to office late
+T04987,U161,2019-04-12,expense,travel,460.0,Card,Kolkata,poUSCGO5nkR4XEqn
+T09591,U139,2021-02-04,expense,travel,1687.0,Cash,Delhi,Gift
+T04767,U053,2020-12-04,income,salary,49873.0,Cash,Chennai,Doctor visit
+T09389,U107,2019-07-04,income,salary,59591.0,Cash,Jaipur,Uber to office cash
+T13207,U029,2021-04-03,expense,education,495.0,UPI,Kolkata,Doctor visit
+T13077,U183,2020-06-06,expense,others,115.0,UPI,Pune,Uber to office cash
+T07826,U122,2022-08-30,expense,food,1525.0,Cash,Chennai,Uber to office
+T01237,U042,2020-02-23,expense,utilities,303.0,UPI,Kolkata,Course fee
+T11500,U051,2020-02-21,income,bonus,47376.0,Cash,Pune,Gift
+T10035,U056,2021-06-12,expense,food,1134.0,Bank Transfer,lucknow,Grocery shopping cash
+T08792,U008,2021-12-08,expense,entertainment,-585.0,Cash,Delhi,Gift
+T13831,U177,2021-01-27,expense,food,1490.0,Bank Transfer,Delhi,Dinner at resto late
+T01777,U046,2022-07-28,expense,fod,1228.0,Bank Transfer,Hyderabad,Course fee
+T02545,U026,2021-12-30,expense,food,468.0,Card,Lucknow,Grocery shopping 
+T04632,U188,2022-06-08,expense,entertainment,1601.0,Card,Bengaluru,Paid electricity bill
+T13835,U029,2021-09-18,expense,travl,175.0,Bank Transfer,Bengaluru,Doctor visit 
+T14233,U146,2021-01-11,expense,rent,331.0,Card,Ahmedabad,Uber to office cash
+T13673,U076,2022-04-13,income,ohter income,59515.0,Cash,lucknow,Netflix subscription
+T14400,U031,2020-01-16,expense,utilities,12000.0,UPI,Pune,
+T06469,U140,2020-11-22,expense,othhers,422.0,UPI,Bengaluru,Dinner at resto
+T09233,U120,2022-06-30,expense,travel,373.0,UPI,Delhi,Course fee via app
+T07768,U164,2020-12-17,expense,food,357.0,Card,,Course fee
+T08900,U160,2022-03-25,income,salary,55238.0,UPI,bengaluru,Monthly rent 
+T03037,U171,2022-04-11,expense,entertainment,1045.0,Card,Bengaluru,Dinner at resto cash
+T00254,U067,2022-09-25,expense,food,45.0,UPI,Pune,Salary late
+T04133,U047,2020-03-18,expense,food,346.0,Cash,Chennai,
+T11500,U051,2020-02-21,income,bonus,47376.0,Cash,Pune,Gift
+T01221,U010,2019-01-24,expense,rent,852.0,UPI,Hyderabad,Course fee
+T01496,U075,2019-06-23,expense,travel,204.0,Cash,Ahmedabad,
+T04108,U051,2020-09-13,expense,travel,579.0,Cash,Hyderabad,Grocery shopping cash
+T05484,U031,2022-10-03,expense,food,1093.0,Bank Transfer,Chennai,Salary
+T10304,U034,2020-11-17,expense,food,220.0,Cash,Pune,Salary
+T02118,U174,2020-05-05,income,bonus,49009.0,Cash,Jaipur,Dinner at resto
+T05021,U019,2021-07-30,expense,food,96.0,Card,Delhi,Gift
+T09327,U010,2019-08-04,expense,entertainment,1246.0,Bank Transfer,Bengaluru,
+T05492,U036,2022-01-05,income,bonus,48404.0,Card,Kolkata,oC7KA1MfQV
+T08810,U146,2019-06-14,expense,retn,1379.0,Bank Transfer,Mumbai,Paid electricity bill
+T03838,U166,2022-12-04,expense,food,786.0,Card,Pune,Uber to office cash
+T10573,U088,2022-11-29,expense,rent,2202.0,UPI,Hyderabad,dFMdGhOp8HqP6MWlmU6s
+T01326,U016,2022-07-23,expense,rent,201.0,Cash,Ahmedabad,Paid electricity bill
+T11713,U126,2019-04-03,expense,rent,713.0,Bank Transfer,Jaipur,Uber to office
+T07121,U055,2021-02-05,expense,utilities,1343.0,UPI,Mumbai,Uber to office
+T09247,U019,2021-04-18,income,salary,47814.0,UPI,Kolkata,Uber to office
+T06475,U108,2019-05-14,expense,utilities,4747.0,Cash,Mumbai,
+T10350,U177,2020-03-27,expense,entertainment,319.0,Bank Transfer,Ahmedabad,Netflix subscription
+T04833,U156,2019-03-16,expense,rent,353.0,Bank Transfer,Ahmedabad,Doctor visit
+T03599,U094,2020-03-08,expense,rent,1354.0,UPI,Lucknow,Salary
+T12281,U188,2021-05-10,expense,food,14.0,Cash,Lucknow,Doctor visit via app
+T10466,U151,2021-09-23,expense,rent,180.0,Cash,Mumbai,Gift
+T05555,U048,2019-12-17,expense,health,580.0,UPI,,Uber to office
+T02166,U041,2019-08-31,expense,food,35.0,Card,Pune,Monthly rent late
+T11111,U110,2019-03-20,expense,entertainment,3194.0,UPI,pune,Netflix subscription
+T04421,U148,2020-03-06,expense,rent,1097.0,Cash,Kolkata,Netflix subscription
+T06977,U056,2020-08-22,expense,rent,328.0,Bank Transfer,Kolkata,Netflix subscription
+T11118,U086,2021-01-02,expense,rent,422.0,Card,Kolkata,Grocery shopping
+T02741,U081,2019-01-24,income,bonus,88213.0,Bank Transfer,Pune,Monthly rent
+T08532,U026,2020-08-12,expense,entertainment,253.0,Cash,Pune,Gift
+T06748,U097,2020-01-27,expense,travel,759.0,UPI,Delhi,Course fee
+T13516,U018,2022-10-05,expense,utilities,135.0,UPI,Mumbai,Netflix subscription
+T10266,U110,2021-03-29,expense,rent,81.0,Card,Chennai,Course fee
+T08227,U061,2022-03-24,expense,food,965.0,Cash,Bengaluru,euEs0MyWuFL
+T05000,U130,2021-04-19,income,bonus,53975.0,Cash,delhi,Monthly rent
+T01917,U064,2022-05-25,expense,food,505.0,UPI,Lucknow,Doctor visit
+T07221,U080,2021-03-16,expense,food,415.0,Bank Transfer,jaipur,Doctor visit
+T07518,U090,2022-09-13,income,other income,79351.0,Bank Transfer,Bengaluru,Monthly rent cash
+T05104,U046,2021-07-07,expense,food,1137.0,UPI,Hyderabad,Course fee
+T11272,U178,2021-05-14,expense,others,377.0,Cash,Delhi,
+T03684,U008,2019-08-16,expense,utilities,225.0,Card,Delhi,Course fee
+T03524,U109,2022-11-04,expense,rent,474.0,UPI,Mumbai,Uber to office
+T09310,U130,2020-12-18,expense,travvel,677.0,Cash,,Netflix subscription
+T04047,U047,2022-12-13,income,salary,94390.0,Card,Chennai,Salary via app
+T10017,U165,2021-08-10,expense,rent,331.0,Bank Transfer,Kolkata,Uber to office
+T06160,U044,2020-04-13,expense,food,1144.0,Bank Transfer,Delhi,Dinner at resto 
+T05941,U073,2021-06-12,expense,rent,744.0,Cash,Bengaluru,Netflix subscription
+T00548,U149,2020-12-21,expense,utilities,448.0,UPI,Pune,Dinner at resto
+T13318,U186,2020-06-15,income,salary,38756.0,Card,Jaipur,Uber to office
+T00238,U018,2020-07-06,income,salary,57426.0,Cash,Lucknow,
+T09243,U171,2020-03-17,expense,utilities,148.0,Cash,Chennai,Doctor visit via app
+T03848,U146,2021-02-01,expense,food,238.0,UPI,,Doctor visit
+T07983,U073,2021-10-24,income,bonus,50379.0,Cash,Chennai,Gift
+T08491,U101,2020-11-07,expense,food,1335.0,Card,Mumbai,
+T09996,U087,2019-01-09,expense,education,397.0,Card,Bengaluru,Netflix subscription
+T11171,U138,2021-05-18,expense,savings,815.0,Cash,Chennai,Uber to office cash
+T00456,U176,2022-06-27,expense,travel,790.0,UPI,Hyderabad,Doctor visit late
+T06436,U157,2022-05-04,expense,travel,1045.0,UPI,Kolkata,h6whw1RlinhnQwTr
+T08819,U115,2020-10-25,expense,food,161.0,Bank Transfer,Jaipur,Grocery shopping cash
+T09557,U134,2022-06-23,expense,food,235.0,Card,Jaipur,Grocery shopping
+T04527,U102,2020-12-30,expense,rent,205.0,Card,Bengaluru,Paid electricity bill cash
+T14111,U010,2020-09-08,expense,entertainment,186.0,Cash,Chennai,Gift
+T05775,U104,2022-01-31,expense,health,140.0,Cash,Kolkata,Dinner at resto
+T04168,U003,2021-12-09,income,other income,55056.0,UPI,Mumbai,Course fee 
+T00179,U054,2022-04-09,expense,food,484.0,UPI,Jaipur,Salary
+T00620,U175,2020-02-28,expense,fodo,1949.0,Card,Pune,Doctor visit cash
+T12855,U120,2022-08-05,expense,others,94.0,Bank Transfer,Lucknow,Netflix subscription
+T04190,U143,2022-02-11,expense,rent,1460.0,Card,Lucknow,Doctor visit cash
+T11877,U125,2022-06-21,expense,food,1583.0,UPI,,Salary 
+T11613,U128,2021-04-27,expense,food,7002.0,UP,,Uber to office via app
+T08807,U098,2022-11-14,expense,rent,469.0,Cash,Hyderabad,Netflix subscription
+T04814,U115,2022-05-17,income,bonus,58158.0,Bank Transfer,Pune,Monthly rent
+T13430,U114,2020-09-10,expense,food,1319.0,UPI,Delhi,zhOYOrzyMfFxlJ7RY
+T00125,U022,2020-06-16,expense,education,969.0,UPI,Hyderabad,Doctor visit
+T00225,U191,2021-11-04,income,other income,33215.0,UPI,mumbai,c1IngZnU934
+T14439,U141,2021-03-27,expense,food,197.0,UPI,Mumbai,Monthly rent
+T07716,U050,2021-07-29,expense,food,406.0,Card,Kolkata,
+T12661,U079,2020-12-04,expense,rent,1758.0,Cash,Ahmedabad,Gift
+T08633,U026,2022-02-04,income,other income,79633.0,Cash,Hyderabad,Doctor visit cash
+T01746,U085,2019-05-16,expense,food,146.0,Bank Transfer,Lucknow,Doctor visit
+T00377,U181,2020-04-05,expense,entertainment,211.0,Card,LUCKNOW,Gift late
+T14343,U076,2020-05-20,income,other income,57479.0,Card,Lucknow,Dinner at resto
+T04605,U186,2022-06-15,expense,,479.0,Cash,Chennai,Gift
+T11401,U056,2020-08-09,expense,food,123.0,Bank Transffer,jaipur,Salary via app
+T02595,U059,2019-06-11,income,other income,42767.0,,Lucknow,Paid electricity bill
+T12437,U122,2020-08-07,expense,food,517.0,UPI,Delhi,Doctor visit via app
+T02792,U100,2021-10-24,expense,others,494.0,Bank Transfer,Mumbai,Salary
+T03206,U076,2019-10-14,expense,entertainment,761.0,Cash,BENGALURU,Grocery shopping cash
+T01416,U020,2020-12-24,expense,rent,870.0,Bank Transfer,,Uber to office
+T06609,U068,2021-03-04,expense,utilities,704.0,Card,Jaipur,Doctor visit
+T12885,U108,2022-01-08,expense,travel,2981.0,Card,Delhi,Course fee late
+T09771,U093,2020-11-16,expense,education,90.0,Bank Transfer,Ahmedabad,Paid electricity bill
+T10578,U139,2022-02-02,expense,rent,363.0,Card,Lucknow,Dinner at resto
+T10623,U162,2020-11-20,expense,rent,797.0,Card,Hyderabad,Netflix subscription
+T12447,U163,2020-02-06,expense,ent,1206.0,Card,Ahmedabad,
+T14370,U163,2019-02-27,income,other icome,40577.0,UPI,Jaipur,NTEFl1WYXxA
+T07515,U149,2021-09-05,expense,health,648.0,Bank Transfer,Chennai,Doctor visit late
+T09448,U036,2022-04-09,expense,food,543.0,Cash,hyderabad,Dinner at resto
+T06417,U107,2019-03-17,expense,utilities,1457.0,Bank Transfer,Delhi,Course fee
+T03896,U026,2020-04-10,expense,travel,155.0,Cash,,Course fee
+T01980,U160,2020-11-04,expense,rent,473.0,Bank Transfer,Pune,Uber to office
+T13256,U042,2021-12-15,expense,health,1868.0,Bank Transfer,Delhi,
+T00077,U023,2022-10-24,expense,rent,314.0,Card,,Netflix subscription
+T12295,U083,2019-02-15,expense,travel,390.0,Cash,Ahmedabad,Uber to office
+T11285,U044,2020-11-13,expense,food,157.0,Bank Transfer,KOLKATA,Grocery shopping
+T09100,U018,2020-06-06,expense,rent,84.0,,Chennai,Gift
+T03825,U109,2021-07-27,expense,food,971.0,Card,Jaipur,
+T08875,U096,2020-03-07,expense,food,187.0,UPI,Jaipur,
+T05665,U134,2021-04-19,expense,savings,205.0,Cash,LUCKNOW,Gift
+T08539,U191,2022-03-29,expense,rent,17.0,UPI,Pune,Salary late
+T01644,U187,2020-05-02,expense,rent,89.0,UPI,Chennai,
+T00264,U063,2020-06-23,expense,food,690.0,UPI,Chennai,Grocery shopping late
+T03387,U188,2019-03-13,expense,food,1535.0,UPI,Hyderabad,Netflix subscription
+T05714,U085,2022-10-18,expense,utilites,74.0,Bank Transfer,Bengaluru,Salary via app
+T00033,U050,2022-12-04,income,bonus,87491.0,Cash,Hyderabad,Paid electricity bill
+T11464,U128,2021-03-17,income,other income,26927.0,UPI,Kolkata,Uber to office
+T08779,U036,2020-01-20,expense,others,272.0,Cash,Delhi,
+T03790,U121,2019-09-29,expense,rent,346.0,UPI,Lucknow,
+T09291,U075,2021-10-25,expense,rent,337.0,UPI,Hyderabad,k8yG2saP
+T01409,U046,2019-05-10,expense,utilities,1446.0,Cash,Delhi,Paid electricity bill
+T05880,U118,2019-05-29,expense,rent,628.0,UPI,Delhi,Gift
+T00529,U173,2022-11-10,expense,rent,1696.0,Cash,Jaipur,Dinner at resto cash
+T08678,U014,2022-02-22,income,salary,64018.0,Bank Transfer,Pune,Paid electricity bill
+T03592,U133,2022-08-05,expense,others,101.0,Card,Kolkata,Monthly rent
+T00862,U122,2020-05-14,income,bonus,84260.0,UPI,Kolkata,Salary cash
+T12056,U009,2021-01-13,expense,others,340.0,Bank Transfer,Pune,Uber to office
+T01549,U140,2022-08-31,expense,rent,462.0,Bank Transfer,Delhi,Salary
+T06477,U024,2019-08-29,expense,food,1615.0,Card,Jaipur,Monthly rent
+T04124,U110,2021-11-21,expense,food,143.0,Cash,Hyderabad,Gift
+T12077,U116,2019-10-20,expense,rent,121.0,Bank Transfer,pune,Dinner at resto
+T07585,U085,2021-12-20,expense,food,4142.0,Card,Hyderabad,
+T06442,U053,2021-04-12,expense,savings,242.0,Bank Transfer,Pune,Netflix subscription
+T13956,U004,2022-09-02,expense,health,195.0,Bank Transfer,Mumbai,
+T11851,U016,2021-03-13,income,bonus,49797.0,UPI,HYDERABAD,btu7vHomJg
+T11469,U025,2019-03-11,expense,travel,482.0,Cash,Jaipur,Dinner at resto
+T11333,U191,2020-12-19,expense,health,1364.0,Cash,Bengaluru,Gift
+T05507,U150,2022-12-29,expense,food,102.0,Card,PUNE,Salary
+T11652,U035,2020-04-28,expense,entertainment,1353.0,Cash,Pune,Netflix subscription via app
+T13313,U171,2021-10-29,expense,travel,1879.0,,Hyderabad,Uber to office
+T13347,U063,2020-09-18,expense,travel,1691.0,UPI,,Doctor visit
+T14248,U065,2022-06-06,expense,trvael,512.0,UPI,Jaipur,Gift cash
+T13482,U184,2022-03-21,expense,food,510.0,UPI,Bengaluru,Dinner at resto 
+T00524,U144,2020-04-13,income,other income,79740.0,Bank Transfer,Ahmedabad,Monthly rent 
+T08259,U178,2021-05-15,expense,food,502.0,Cash,Mumbai,Doctor visit via app
+T13009,U077,2020-02-02,expense,rent,818.0,UPI,Bengaluru,Paid electricity bill
+T01940,U007,2019-04-02,income,bonus,70811.0,UPI,BENGALURU,Grocery shopping
+T11061,U126,2021-12-20,expense,food,895.0,Cash,Mumbai,Doctor visit cash
+T05113,U163,2022-04-29,expense,food,138.0,Cash,Delhi,Doctor visit
+T02107,U098,2022-06-14,expense,food,303.0,UPI,Delhi,Netflix subscription
+T11748,U166,2019-12-16,expense,savings,171.0,Cash,Pune,Netflix subscription
+T00011,U098,2022-08-09,expense,others,1126.0,Card,Lucknow,Gift
+T10465,U024,2021-09-01,expense,food,45.0,UPI,Kolkata,Paid electricity bill late
+T14322,U145,2019-04-11,expense,rent,226.0,Card,Lucknow,kU45GCiJb
+T12195,U038,2020-09-28,expense,entertainment,116.0,Cash,Chennai,Dinner at resto via app
+T06840,U058,2019-02-24,expense,food,131.0,UPI,hyderabad,
+T06705,U019,2020-05-11,expense,food,36.0,Card,Chennai,Grocery shopping
+T06127,U128,2020-05-16,expense,food,399.0,UPI,Mumbai,Course fee
+T08579,U156,2019-05-18,income,other income,54851.0,Card,Kolkata,Monthly rent
+T13715,U095,2021-01-27,expense,entertainment,399.0,Card,Chennai,Paid electricity bill late
+T08166,U191,2019-07-14,expense,rent,66.0,Cash,Ahmedabad,Monthly rent cash
+T13089,U169,2021-06-24,income,bonus,67416.0,Card,Kolkata,Netflix subscription 
+T09751,U114,2020-01-22,expense,otherrs,155.0,Cash,Delhi,Salary
+T05873,U153,2021-02-12,expense,food,211.0,Bank Transfer,Lucknow,
+T09857,U192,2020-03-05,income,salary,75719.0,Cash,Mumbai,
+T12182,U186,2019-07-30,expense,food,827.0,Card,Delhi,Dinner at resto 
+T01532,U117,2020-10-23,expense,fod,414.0,UPI,Hyderabad,Paid electricity bill
+T02202,U095,2021-10-01,expense,utilities,150.0,,Jaipur,
+T02348,U190,2022-10-19,expense,food,93.0,Card,MUMBAI,Doctor visit
+T03454,U120,2022-09-27,expense,rent,1442.0,Cash,Pune,Monthly rent
+T13419,U031,2022-11-14,expense,rent,200.0,Bank Transfer,Jaipur,Netflix subscription late
+T04389,U150,2019-08-21,expense,food,636.0,Card,Lucknow,I5WXOIpeusoSNhdQNqv
+T03651,U015,2020-06-20,income,salaary,70377.0,Card,Delhi,Salary
+T07074,U080,2022-06-04,expense,rent,365.0,Cash,Jaipur,Course fee 
+T02490,U187,2019-03-28,expense,rent,341.0,Card,Ahmedabad,Netflix subscription
+T14521,U029,2022-02-16,expense,food,1388.0,Bank Transfer,Chennai,Uber to office cash
+T01759,U083,2022-10-14,expense,savings,30.0,Card,Lucknow,Dinner at resto
+T09214,U112,2020-02-21,income,salary,66805.0,Card,Kolkata,Doctor visit
+T05416,U129,2022-05-11,expense,rent,143.0,UPI,Kolkata,Dinner at resto 
+T08520,U069,2022-01-21,expense,saving,191.0,UPI,Jaipur,Grocery shopping
+T08582,U134,2021-07-02,expense,savings,122.0,Cash,Delhi,Salary
+T13397,U105,2022-09-28,income,salary,78721.0,UPI,Mumbai,uVrWgxokiPd
+T11365,U048,2021-11-17,expense,food,634.0,Card,Lucknow,
+T02086,U080,2021-03-09,expense,food,58.0,Cash,Mumbai,Gift
+T10264,U182,2021-07-24,expense,food,59.0,Bank Transfer,Bengaluru,Doctor visit 
+T07024,U050,2019-10-10,expense,entertainment,1040.0,Card,Chennai,Dinner at resto
+T09852,U025,2019-07-08,expense,utilities,361.0,UPI,Ahmedabad,Course fee
+T03826,U041,2019-04-04,expense,education,630.0,UPI,Pune,Gift
+T01224,U032,2019-05-10,income,other income,32484.0,Bank Transfer,Delhi,Doctor visit 
+T11234,U035,2022-06-01,income,salary,54866.0,Bank Transfer,Hyderabad,Course fee cash
+T13759,U031,2020-05-23,income,other income,43561.0,Card,ahmedabad,Netflix subscription
+T02213,U129,2020-05-25,income,bonus,49679.0,Card,Mumbai,Paid electricity bill
+T09136,U082,2022-03-06,expense,rent,97.0,Card,Mumbai,Salary via app
+T02253,U069,2022-07-19,expense,ravel,156.0,UPI,Delhi,Grocery shopping cash
+T06904,U039,2020-02-16,expense,food,2463.0,Card,Mumbai,Salary
+T12181,U176,2019-03-01,expense,rent,1696.0,Bank Transfer,Jaipur,Netflix subscription
+T12408,U182,2019-01-11,expense,food,2464.0,UPI,Lucknow,Gift
+T01085,U088,2022-07-13,expense,utilities,127.0,UPI,Kolkata,Uber to office
+T07161,U003,2022-03-18,expense,rent,977.0,Cash,PUNE,Monthly rent via app
+T02950,U181,2019-05-25,income,bonus,27496.0,Bank Transfer,Pune,Monthly rent
+T12728,U029,2020-12-31,expense,food,480.0,UPI,Bengaluru,LaaI0Oql910jb
+T11593,U134,2019-10-02,expense,ren,253.0,UPI,Jaipur,Dinner at resto
+T02240,U075,2020-09-06,expense,rent,-168.0,Cash,Pune,Monthly rent via app
+T09832,U185,2020-02-18,expense,travel,371.0,Card,Bengaluru,
+T08494,U067,2020-12-02,expense,travel,4680.0,Bank Transfer,Kolkata,Netflix subscription
+T00366,U124,2021-06-27,expense,rent,43.0,Card,Pune,Uber to office cash
+T02796,U171,2022-05-18,expense,food,57.0,,Ahmedabad,QCBI8rEsaTpKgGw
+T09050,U015,2019-02-27,expense,rent,1560.0,Card,Mumbai,Salary
+T13203,U038,2022-01-28,income,other income,48442.0,Card,Hyderabad,Grocery shopping
+T11881,U002,2020-07-17,expense,rent,1580.0,UPI,Lucknow,Grocery shopping
+T10063,U100,2019-10-05,expense,others,359.0,Cash,Jaipur,Dinner at resto
+T05957,U162,2022-01-31,expense,utilities,774.0,Bank Transfer,Kolkata,Uber to office cash
+T01895,U025,2022-11-30,expense,travel,999999.0,Card,Delhi,Course fee
+T01513,U066,2020-10-25,expense,utilities,2687.0,Card,bengaluru,Dinner at resto
+T03883,U011,2019-02-25,expense,rent,583.0,UPI,Hyderabad,Salary
+T07063,U034,2021-02-16,expense,savings,2579.0,UPI,Kolkata,Uber to office late
+T07212,U176,2019-04-26,expense,rent,1159.0,UPI,delhi,W19psSdSk
+T09328,U145,2020-08-02,expense,food,391.0,Cash,Chennai,Dinner at resto
+T03590,U020,2022-05-31,expense,food,7275.0,Card,Kolkata,Gift
+T02357,U049,2022-02-25,expense,rent,846.0,Bank Transfer,delhi,Monthly rent
+T09815,U124,2020-05-12,expense,rent,726.0,Cash,Hyderabad,Netflix subscription
+T14190,U118,2019-09-08,expense,utilities,121.0,Bank Transfer,Mumbai,Uber to office 
+T11207,U143,2020-10-18,expense,utilities,300.0,UPI,Pune,Course fee
+T04390,U156,2021-04-21,expense,others,146.0,Card,Lucknow,Salary
+T06910,U144,2021-09-12,income,salary,58305.0,Cash,Pune,Grocery shopping cash
+T10487,U189,2019-04-13,expense,food,156.0,UPI,,Salary
+T11147,U096,2021-12-09,expense,food,130.0,UPI,Hyderabad,Paid electricity bill
+T10591,U034,2019-07-30,expense,savings,178.0,Card,Chennai,Doctor visit late
+T07558,U017,2019-10-11,expense,helath,622.0,Cash,Mumbai,Dinner at resto
+T04452,U189,2020-10-16,expense,tuilities,5659.0,UUPI,Ahmedabad,Gift
+T05165,U039,2020-10-27,expense,food,227.0,Card,Jaipur,Grocery shopping
+T01800,U119,2022-11-22,expense,travel,1396.0,UPI,Delhi,Course fee
+T14380,U012,2019-03-12,expense,entertainment,233.0,Card,Mumbai,Grocery shopping via app
+T07243,U050,2020-09-29,income,other income,69200.0,Cash,Hyderabad,
+T14702,U028,2020-02-12,expense,entertainment,627.0,Card,Ahmedabad,Grocery shopping
+T08020,U172,2021-03-28,expense,education,1812.0,aCsh,chennai,Monthly rent late
+T04289,U160,2021-06-02,expense,food,307.0,Card,Delhi,o24GtJ0jH7DHCxvb0p
+T07561,U090,2020-12-29,income,salary,46569.0,Cash,Chennai,Gift
+T06275,U161,2021-12-30,expense,utilities,203.0,Card,Bengaluru,Paid electricity bill via app
+T12956,U126,2021-05-21,expense,food,485.0,Bank Transfer,Jaipur,
+T09496,U087,2019-03-09,expense,traevl,428.0,Bank Transfer,,
+T11998,U057,2022-12-01,expense,trvael,146.0,Card,Chennai,Monthly rent
+T14808,U109,2022-07-10,expense,entertainment,115.0,Bank Transfer,Hyderabad,Monthly rent
+T01406,U049,2022-11-14,expense,rent,54.0,UPI,Pune,Dinner at resto 
+T05509,U114,2019-04-13,expense,food,1795.0,UPI,Kolkata,
+T12292,U049,2020-04-21,expense,rent,1051.0,Cash,Mumbai,Paid electricity bill
+T07612,U039,2021-02-06,income,bonus,62985.0,Cash,Bengaluru,Salary
+T01542,U052,2021-09-11,income,other income,67153.0,UPI,Bengaluru,Grocery shopping late
+T12640,U160,2022-01-16,expense,entertainment,1344.0,Card,Delhi,Paid electricity bill 
+T04645,U005,2019-05-16,expense,tilities,225.0,Cash,Mumbai,Netflix subscription
+T09863,U177,2021-06-15,expense,food,829.0,UPI,Hyderabad,Gift
+T10699,U015,2020-06-07,expense,rnet,196.0,,Mumbai,Salary 
+T04859,U130,2020-08-19,expense,food,5777.0,Cash,Ahmedabad,Gift
+T06953,U053,2022-01-18,expense,travel,118.0,UPI,Lucknow,Dinner at resto
+T14979,U101,2019-11-08,expense,education,406.0,Bank Transfer,Mumbai,Course fee
+T07284,U140,2019-03-16,expense,rent,103.0,Bank Transfer,Pune,
+T01915,U072,2021-04-03,expense,rent,332.0,Cash,Jaipur,Course fee
+T07556,U107,2022-01-14,expense,savings,720.0,Card,Chennai,Grocery shopping
+T14090,U023,2020-09-28,expense,food,935.0,Bank Transfer,Lucknow,Doctor visit
+T00396,U107,2022-02-07,income,bonus,49380.0,Card,Hyderabad,Doctor visit
+T05882,U033,2020-10-01,expense,entertainment,272.0,Cash,Mumbai,Gift
+T11843,U076,2019-04-03,expense,food,65.0,UPI,Hyderabad,Salary cash
+T10558,U050,2020-10-23,expense,food,115.0,Cash,Lucknow,Paid electricity bill
+T05667,U028,2021-02-28,expense,education,273.0,Bank Transfer,Lucknow,Netflix subscription
+T01743,U186,2022-11-30,expense,rent,25.0,Cash,Hyderabad,Dinner at resto via app
+T14905,U147,2020-08-25,expense,rent,609.0,Cash,,Doctor visit
+T04210,U061,2022-02-06,expense,food,837.0,Bank rTansfer,,Netflix subscription
+T10251,U057,2020-06-13,expense,entertainment,188.0,Bank Transfer,Hyderabad,Gift
+T09819,U167,2022-10-20,expense,rent,374.0,UPI,Bengaluru,Course fee
+T07314,U142,2022-02-04,expense,entertainment,1680.0,UPI,Hyderabad,Monthly rent via app
+T03298,U082,2021-12-04,expense,food,1779.0,UPI,Delhi,Paid electricity bill cash
+T09943,U044,2020-05-27,income,salary,58238.0,Bank Transfer,Lucknow,Dinner at resto 
+T13520,U015,2021-07-02,expense,savings,1405.0,Cash,Chennai,
+T05966,U092,2019-10-12,expense,utilities,119.0,Card,Ahmedabad,Doctor visit
+T02208,U065,2019-12-18,expense,others,267.0,Cash,Mumbai,Salary
+T02402,U170,2019-12-31,expense,savings,97.0,Card,Bengaluru,Monthly rent
+T01045,U175,2019-04-28,expense,others,1828.0,Card,Lucknow,Course fee
+T03822,U175,2019-09-26,expense,others,316.0,UPI,jaipur,Monthly rent
+T13682,U105,2019-10-02,expense,utilities,154.0,Cash,Delhi,Course fee
+T04660,U168,2021-05-11,expense,utilities,3285.0,Bank Transfer,Lucknow,Salary
+T03467,U058,2019-11-25,expense,rent,264.0,Card,Ahmedabad,Doctor visit 
+T10731,U176,2022-11-25,expense,food,1474.0,UPI,Chennai,Grocery shopping
+T04619,U011,2021-08-27,expense,education,77.0,Bank Transfer,Bengaluru,Dinner at resto
+T12671,U021,2022-03-24,expense,others,908.0,Cash,Pune,Monthly rent
+T00519,U089,2019-09-25,income,other income,52236.0,Cash,Kolkata,Gift
+T11238,U011,2019-04-15,expense,entertainment,1076.0,Bank Transfer,ahmedabad,Grocery shopping
+T01651,U017,2022-12-23,income,other income,40706.0,Cash,Kolkata,Uber to office cash
+T04852,U035,2020-12-30,income,other income,42452.0,Bank Transfer,Chennai,Grocery shopping
+T13940,U033,2022-04-22,expense,rent,1294.0,Cash,jaipur,Grocery shopping
+T04564,U112,2022-10-25,expense,rnt,1350.0,Card,Chennai,Doctor visit
+T10608,U002,2021-10-17,expense,rent,76.0,Card,Kolkata,
+T13474,U190,2019-03-29,expense,savings,272.0,Bank Transfer,Hyderabad,Uber to office
+T04226,U085,2021-03-16,expense,fod,1112.0,Card,Chennai,Salary
+T03719,U132,2020-01-04,expense,food,437.0,Bank Transfer,Chennai,Netflix subscription
+T13711,U096,2020-07-13,expense,savings,277.0,Cash,Delhi,
+T04174,U071,2022-01-25,income,other income,45077.0,Cash,Kolkata,iTiJ2bHuJOi7ftK474Oi
+T04156,U121,2022-08-25,income,salary,53777.0,Cash,Kolkata,Gift late
+T14928,U070,2020-12-19,expense,travel,649.0,Card,Chennai,Paid electricity bill via app
+T06302,U007,2021-08-09,income,bonus,66776.0,UPI,Hyderabad,Monthly rent
+T12847,U126,2022-06-30,expense,entertainment,142.0,UPI,Delhi,Uber to office
+T04932,U042,2021-06-20,expense,rent,140.0,UPI,Kolkata,Dinner at resto
+T03698,U078,2021-10-16,expense,rent,830.0,Cash,Chennai,Grocery shopping 
+T03685,U101,2020-01-10,expense,utilities,401.0,Bank Transfer,Hyderabad,Course fee
+T05969,U015,2021-06-29,expense,food,597.0,Card,Hyderabad,Doctor visit
+T12419,U074,2019-02-25,expense,food,40.0,UPI,Ahmedabad,Doctor visit via app
+T03281,U086,2021-11-17,expense,utilities,-749.0,Card,AHMEDABAD,Uber to office
+T06965,U146,2022-04-13,expense,otthers,271.0,UPI,Lucknow,Course fee
+T05505,U100,2020-07-30,income,other income,46761.0,Bank Transfer,hyderabad,Netflix subscription
+T06227,U136,2021-03-10,expense,food,999999.0,UPI,Chennai,Salary
+T14506,U119,2019-02-23,income,bonus,52860.0,Card,Pune,Course fee
+T00287,U074,2019-04-01,income,bonus,62292.0,Bank Transfer,Delhi,Course fee
+T02313,U033,2022-01-02,expense,others,638.0,UPI,Pune,
+T00287,U074,2019-04-01,income,bonus,62292.0,Bank Transfer,Delhi,Course fee
+T13502,U157,2021-01-03,income,other income,61463.0,UPI,Chennai,Monthly rent
+T06392,U119,2019-02-09,expense,utilities,999999.0,Bank Transfer,Pune,Grocery shopping
+T06303,U184,2019-08-30,expense,food,220.0,Cash,Pune,Uber to office
+T12754,U147,2022-09-21,expense,food,64.0,Cash,Bengaluru,Salary
+T05660,U167,2021-04-14,expense,food,390.0,Card,Kolkata,
+T05244,U011,2020-03-30,income,salary,72563.0,Card,Kolkata,Paid electricity bill
+T08444,U120,2020-11-22,expense,utilities,15976.0,Cash,Kolkata,Xa1jKzVSBWb9j
+T09237,U044,2021-10-27,expense,travel,1438.0,,Delhi,Grocery shopping
+T05856,U101,2019-08-26,income,salary,64241.0,Card,pune,Salary
+T10350,U177,2020-03-27,expense,entertainment,319.0,Bank Transfer,Ahmedabad,Netflix subscription
+T03192,U021,2020-12-29,expense,rent,645.0,Card,Pune,
+T07811,U095,2022-01-11,expense,food,712.0,UPI,,Dinner at resto
+T09054,U048,2022-06-05,expense,food,1105.0,Bank Transfer,bengaluru,Doctor visit
+T12412,U149,2019-05-17,expense,utilities,647.0,UPI,Kolkata,Salary
+T11950,U118,2022-04-21,expense,food,1484.0,Cash,bengaluru,
+T04041,U117,2019-07-18,expense,rent,455.0,Card,Kolkata,Grocery shopping late
+T02460,U182,2021-11-04,expense,others,144.0,UPI,Kolkata,Course fee
+T12903,U144,2022-02-28,expense,entertainment,160.0,UPI,Lucknow,Grocery shopping
+T00550,U164,2021-03-27,expense,rent,1056.0,Bank Transfer,Delhi,Doctor visit
+T03096,U191,2021-10-02,expense,food,46.0,UPI,Jaipur,
+T13481,U142,2022-12-15,expense,utilities,621.0,Bank Transfer,lucknow,
+T08093,U071,2019-09-12,expense,rent,1618.0,Bank Transfer,Pune,Course fee cash
+T12713,U051,2022-05-12,expense,retn,94.0,Card,Kolkata,
+T09685,U027,2021-06-03,expense,food,30.0,UPI,Chennai,Uber to office
+T08197,U110,2022-10-22,expense,food,247.0,Cash,Mumbai,Grocery shopping via app
+T07358,U053,2021-02-19,expense,utilities,272.0,Bank Transfer,Ahmedabad,Gift
+T10554,U002,2021-10-01,expense,travel,1889.0,Bank Transfer,Jaipur,Uber to office
+T06632,U041,2021-03-24,expense,food,152.0,Bank Transfer,lucknow,Dinner at resto
+T09240,U127,2019-10-19,income,salary,71939.0,Card,Mumbai,Uber to office
+T12259,U023,2019-03-30,expense,rent,29.0,Bank Transfer,Bengaluru,Netflix subscription
+T10672,U147,2020-06-09,expense,others,283.0,Cash,Hyderabad,Course fee
+T02034,U013,2020-12-27,expense,others,872.0,UPI,Kolkata,Paid electricity bill
+T05876,U160,2021-03-17,expense,rent,221.0,Cash,Mumbai,Monthly rent 
+T00309,U122,2022-01-24,expense,food,999.0,UPI,Kolkata,
+T06508,U138,2022-03-18,expense,rent,362.0,Cash,Lucknow,Monthly rent via app
+T12394,U083,2022-07-13,income,other income,65337.0,Card,Bengaluru,Salary
+T07179,U081,2019-08-01,expense,utilities,54.0,UPI,jaipur,Paid electricity bill 
+T06478,U048,2022-12-15,expense,utilities,555.0,Card,Hyderabad,Salary
+T11242,U182,2021-10-12,expense,entertanment,333.0,Card,Delhi,Doctor visit late
+T13499,U003,2022-12-20,expense,entertainment,171.0,Cash,Ahmedabad,Uber to office
+T09169,U122,2019-07-17,expense,utilities,87.0,Card,jaipur,Monthly rent cash
+T05270,U068,2019-10-11,expense,food,39.0,Card,Bengaluru,Dinner at resto
+T10522,U091,2019-07-23,expense,food,863.0,Cash,Lucknow,Netflix subscription
+T00354,U177,2020-06-19,expense,savings,281.0,Card,Chennai,Dinner at resto
+T04828,U014,2020-01-24,expense,rent,71.0,UPI,lucknow,Uber to office late
+T02172,U048,2020-09-18,expense,utilities,2398.0,UPI,Kolkata,Uber to office 
+T13484,U124,2021-01-06,income,other income,48651.0,UPI,Jaipur,Course fee
+T04590,U114,2022-06-06,expense,utilities,94.0,Bank Transfer,Chennai,Monthly rent
+T04430,U031,2020-09-14,expense,travel,278.0,UPI,Bengaluru,G27R5ywI9Fa
+T01476,U053,2022-04-19,expense,food,1147.0,Card,Mumbai,Dinner at resto
+T04164,U107,2020-02-29,expense,entertainment,290.0,Cash,Chennai,Dinner at resto
+T13957,U032,2022-08-11,expense,food,393.0,Bank Transfer,Delhi,Netflix subscription
+T10075,U104,2020-01-13,expense,travel,1749.0,UPI,Lucknow,Paid electricity bill cash
+T13515,U188,2021-02-17,expense,entertainment,286.0,Card,Kolkata,Uber to office late
+T07662,U090,2021-10-16,expense,education,755.0,UPI,Chennai,Grocery shopping via app
+T12706,U006,2020-01-21,expense,savings,320.0,UPI,Lucknow,Gift
+T09104,U155,2019-10-15,expense,entertainment,8.0,Cash,Jaipur,Course fee
+T04682,U156,2022-04-05,expense,food,2658.0,UPI,Delhi,Monthly rent
+T07733,U173,2020-02-24,expense,food,279.0,Card,Jaipur,
+T05009,U191,2021-01-04,expense,travel,230.0,UPI,Hyderabad,Doctor visit
+T00766,U129,2020-10-30,expense,rent,726.0,Cash,Lucknow,Salary
+T08238,U181,2022-05-11,expense,food,327.0,Card,Lucknow,Paid electricity bill
+T03495,U083,2020-07-07,expense,travel,3613.0,Bank Transfer,Chennai,Salary
+T02185,U064,2022-09-06,income,bonus,79680.0,UPI,Lucknow,W1gAh5FqNSNSgPyGL
+T06733,U007,2020-11-29,expense,food,280.0,Bank Transfer,Kolkata,Netflix subscription cash
+T02072,U090,2019-02-11,expense,education,177.0,Card,Chennai,Netflix subscription
+T03502,U190,2020-12-19,income,salary,41272.0,UPI,Mumbai,Paid electricity bill
+T10774,U050,2021-05-04,expense,food,461.0,Card,Delhi,Gift via app
+T00987,U181,2021-02-16,expense,entertainment,83.0,Bank Transfer,,Salary
+T07700,U058,2021-03-10,expense,education,1718.0,UPI,Mumbai,Paid electricity bill
+T13119,U141,2021-10-03,expense,foood,111.0,Card,Bengaluru,Paid electricity bill
+T11649,U058,2020-10-03,expense,food,207.0,Card,Bengaluru,Uber to office via app
+T05125,U028,2019-01-08,expense,entertainment,98.0,Card,Chennai,Grocery shopping
+T10714,U104,2020-11-10,expense,rent,1171.0,Card,Chennai,Gift cash
+T05721,U126,2019-12-16,expense,travel,265.0,Cash,Lucknow,Dinner at resto cash
+T01476,U053,2022-04-19,expense,food,1147.0,Card,Mumbai,Dinner at resto
+T01780,U175,2022-12-19,expense,travel,123.0,Bank Transfer,Hyderabad,Doctor visit
+T03779,U179,2022-08-03,expense,travel,197.0,Card,Hyderabad,Netflix subscription via app
+T04454,U128,2020-04-22,expense,entertainment,596.0,UPI,Pune,Grocery shopping
+T08395,U131,2019-09-16,expense,rent,491.0,UPI,Bengaluru,Dinner at resto
+T06143,U171,2021-10-16,expense,entertainment,171.0,,,Paid electricity bill
+T04448,U063,2020-04-04,expense,utiilties,642.0,UPI,Ahmedabad,Uber to office
+T10375,U188,2022-09-01,expense,travel,234.0,Cash,Delhi,
+T08062,U107,2022-04-21,expense,foood,113.0,Cash,Hyderabad,Doctor visit
+T04915,U029,2020-05-28,expense,rent,493.0,UPI,Delhi,Monthly rent
+T07323,U169,2021-02-05,expense,savings,587.0,UPI,KOLKATA,Paid electricity bill late
+T04481,U040,2021-02-28,expense,food,874.0,Cash,Chennai,Salary
+T06223,U024,2021-05-28,income,other income,61219.0,Card,Jaipur,Grocery shopping
+T06551,U069,2020-11-07,expense,rent,1141.0,Bank Transfer,delhi,Doctor visit
+T03462,U121,2021-02-12,expense,rent,68.0,UPI,Bengaluru,Gift late
+T04910,U175,2022-10-15,expense,utilities,3417.0,UPI,Hyderabad,Doctor visit
+T04138,U154,2019-03-23,expense,travel,606.0,Card,Chennai,Course fee late
+T13171,U113,2021-06-23,expense,rent,608.0,Bank Transfer,Mumbai,Course fee late
+T00726,U174,2021-10-01,expense,food,344.0,Card,Chennai,Gift
+T07417,U001,2021-11-01,expense,savings,384.0,,Delhi,
+T03000,U107,2022-10-11,expense,utilities,1304.0,Card,Jaipur,2S1WavXivKZ31ka
+T07988,U020,2020-07-04,expense,utilities,648.0,Bank Transfer,Pune,Salary
+T09601,U063,2021-02-07,expense,food,85.0,Card,Ahmedabad,Gift
+T01121,U098,2019-08-04,expense,rent,100.0,UPI,mumbai,Dinner at resto
+T07190,U108,2020-01-01,expense,entertainment,495.0,UPI,Pune,Monthly rent 
+T02549,U107,2019-02-01,expense,food,1011.0,Cash,Jaipur,Dinner at resto
+T06554,U080,2021-03-26,expense,food,152.0,,Bengaluru,Dinner at resto
+T10619,U083,2021-05-31,expense,food,344.0,,Mumbai,Paid electricity bill cash
+T05819,U100,2019-11-03,expense,food,139.0,Bank Transfer,ahmedabad,
+T05062,U113,2021-03-01,expense,rent,289.0,Cash,,Monthly rent
+T02364,U022,2022-01-07,income,bonus,42045.0,UPI,Lucknow,Netflix subscription
+T04625,U029,2022-01-05,expense,education,1955.0,UPI,Ahmedabad,
+T07322,U063,2020-12-17,expense,education,327.0,Cash,Delhi,Gift via app
+T04124,U110,2021-11-21,expense,food,143.0,Cash,Hyderabad,Gift
+T03383,U015,2019-01-19,expense,utilities,267.0,Bank Transfer,hyderabad,Grocery shopping cash
+T04400,U069,2019-10-19,expense,food,871.0,Bank Transfer,Mumbai,Doctor visit
+T09630,U017,2020-09-04,expense,food,593.0,Cash,lucknow,Doctor visit 
+T01554,U091,2022-04-17,expense,entertainment,493.0,Card,Lucknow,Dinner at resto
+T10871,U023,2020-12-27,expense,others,176.0,UPI,Jaipur,Paid electricity bill
+T02486,U003,2019-05-15,expense,rent,493.0,Bank Transfer,Delhi,Netflix subscription
+T11355,U117,2019-10-11,expense,utilities,167.0,Card,Chennai,Paid electricity bill 
+T09065,U017,2020-12-16,expense,foo,189.0,Bank Transfer,Mumbai,Course fee
+T00953,U167,2019-02-08,expense,others,972.0,Cash,Hyderabad,Course fee
+T13195,U180,2019-01-23,expense,rent,383.0,Bank Transfer,Jaipur,Doctor visit
+T07019,U095,2022-05-24,expense,food,366.0,UPI,Pune,Uber to office
+T11681,U150,2022-10-01,expense,food,405.0,UPI,Chennai,
+T01825,U176,2019-09-17,expense,rent,84.0,Bank Transfer,Delhi,Doctor visit via app
+T09424,U120,2021-03-19,expense,food,503.0,Card,Ahmedabad,Course fee
+T13558,U074,2019-06-22,expense,food,1560.0,Cash,chennai,Netflix subscription
+T00353,U061,2021-05-27,expense,entertainment,105.0,UPI,Pune,Gift
+T10031,U063,2020-04-18,expense,rent,925.0,UPI,Kolkata,
+T12026,U156,2020-06-30,expense,rent,431.0,Card,MUMBAI,
+T08976,U034,2020-06-15,income,bonus,54751.0,Card,Hyderabad,Uber to office 
+T03487,U005,2019-09-04,expense,health,940.0,Bank Transfer,Jaipur,Monthly rent
+T02720,U103,2022-04-30,expense,travel,322.0,Bank Transfer,Ahmedabad,Monthly rent cash
+T09700,U191,2020-01-12,expense,food,653.0,Cash,Kolkata,Paid electricity bill
+T09296,U100,2020-07-21,expense,food,2383.0,Bank Transfer,Hyderabad,Doctor visit
+T14165,U094,2021-01-23,expense,ent,503.0,Card,Chennai,
+T12870,U090,2021-01-19,expense,savings,226.0,Card,Jaipur,Netflix subscription via app
+T12167,U011,2022-02-22,expense,food,3769.0,Card,Mumbai,
+T12966,U102,2021-04-28,expense,rent,665.0,Cash,Chennai,Course fee
+T14272,U024,2019-10-14,income,salary,81837.0,Bank Transfer,Kolkata,Doctor visit via app
+T02936,U179,2020-07-11,expense,food,821.0,Cash,Lucknow,Gift via app
+T13414,U077,2022-10-31,expense,rent,364.0,Cassh,Ahmedabad,Gift
+T09649,U161,2020-01-11,expense,utilities,301.0,UPI,Delhi,Grocery shopping late
+T04714,U182,2020-04-24,expense,food,2051.0,PI,Ahmedabad,Grocery shopping via app
+T04506,U020,2019-04-20,expense,utilities,823.0,Bank Transfer,Bengaluru,Netflix subscription
+T09392,U025,2019-09-18,expense,food,771.0,UPI,Chennai,
+T06346,U150,2020-11-29,expense,,234.0,UPI,bengaluru,Monthly rent
+T07827,U020,2022-07-09,expense,utilities,382.0,Cash,Hyderabad,Dinner at resto via app
+T00693,U048,2022-01-19,expense,utilities,352.0,Bank Transfer,Chennai,Netflix subscription
+T00217,U160,2019-02-16,expense,utilities,385.0,UPI,Lucknow,Paid electricity bill
+T00323,U117,2022-12-05,expense,rent,404.0,Cash,Lucknow,
+T06222,U036,2022-12-27,expense,rent,731.0,UPI,Lucknow,sRWMM1cbDjiysXuqTo
+T00968,U003,2021-10-10,expense,travel,628.0,UPI,Lucknow,Paid electricity bill
+T06300,U061,2022-12-10,expense,entertainment,356.0,Bank Transfer,Ahmedabad,Doctor visit late
+T09348,U144,2019-08-30,expense,food,335.0,UPI,Chennai,Dinner at resto
+T02952,U166,2021-05-01,expense,rent,827.0,Cash,Chennai,Dinner at resto 
+T11656,U009,2019-03-01,expense,food,692.0,Bank Transfer,Bengaluru,Paid electricity bill
+T05689,U085,2021-08-20,expense,ttravel,446.0,Bank Transfer,Lucknow,Doctor visit 
+T04998,U121,2020-01-30,expense,rent,468.0,Card,Delhi,Paid electricity bill cash
+T11474,U123,2019-11-29,expense,others,274.0,UPI,Kolkata,Paid electricity bill
+T10631,U020,2022-10-02,expense,rent,664.0,Cash,Chennai,Monthly rent
+T11600,U165,2021-03-16,expense,rent,151.0,Cash,Jaipur,Dinner at resto
+T14274,U162,2021-10-17,expense,rent,1597.0,Card,Delhi,Grocery shopping
+T14955,U042,2022-02-18,expense,utilities,2523.0,Card,Kolkata,Dinner at resto
+T08820,U102,2020-10-04,expense,rent,259.0,Bank Transfer,Hyderabad,Dinner at resto cash
+T11235,U142,2021-11-23,expense,health,1800.0,Bank Transfer,Chennai,Uber to office
+T14359,U165,2022-03-21,income,other income,65568.0,UPI,Bengaluru,Salary
+T11447,U067,2022-12-11,income,bonus,25419.0,Cash,Kolkata,Doctor visit
+T06823,U091,2019-06-18,income,salary,67371.0,Bank Transfer,Jaipur,
+T10289,U142,2019-12-05,expense,utilities,348.0,Bank Transfer,MUMBAI,Uber to office
+T00210,U192,2022-08-13,expense,food,474.0,Bank Transfer,Hyderabad,Course fee 
+T03799,U161,2022-06-11,expense,food,355.0,Card,Pune,
+T01968,U040,2021-06-18,expense,entertainment,2153.0,Card,mumbai,Netflix subscription late
+T11490,U034,2021-02-26,expense,education,2487.0,UPI,Delhi,Grocery shopping
+T09953,U003,2022-11-18,expense,health,90.0,Bank Transfer,Pune,Uber to office
+T13471,U099,2019-11-07,expense,rent,45.0,Bank Transfer,Hyderabad,
+T11751,U005,2022-08-19,expense,utilities,162.0,UPI,Lucknow,Paid electricity bill cash
+T03662,U163,2022-05-23,expense,rrent,439.0,UPI,Hyderabad,Dinner at resto
+T13335,U045,2021-07-29,expense,utilities,590.0,Bank Transfer,Kolkata,
+T01187,U161,2022-01-10,expense,savings,224.0,Card,Hyderabad,Salary
+T01908,U124,2021-08-27,expense,food,380.0,Card,Chennai,Gift cash
+T07309,U152,2021-01-11,expense,education,796.0,Cash,Mumbai,Dinner at resto cash
+T10398,U042,2020-03-20,income,other income,42309.0,UPI,Pune,Uber to office
+T09930,U042,2021-12-12,expense,rent,638.0,Cash,Hyderabad,Grocery shopping via app
+T06224,U081,2019-09-02,expense,food,360.0,UPI,Delhi,Course fee late
+T04696,U137,2021-03-10,expense,food,120.0,Bank Transfer,delhi,Monthly rent cash
+T10326,U049,2019-06-11,expense,entertainment,-772.0,Card,Ahmedabad,
+T07516,U011,2019-02-19,expense,entertainment,242.0,Bank Transfer,Pune,Paid electricity bill
+T07830,U108,2019-01-09,expense,food,450.0,Bank Transfer,Mumbai,Gift
+T05051,U188,2021-11-08,income,other income,51991.0,UPI,Delhi,Doctor visit
+T08926,U092,2021-10-14,expense,education,246.0,Bank Transfer,CHENNAI,Salary
+T13138,U179,2019-12-24,expense,food,766.0,Bank Transfer,Hyderabad,ujSgBw0L0eydUCC
+T12318,U090,2020-01-12,expense,rent,197.0,Card,Kolkata,Gift
+T02431,U151,2020-03-13,expense,others,21.0,Cash,lucknow,Doctor visit
+T13383,U032,2021-08-21,expense,others,435.0,UPI,Mumbai,
+T03395,U021,2019-06-28,expense,entertainment,2870.0,Bank Transfer,Chennai,Doctor visit via app
+T01913,U171,2019-09-30,expense,food,1723.0,UPI,Mumbai,Salary
+T08231,U019,2022-08-13,expense,entertainment,645.0,Cash,Pune,Salary
+T11022,U119,2022-11-21,expense,travel,95.0,UPI,Mumbai,Gift via app
+T00782,U050,2020-09-28,expense,food,19.0,UPI,Ahmedabad,Grocery shopping late
+T05287,U098,2019-08-23,expense,others,85.0,UPI,Pune,Uber to office
+T09633,U009,2022-05-02,expense,utlities,678.0,Bank Transfer,Kolkata,Grocery shopping late
+T03899,U060,2022-07-30,expense,health,374.0,UPI,Kolkata,Dinner at resto
+T14008,U029,2019-03-17,income,salary,68355.0,UPI,Jaipur,Monthly rent 
+T12069,U159,2021-09-21,expense,entertainment,410.0,UPI,Pune,Dinner at resto
+T13856,U023,2019-07-30,expense,rent,436.0,ash,Mumbai,U8Bx6ukO
+T10677,U112,2020-12-19,expense,utilities,4251.0,,Ahmedabad,Doctor visit cash
+T12350,U106,2019-03-06,expense,rent,226.0,Cash,Ahmedabad,Doctor visit
+T09440,U031,2020-09-06,expense,food,625.0,UPI,Pune,yq9HqfcXg
+T14936,U154,2019-04-04,expense,food,116.0,Card,hyderabad,Monthly rent via app
+T04606,U134,2021-03-11,expense,utilities,907.0,Bank Transfer,Pune,Dinner at resto cash
+T00212,U018,2020-03-10,expense,rent,60.0,Cash,Jaipur,Uber to office late
+T10449,U071,2022-04-18,expense,rent,969.0,Bank Transfer,Kolkata,JBPK5ZF9
+T10298,U078,2020-02-04,expense,travel,965.0,Cash,Mumbai,Doctor visit
+T11461,U028,2022-08-31,expense,education,833.0,Card,Lucknow,Dinner at resto
+T08183,U147,2022-05-29,expense,food,98.0,Cash,jaipur,Dinner at resto late
+T01250,U113,2020-10-13,expense,rent,471.0,Cash,bengaluru,
+T10053,U132,2021-03-16,expense,food,1609.0,Cash,Delhi,Netflix subscription via app
+T02673,U175,2021-05-10,expense,travel,611.0,Card,Lucknow,Dinner at resto
+T01462,U042,2022-09-10,expense,education,28.0,Card,Bengaluru,Grocery shopping late
+T07743,U078,2020-01-10,expense,food,73.0,UPI,Kolkata,Netflix subscription
+T05745,U110,2022-08-03,expense,travel,343.0,Bank Transfer,Lucknow,Uber to office
+T14125,U061,2021-04-05,expense,travel,34.0,UPI,Pune,
+T10475,U188,2022-11-17,expense,rent,912.0,UPI,jaipur,Netflix subscription 
+T02761,U090,2022-08-18,expense,food,52.0,UPI,Hyderabad,Dinner at resto
+T01881,U047,2019-07-23,expense,,188.0,Card,Mumbai,Grocery shopping
+T00107,U168,2021-03-30,expense,food,1657.0,UPI,Bengaluru,
+T00879,U093,2019-09-23,expense,rent,359.0,Card,Ahmedabad,Gift
+T06774,U130,2020-05-06,expense,entertainment,851.0,Bank Transfer,Ahmedabad,Dinner at resto
+T03995,U101,2020-04-20,expense,entertainment,877.0,Card,Bengaluru,Uber to office
+T13556,U061,2021-05-31,expense,utilities,72.0,Card,Ahmedabad,Gift via app
+T09811,U120,2020-10-31,expense,education,32.0,UPI,Ahmedabad,Uber to office
+T01751,U074,2022-01-11,expense,rent,505.0,Cash,Mumbai,Monthly rent
+T07692,U072,2020-04-13,expense,food,244.0,Card,Kolkata,Monthly rent
+T05152,U003,2022-10-05,expense,rent,770.0,Caash,Chennai,Dinner at resto via app
+T03879,U033,2021-02-03,expense,food,272.0,Cash,MUMBAI,Gift 
+T05865,U102,2021-02-12,income,salary,64546.0,Cash,Kolkata,Uber to office
+T12986,U080,2022-05-21,expense,utilities,114.0,Card,Hyderabad,Monthly rent 
+T01098,U114,2020-03-27,expense,travel,456.0,Cash,Jaipur,Netflix subscription via app
+T14735,U113,2021-09-26,expense,rent,251.0,Card,Ahmedabad,Netflix subscription
+T06462,U184,2020-09-20,expense,food,438.0,Card,Bengaluru,Doctor visit
+T02136,U113,2021-06-18,expense,utilities,202.0,UPI,Kolkata,Uber to office
+T09696,U152,2020-08-11,income,slaary,38406.0,Cash,Pune,Uber to office
+T05079,U176,2022-01-29,income,salary,68790.0,,Lucknow,Doctor visit
+T14702,U028,2020-02-12,expense,entertainment,627.0,Card,Ahmedabad,Grocery shopping
+T10433,U104,2021-05-10,expense,food,6563.0,Bank Transfer,Delhi,
+T12693,U049,2020-07-08,expense,food,2809.0,UPI,PUNE,Grocery shopping 
+T02299,U163,2020-05-18,expense,rent,155.0,Bank Transfer,Ahmedabad,Grocery shopping late
+T08984,U056,2022-12-16,expense,food,606.0,Bank Transfer,Jaipur,Paid electricity bill cash
+T13088,U021,2022-08-01,expense,travel,559.0,Cash,Delhi,Doctor visit via app
+T06529,U161,2019-12-05,expense,rent,258.0,UPI,delhi,Paid electricity bill
+T12711,U002,2022-11-10,income,salary,65639.0,Card,,Doctor visit
+T10555,U047,2020-08-02,expense,rent,48.0,UPI,Delhi,Netflix subscription
+T01866,U037,2019-05-28,expense,entertainment,590.0,UPII,Mumbai,Grocery shopping
+T07058,U024,2021-10-09,expense,rent,215.0,Cash,,Salary
+T04999,U181,2019-02-20,expense,entertainment,584.0,Bank Transfer,Mumbai,Monthly rent
+T10882,U060,2020-09-17,expense,rent,23.0,Cash,Kolkata,Netflix subscription 
+T07125,U127,2019-01-11,income,bonus,54080.0,Bank Transfer,Pune,Dinner at resto
+T09966,U087,2022-03-01,expense,food,134.0,Car,Jaipur,Paid electricity bill 
+T04177,U048,2019-11-20,expense,rent,2104.0,UPI,mumbai,Paid electricity bill late
+T03494,U083,2022-07-12,expense,fodo,1325.0,Card,Kolkata,0QM1FKSv5
+T12840,U087,2019-09-04,expense,food,354.0,UPI,Jaipur,
+T06109,U025,2022-08-02,expense,health,173.0,UPI,Bengaluru,Doctor visit late
+T13788,U172,2021-03-09,expense,utilities,5818.0,Bank Transfer,Mumbai,Uber to office
+T04881,U028,2019-09-02,expense,enteratinment,289.0,,Delhi,Monthly rent
+T07641,U120,2019-09-29,income,bnous,46068.0,Bank Transfer,Hyderabad,Monthly rent
+T00389,U181,2019-12-24,expense,utilities,494.0,Card,Hyderabad,Monthly rent
+T12163,U160,2019-11-11,expense,food,524.0,Bank Transfer,Delhi,Dinner at resto late
+T03496,U084,2020-12-25,expense,food,805.0,Bank Transfer,Jaipur,
+T04977,U010,2019-12-13,expense,rent,1707.0,Cash,Pune,Dinner at resto
+T07311,U009,2021-07-26,expense,food,1186.0,UPI,Pune,
+T10080,U147,2021-07-05,expense,food,2192.0,Cash,Mumbai,Paid electricity bill
+T13991,U159,2021-11-05,expense,food,1000.0,Cash,Jaipur,Uber to office
+T03104,U121,2020-11-21,expense,food,406.0,Card,Bengaluru,Dinner at resto
+T13196,U002,2019-02-19,expense,educatioon,797.0,Bank Transfer,Bengaluru,Dinner at resto
+T02930,U165,2022-04-14,expense,utilities,236.0,UPI,Mumbai,Monthly rent
+T10773,U076,2021-02-09,expense,entertainment,1009.0,Bank Transfer,Ahmedabad,Paid electricity bill late
+T07588,U066,2021-01-26,expense,food,67.0,Cash,Hyderabad,Netflix subscription
+T02816,U077,2020-01-17,expense,food,2025.0,UPI,Ahmedabad,Netflix subscription
+T03965,U009,2020-06-21,expense,food,442.0,Cash,Bengaluru,Doctor visit cash
+T05382,U179,2022-04-20,expense,rent,2196.0,UPI,Kolkata,Doctor visit
+T05533,U026,2021-06-24,expense,travel,45.0,Cash,Delhi,
+T07961,U183,2020-05-29,income,bonus,58237.0,Card,Bengaluru,MC4aK1kor4QMfJj
+T03125,U036,2019-12-11,income,other income,55619.0,Cash,Ahmedabad,Netflix subscription
+T07976,U039,2022-04-27,expense,food,33.0,Bank Transfer,Lucknow,
+T13252,U037,2019-03-27,expense,rent,867.0,UPI,Bengaluru,Monthly rent late
+T07022,U007,2019-08-20,income,bonus,64905.0,Bank Transfer,Hyderabad,Paid electricity bill
+T01453,U086,2022-12-21,expense,rent,970.0,PUI,Hyderabad,Uber to office
+T12438,U183,2019-08-20,expense,rent,665.0,Cash,Mumbai,Monthly rent
+T00324,U122,2021-03-28,expense,food,603.0,UPI,Mumbai,Dinner at resto late
+T12089,U059,2019-02-07,expense,travel,248.0,Bank Transfer,Ahmedabad,Course fee late
+T13944,U116,2020-04-08,expense,entertainment,78.0,Cash,Hyderabad,Paid electricity bill
+T05257,U038,2019-07-20,expense,rent,167.0,UPI,Kolkata,Uber to office
+T03928,U175,2022-02-11,expense,travel,551.0,Bank Transfer,Lucknow,Gift cash
+T04173,U060,2022-05-13,expense,utilities,243.0,Card,Ahmedabad,Dinner at resto cash
+T06722,U121,2020-07-25,expense,rent,222.0,Card,Delhi,Salary
+T04051,U060,2019-07-09,income,other income,65632.0,UPI,Bengaluru,Monthly rent 
+T06964,U115,2020-11-20,expense,utilities,549.0,Bank Transfer,Pune,Netflix subscription
+T02350,U086,2021-12-13,expense,travel,1684.0,Bank Transfer,Ahmedabad,Course fee
+T05843,U081,2021-04-03,income,salary,59544.0,Cash,Bengaluru,Dinner at resto
+T06080,U143,2020-12-30,expense,rent,265.0,UPI,DELHI,
+T03164,U146,2021-12-18,expense,utilities,299.0,Cash,Jaipur,GIb01vW1sjplv
+T03128,U189,2021-02-24,income,other income,55548.0,Bank Transfer,Mumbai,Netflix subscription
+T04840,U171,2020-11-29,expense,entertainment,755.0,Cash,Bengaluru,Salary
+T04577,U112,2020-06-09,expense,utilities,898.0,Cash,Delhi,Monthly rent
+T07926,U126,2019-09-02,expense,travel,653.0,Cash,Lucknow,Gift
+T06660,U135,2019-03-20,expense,food,-477.0,Cash,Pune,Netflix subscription
+T04626,U124,2020-04-08,expense,food,948.0,Cash,Mumbai,
+T00819,U067,2022-03-24,expense,ravel,153.0,Bank Transfer,Mumbai,Paid electricity bill
+T06745,U079,2020-07-04,expense,food,248.0,UPI,,Dinner at resto
+T13050,U055,2021-05-26,expense,food,349.0,Cash,Hyderabad,Doctor visit
+T09918,U067,2019-08-03,expense,rent,504.0,Card,Mumbai,
+T14718,U016,2019-11-05,expense,food,272.0,Bank Transfer,Chennai,Monthly rent
+T13360,U114,2021-05-07,expense,food,525.0,Cash,Kolkata,Grocery shopping
+T11106,U075,2020-08-01,expense,food,392.0,UPI,Chennai,Uber to office
+T04111,U028,2019-11-28,expense,travel,359.0,,Bengaluru,Bi9l5qrH8iR
+T14282,U127,2019-08-16,income,other income,69765.0,Card,Chennai,Dinner at resto
+T10136,U132,2020-07-13,expense,food,547.0,Card,Kolkata,Grocery shopping
+T13526,U140,2022-05-09,expense,entertainment,304.0,Bank Transfer,Bengaluru,Grocery shopping
+T14889,U122,2020-08-06,expense,savings,554.0,Bank Transfer,Pune,Grocery shopping
+T07847,U144,2021-07-04,expense,entertainment,643.0,Bank Transfer,Delhi,Monthly rent 
+T00683,U005,2021-11-09,expense,rent,1015.0,Bank Transfer,Mumbai,Uber to office late
+T12172,U112,2021-01-22,expense,utilities,385.0,UPI,Jaipur,Salary
+T13432,U167,2020-09-15,expense,food,152.0,UPI,Jaipur,Uber to office
+T01568,U122,2020-11-15,income,other income,43722.0,Bank Transfer,Ahmedabad,Uber to office
+T01661,U136,2019-10-10,expense,savinngs,189.0,Card,Delhi,Course fee
+T12523,U177,2022-02-24,expense,food,480.0,UPI,Lucknow,
+T14953,U182,2020-05-10,expense,savings,46.0,Cash,Pune,
+T14041,U087,2021-04-04,expense,food,410.0,Bank Transfer,Pune,Uber to office
+T06438,U102,2021-11-30,expense,rent,373.0,UPI,Ahmedabad,
+T10605,U030,2022-12-12,expense,health,1066.0,Bank Transfer,Kolkata,Gift
+T06159,U050,2022-12-07,expense,education,652.0,Cash,Bengaluru,
+T11635,U055,2021-02-09,expense,reent,508.0,Cash,Hyderabad,Doctor visit via app
+T04806,U075,2019-08-14,expense,rent,200.0,Card,Pune,Netflix subscription
+T00293,U098,2021-10-29,expense,travel,1071.0,Bank Transfer,Hyderabad,
+T13123,U131,2019-09-20,expense,food,77.0,Bank Transfer,Hyderabad,Doctor visit
+T09675,U021,2021-03-04,income,salary,53293.0,Card,Pune,Grocery shopping
+T10022,U004,2020-01-25,income,salary,60702.0,Bank Transfer,Hyderabad,Dinner at resto
+T13019,U190,2020-08-17,expense,rent,834.0,UPI,Hyderabad,Netflix subscription cash
+T04705,U008,2020-07-13,expense,food,2137.0,Card,Hyderabad,Netflix subscription
+T08564,U060,2021-06-14,expense,entertainment,122.0,Card,Mumbai,Netflix subscription late
+T05006,U177,2021-08-10,expense,rent,400.0,Bank Transfer,Delhi,Dinner at resto
+T14147,U052,2020-10-18,expense,rent,3004.0,Bank Transfer,Ahmedabad,Monthly rent
+T11463,U050,2021-02-20,expense,others,443.0,Card,Chennai,Course fee
+T01942,U036,2019-06-05,expense,food,160.0,Bank Transfer,Ahmedabad,
+T05386,U057,2021-09-22,expense,rent,269.0,UPI,Jaipur,uc9tyPnPEKEl
+T13103,U127,2021-06-04,expense,utilities,141.0,Bank Transfer,Bengaluru,Course fee via app
+T09458,U184,2020-10-07,expense,retn,810.0,Caard,Ahmedabad,xgzANZGXGWv3diPav
+T07597,U190,2020-03-20,expense,rent,1102.0,Bank Transfer,ahmedabad,Course fee
+T05571,U108,2022-01-18,expense,utilities,305.0,Cash,Kolkata,Paid electricity bill
+T09135,U105,2020-03-19,expense,utilities,314.0,Card,Ahmedabad,Course fee
+T00939,U092,2019-05-06,expense,food,166.0,Card,Jaipur,Paid electricity bill late
+T14611,U024,2019-12-19,expense,food,303.0,Cash,Bengaluru,Paid electricity bill cash
+T01571,U056,2020-03-22,income,other income,74232.0,Cash,Kolkata,
+T12473,U154,2020-04-20,income,other income,48014.0,Card,,Paid electricity bill cash
+T10647,U153,2019-12-07,expense,rent,415.0,Cash,pune,Salary
+T14415,U093,2021-10-23,expense,others,112.0,UPI,kolkata,Paid electricity bill
+T04704,U093,2022-10-20,expense,entertainment,494.0,,chennai,Paid electricity bill via app
+T04428,U189,2020-10-06,expense,education,438.0,Card,Hyderabad,Netflix subscription 
+T14216,U122,2019-12-11,expense,ffood,238.0,Bank Transfer,Mumbai,HLuHPmBO0XcSzjN
+T12750,U180,2022-08-23,expense,rent,237.0,Card,Jaipur,Uber to office via app
+T06635,U178,2020-03-29,expense,others,1187.0,Card,Pune,Monthly rent
+T12094,U114,2021-10-08,expense,travel,191.0,Cash,jaipur,
+T00809,U121,2020-01-03,expense,,1972.0,Cash,Ahmedabad,J4r2pNE0IFoMOxTf4
+T10218,U009,2019-10-16,expense,rent,764.0,Card,Delhi,Uber to office cash
+T07686,U006,2022-04-29,expense,food,665.0,Bank Transfer,Jaipur,Monthly rent late
+T03283,U078,2019-07-21,expense,education,378.0,UPI,Kolkata,Paid electricity bill 
+T01665,U150,2019-02-27,expense,others,258.0,Bank Transfer,Ahmedabad,Uber to office
+T12473,U154,2020-04-20,income,other income,48014.0,Card,,Paid electricity bill cash
+T09378,U011,2021-12-06,expense,rent,39.0,UPI,Bengaluru,Monthly rent
+T11762,U074,2022-08-15,expense,travel,19.0,Cash,Bengaluru,jWCa7A0dHlmHHo66ahtx
+T01994,U145,2020-09-22,income,bonus,61000.0,Cash,Hyderabad,Paid electricity bill
+T09845,U038,2020-04-09,expense,food,997.0,Card,Chennai,Uber to office
+T04142,U028,2020-12-12,expense,travel,394.0,Bank Transfer,Lucknow,umDAoU0g
+T06045,U172,2021-12-13,expense,food,55.0,Cash,Bengaluru,Monthly rent
+T07484,U028,2019-11-26,expense,food,11485.0,Card,Ahmedabad,Dinner at resto late
+T14584,U166,2022-01-26,income,bonus,56100.0,Bank Transfer,Pune,Gift
+T00234,U162,2019-05-25,expense,education,1365.0,Cash,Bengaluru,Course fee late
+T14925,U021,2020-09-09,expense,ffood,48.0,Card,Kolkata,Salary
+T14812,U061,2019-09-29,income,other income,78330.0,,Kolkata,Course fee 
+T11525,U103,2021-10-03,expense,rent,530.0,Bank Transfer,Lucknow,Doctor visit
+T04743,U129,2021-10-25,expense,food,1469.0,UPI,Mumbai,Salary
+T07181,U045,2020-05-26,income,salary,58353.0,Card,Pune,Grocery shopping 
+T01002,U136,2022-04-11,expense,travel,1206.0,Card,Delhi,Doctor visit
+T00198,U102,2019-01-29,expense,education,97.0,UPI,Lucknow,Monthly rent
+T06123,U085,2022-11-15,expense,food,272.0,Bank Transfer,Ahmedabad,Netflix subscription cash
+T00648,U082,2022-11-24,expense,utilities,1130.0,Cash,Mumbai,
+T11228,U084,2019-12-07,expense,savings,206.0,Card,Hyderabad,Grocery shopping
+T02759,U075,2021-08-07,income,bonus,66118.0,Bank Transfer,Chennai,QGSZoRuXJ3
+T08566,U020,2021-12-12,income,other income,72496.0,Bank Transfer,hyderabad,Grocery shopping via app
+T14372,U118,2020-09-10,expense,food,485.0,Cash,Chennai,Gift
+T07914,U161,2019-03-07,expense,entertainment,3091.0,Card,Mumbai,Course fee
+T12691,U123,2019-11-26,income,other income,51362.0,Bank Transfer,Jaipur,Monthly rent via app
+T04019,U166,2021-06-12,expense,savings,314.0,ard,Mumbai,Netflix subscription
+T13396,U051,2021-11-30,expense,food,891.0,Bank Transfer,Pune,Gift
+T06098,U084,2022-10-09,expense,food,75.0,Bank Transfer,Chennai,Salary cash
+T07685,U166,2020-06-03,expense,food,692.0,,Kolkata,Dinner at resto
+T00765,U178,2019-08-27,expense,rent,229.0,UPI,,Uber to office
+T09921,U012,2022-12-14,expense,food,21.0,Card,Chennai,Netflix subscription
+T00258,U130,2021-11-23,expense,entertainment,6087.0,Cash,Lucknow,Monthly rent
+T13233,U184,2022-01-24,expense,travel,289.0,Bankk Transfer,Hyderabad,
+T12225,U003,2022-04-01,income,other income,48377.0,Bank Transfer,Kolkata,Paid electricity bill via app
+T11514,U066,2020-06-20,expense,utilities,375.0,Card,Jaipur,Uber to office
+T07956,U051,2021-06-16,expense,food,1644.0,UPI,ahmedabad,Doctor visit cash
+T13388,U063,2020-02-24,expense,rent,464.0,Card,Mumbai,
+T13193,U159,2020-01-16,expense,utilities,278.0,Bank Transfer,Pune,Doctor visit
+T07567,U070,2019-08-09,expense,travel,833.0,UPI,Jaipur,Gift late
+T05700,U101,2019-06-15,expense,food,470.0,UPI,Pune,Uber to office

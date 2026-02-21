@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Financial Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-dark text-white">
+
+<div class="container mt-5">
+    <h1 class="mb-4">AI Financial Intelligence Dashboard</h1>
+
+    <div class="row">
+        <div class="col-md-6">
+            <input id="savings_rate" class="form-control mb-2" placeholder="Savings Rate (0-1)">
+            <input id="expense_ratio" class="form-control mb-2" placeholder="Expense Ratio (0-1)">
+            <input id="income_variance" class="form-control mb-2" placeholder="Income Variance">
+            <input id="expense_volatility" class="form-control mb-2" placeholder="Expense Volatility">
+            <input id="monthly_surplus" class="form-control mb-2" placeholder="Monthly Surplus">
+            <input id="expense_spike" class="form-control mb-2" placeholder="Expense Spike">
+
+            <button onclick="predict()" class="btn btn-primary mt-2">
+                Analyze Financial Health
+            </button>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card bg-secondary p-3">
+                <h3>Health Score</h3>
+                <h1 id="health_score">--</h1>
+
+                <h3>Stress Level</h3>
+                <h1 id="stress_level">--</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+function predict() {
+    const data = {
+        savings_rate: parseFloat(document.getElementById("savings_rate").value),
+        expense_ratio: parseFloat(document.getElementById("expense_ratio").value),
+        income_variance: parseFloat(document.getElementById("income_variance").value),
+        expense_volatility: parseFloat(document.getElementById("expense_volatility").value),
+        monthly_surplus: parseFloat(document.getElementById("monthly_surplus").value),
+        expense_spike: parseFloat(document.getElementById("expense_spike").value)
+    };
+
+    fetch("http://127.0.0.1:5000/predict", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify(data)
+    })
+    .then(response => response.json())
+    .then(result => {
+        document.getElementById("health_score").innerText = result.health_score;
+        document.getElementById("stress_level").innerText = result.stress_level;
+    });
+}
+</script>
+
+</body>
+</html>
