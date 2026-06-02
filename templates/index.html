@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FinAI - Premium Financial Dashboard</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+
+<body>
+
+  <!-- LOGIN PAGE -->
+  <div id="login" class="page login-page">
+    <div class="login-card">
+      <div class="login-logo">Fin<span>AI</span></div>
+      <div class="login-sub">Welcome back! Please login to your account.</div>
+      <form id="login-form">
+        <div class="form-group">
+          <label class="form-label">Email</label>
+          <input id="login-email" type="email" class="form-input" placeholder="Enter your email" required>
+        </div>
+        <div class="form-group">
+          <label class="form-label">Password</label>
+          <div style="position: relative;">
+            <input id="login-password" type="password" class="form-input" placeholder="••••••••"
+              style="padding-right: 40px;" required>
+            <div id="toggle-password"
+              style="position: absolute; right: 12px; top: 50%; transform: translateY(-50%); cursor: pointer; color: var(--text-light); display: flex;">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                <circle cx="12" cy="12" r="3"></circle>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="flex-center mt-24">
+          <button type="submit" id="login-btn" class="btn btn-primary">Login to Dashboard</button>
+        </div>
+        <div style="margin-top: 16px; text-align: center; font-size: 13px; color: var(--text-light)">
+          Don't have an account? <a href="#signup" style="color: var(--primary); text-decoration: none; font-weight: 500;">Sign up</a>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- SIGNUP PAGE -->
+  <div id="signup" class="page login-page">
+    <div class="login-card">
+      <div class="login-logo">Fin<span>AI</span></div>
+      <div class="login-sub">Create your FinAI account to get started.</div>
+      <form id="signup-form">
+        <div class="form-group">
+          <label class="form-label">Email</label>
+          <input id="signup-email" type="email" class="form-input" placeholder="Enter your email" required>
+        </div>
+        <div class="form-group">
+          <label class="form-label">Password</label>
+          <div style="position: relative;">
+            <input id="signup-password" type="password" class="form-input" placeholder="••••••••"
+              style="padding-right: 40px;" required>
+            <div id="toggle-signup-password"
+              style="position: absolute; right: 12px; top: 50%; transform: translateY(-50%); cursor: pointer; color: var(--text-light); display: flex;">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                <circle cx="12" cy="12" r="3"></circle>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="form-group">
+          <label class="form-label">Confirm Password</label>
+          <input id="signup-confirm-password" type="password" class="form-input" placeholder="••••••••" required>
+        </div>
+        <div class="flex-center mt-24">
+          <button type="submit" id="signup-btn" class="btn btn-primary">Create Account</button>
+        </div>
+        <div style="margin-top: 16px; text-align: center; font-size: 13px; color: var(--text-light)">
+          Already have an account? <a href="#login" style="color: var(--primary); text-decoration: none; font-weight: 500;">Login</a>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- INPUT PAGE -->
+  <div id="input" class="page input-page">
+    <div class="input-card">
+      <div class="section-title mb-8">Set Up Your AI Profile</div>
+      <div class="section-sub mb-24">We need a few details to run the initial analysis.</div>
+      <form id="setup-form">
+        <div class="input-grid">
+          <div class="form-group">
+            <label class="form-label">Monthly Income (₹)</label>
+            <input id="inp-income" type="number" class="form-input" placeholder="e.g. 120000" required min="1">
+          </div>
+          <div class="form-group">
+            <label class="form-label">Monthly Expenses (₹)</label>
+            <input id="inp-expenses" type="number" class="form-input" placeholder="e.g. 65000" required min="0">
+          </div>
+          <div class="form-group">
+            <label class="form-label">Current Savings (₹)</label>
+            <input id="inp-savings" type="number" class="form-input" placeholder="e.g. 450000" required min="0">
+          </div>
+          <div class="form-group">
+            <label class="form-label">Total Debt (₹)</label>
+            <input id="inp-debt" type="number" class="form-input" placeholder="e.g. 80000" required min="0">
+          </div>
+        </div>
+        <button type="submit" id="analyze-btn" class="btn btn-primary mt-24">Analyze Financial Profile</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- APP SHELL -->
+  <div id="app-shell" class="app-shell" style="display:none">
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+      <div class="sidebar-logo">Fin<span>AI</span></div>
+      <ul class="nav-items">
+        <li class="nav-item"><a href="#dashboard">Dashboard</a></li>
+        <li class="nav-item"><a href="#analysis">Analysis</a></li>
+        <li class="nav-item"><a href="#projections">Projections</a></li>
+        <li class="nav-item"><a href="#goals">Goals</a></li>
+        <li class="nav-item"><a href="#investments">Investments</a></li>
+        <li class="nav-item"><a href="#insights">Insights</a></li>
+      </ul>
+      <div style="margin-top:auto">
+        <a href="#login"
+          style="color:var(--text-light);text-decoration:none;font-size:13px;display:flex;align-items:center;gap:8px;padding:12px 16px"><span
+            style="font-size:18px">🚪</span> Logout</a>
+      </div>
+    </aside>
+
+    <main class="main-content">
+      <!-- TOPBAR -->
+      <header class="topbar">
+        <div id="page-title" class="topbar-title">Dashboard</div>
+        <div class="topbar-right">
+          <div class="search-bar">
+            <span>🔍</span>
+            <input type="text" placeholder="Search transactions...">
+          </div>
+          <button class="notif-btn">🔔</button>
+          <button class="avatar-btn">JD</button>
+        </div>
+      </header>
+
+      <div class="page-content">
+
+        <!-- DASHBOARD PAGE -->
+        <div id="dashboard" class="page">
+          <div class="grid grid-12">
+
+            <!-- TOTAL BALANCE -->
+            <div class="col-4 card card-static">
+              <div class="flex-between mb-8">
+                <span class="card-title">Total Balance</span>
+                <span id="active-currency-pill" class="pill pill-blue">INR 🇮🇳</span>
+              </div>
+              <div id="dash-balance" class="card-value card-value-lg">--</div>
+              <div id="dash-balance-stat" class="stat-trend trend-up mt-8">▲ 0% this month</div>
+              <div class="flex gap-12 mt-24">
+                <button id="btn-transfer" class="btn btn-dark" style="flex:1">Transfer</button>
+                <button id="btn-request" class="btn btn-outline" style="flex:1">Request</button>
+              </div>
+              <div class="mt-24">
+                <div class="card-title">Currency Converter (Live Wallets)</div>
+                <div class="grid grid-3 gap-8 mt-8">
+                  <div class="wallet-mini currency-btn" data-currency="USD" style="cursor:pointer"><span class="wallet-flag">🇺🇸</span> USD</div>
+                  <div class="wallet-mini currency-btn" data-currency="EUR" style="cursor:pointer"><span class="wallet-flag">🇪🇺</span> EUR</div>
+                  <div class="wallet-mini currency-btn" data-currency="INR"
+                    style="cursor:pointer; background:linear-gradient(135deg,rgba(59,130,246,0.1),rgba(59,130,246,0.05));color:var(--secondary);border:1px solid rgba(59,130,246,0.2)">
+                    <span class="wallet-flag">🇮🇳</span> INR
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- STATS GRID -->
+            <div class="col-3 grid grid-2 gap-16">
+              <div class="card card-gradient" style="padding:20px;border-radius:24px">
+                <div style="font-size:13px;color:rgba(255,255,255,0.8);margin-bottom:8px">Health Score</div>
+                <div id="dash-score" style="font-size:36px;font-weight:700;line-height:1">--</div>
+                <div id="dash-score-insight" style="font-size:11px;color:rgba(255,255,255,0.8);margin-top:8px;line-height:1.4">Analyzing profile...</div>
+              </div>
+              <div class="card" style="padding:20px;border-radius:24px">
+                <div class="flex-between">
+                  <div style="font-size:13px;color:var(--text-light);margin-bottom:8px">Stress Level</div>
+                  <div class="stat-icon" style="background:#FEE2E2">🚨</div>
+                </div>
+                <div id="dash-stress" style="font-size:24px;font-weight:700;color:var(--text)">--</div>
+                <div id="dash-stress-insight" style="font-size:11px;color:var(--text-light);margin-top:8px;line-height:1.4">Evaluating liquidity...</div>
+              </div>
+              <div class="card" style="padding:20px;border-radius:24px">
+                <div class="flex-between">
+                  <div style="font-size:13px;color:var(--text-light);margin-bottom:8px">Personality</div>
+                  <div class="stat-icon" style="background:#E0E7FF">👤</div>
+                </div>
+                <div id="dash-pers" style="font-size:24px;font-weight:700;color:var(--text)">--</div>
+                <div id="dash-pers-insight" style="font-size:11px;color:var(--text-light);margin-top:8px;line-height:1.4">Classifying traits...</div>
+              </div>
+              <div class="card" style="padding:20px;border-radius:24px">
+                <div class="flex-between">
+                  <div style="font-size:13px;color:var(--text-light);margin-bottom:8px">Risk Level</div>
+                  <div class="stat-icon" style="background:#FEF3C7">⚡</div>
+                </div>
+                <div id="dash-risk" style="font-size:24px;font-weight:700;color:var(--text)">--</div>
+                <div id="dash-risk-insight" style="font-size:11px;color:var(--text-light);margin-top:8px;line-height:1.4">Calculating exposure...</div>
+              </div>
+            </div>
+
+            <!-- CHART -->
+            <div class="col-5 card chart-card">
+              <div class="chart-header">
+                <div>
+                  <div class="section-title mb-8">Total Income vs Expenses</div>
+                  <div class="section-sub">Monthly trend overview</div>
+                </div>
+                <div class="chart-legend">
+                  <div class="legend-item">
+                    <div class="legend-dot" style="background:var(--secondary)"></div> Profit
+                  </div>
+                  <div class="legend-item">
+                    <div class="legend-dot" style="background:var(--text)"></div> Loss
+                  </div>
+                </div>
+              </div>
+              <div id="dash-chart" class="chart-area" style="height:220px"></div>
+              <div class="ai-card mt-16">
+                <div class="ai-card-title">✨ AI Insight</div>
+                <div class="ai-card-text">Your savings are projected to grow steadily over the next 6 months based on
+                  your current expense ratio.</div>
+              </div>
+            </div>
+
+            <!-- SPENDING & CARDS -->
+            <div class="col-4 card">
+              <div class="section-title">Monthly Spending Limit</div>
+              <div class="flex-between mb-12 mt-16">
+                <span class="card-value" style="font-size:24px" id="dash-spend-text">--%</span>
+                <span class="pill pill-emerald">On Track</span>
+              </div>
+              <div class="progress-container">
+                <div id="dash-spend-bar" class="progress-fill striped" style="background:var(--primary);width:0%"></div>
+              </div>
+
+              <div class="section-title" style="margin-top:32px;margin-bottom:12px">Active Card</div>
+              <div id="active-card-container" style="cursor:pointer; display:flex; justify-content:center">
+                <!-- Active card will be rendered here -->
+              </div>
+              
+              <button id="add-card-btn" class="btn btn-outline btn-sm w-full mt-16" style="border-radius:12px">+ Add New Card</button>
+              
+              <div class="section-title" style="margin-top:24px;margin-bottom:12px;font-size:14px">My Cards</div>
+              <div id="cards-list" class="cards-slider">
+                <!-- Other cards will be listed here -->
+              </div>
+            </div>
+
+            <!-- ACTIVITIES -->
+            <div class="col-5 card">
+              <div class="flex-between mb-16">
+                <div class="section-title mb-8">Recent Activities</div>
+                <div class="flex gap-8">
+                  <button id="open-transaction-modal-btn" class="btn btn-primary btn-sm" style="border-radius:999px; padding: 6px 14px; font-size:12px">+ Log Transaction</button>
+                  <button id="view-all-activities-btn" class="btn btn-outline btn-sm" style="border-radius:999px; padding: 6px 14px; font-size:12px">View All</button>
+                </div>
+              </div>
+              <div class="table-wrap" style="overflow-y:hidden; overflow-x:auto;">
+                <table class="data-table">
+                  <thead>
+                    <tr>
+                      <th>Activity</th>
+                      <th>Amount</th>
+                      <th>Status</th>
+                      <th>Date</th>
+                    </tr>
+                  </thead>
+                  <tbody id="dash-activities"></tbody>
+                </table>
+              </div>
+              <div id="dash-activities-footer" style="text-align:center; padding-top:16px; font-size:13px; color:var(--primary); cursor:pointer; font-weight:500;" onclick="document.getElementById('view-all-activities-btn').click()">
+                View all to see other activities &rarr;
+              </div>
+            </div>
+
+            <!-- INSIGHTS PREVIEW -->
+            <div class="col-3 card">
+              <div class="section-title">Quick Insights</div>
+              <div id="dash-insights" class="mt-16"></div>
+
+              <div class="flex-center mt-24">
+                <div id="dash-health-ring" class="radial-score"></div>
+              </div>
+            </div>
+
+            <!-- COMPACT INPUT FORM -->
+            <div class="col-12 card" style="margin-top: 16px;">
+              <div class="flex-between mb-16">
+                <div>
+                  <div class="section-title mb-8">Update Financial Profile</div>
+                  <div class="section-sub">Tweak your numbers below to instantly update your dashboard analysis</div>
+                </div>
+                <button id="dash-analyze-btn" class="btn btn-primary" style="padding: 10px 24px;">Analyze & Update
+                  Dashboard</button>
+              </div>
+              <div class="grid grid-2 gap-16">
+                <div class="form-group mb-0">
+                  <label class="form-label">Monthly Income (₹)</label>
+                  <input id="dash-inp-income" type="number" class="form-input" value="120000">
+                </div>
+                <div class="form-group mb-0">
+                  <label class="form-label">Monthly Expenses (₹)</label>
+                  <input id="dash-inp-expenses" type="number" class="form-input" value="65000">
+                </div>
+                <div class="form-group mb-0">
+                  <label class="form-label">Current Savings (₹)</label>
+                  <input id="dash-inp-savings" type="number" class="form-input" value="450000">
+                </div>
+                <div class="form-group mb-0">
+                  <label class="form-label">Total Debt (₹)</label>
+                  <input id="dash-inp-debt" type="number" class="form-input" value="80000">
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- ANALYSIS PAGE -->
+        <div id="analysis" class="page">
+          <div class="kpi-strip">
+            <div class="kpi-item">
+              <div class="kpi-label">Income</div>
+              <div id="ana-inc" class="kpi-value">--</div>
+            </div>
+            <div class="kpi-item">
+              <div class="kpi-label">Expenses</div>
+              <div id="ana-exp" class="kpi-value">--</div>
+            </div>
+            <div class="kpi-item">
+              <div class="kpi-label">Savings Rate</div>
+              <div id="ana-sav" class="kpi-value">--</div>
+            </div>
+            <div class="kpi-item">
+              <div class="kpi-label">Debt Ratio</div>
+              <div id="ana-debt" class="kpi-value">--</div>
+            </div>
+          </div>
+
+          <div class="grid grid-3">
+            <div class="col-2 card">
+              <div class="section-title">Income & Expense Trend</div>
+              <div id="ana-chart" class="chart-area mt-24" style="height:320px"></div>
+            </div>
+            <div class="col-1 card">
+              <div class="section-title">Expense Breakdown</div>
+              <div class="flex-center mt-24">
+                <div id="ana-donut"></div>
+              </div>
+              <div id="ana-legend" class="donut-legend mt-24"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- PROJECTIONS PAGE -->
+        <div id="projections" class="page">
+          <div class="card mb-20">
+            <div class="flex-between mb-24">
+              <div class="section-title mb-8">Wealth Growth Forecast</div>
+              <div class="time-toggle">
+                <button id="proj-btn-6" class="time-btn">6 Months</button>
+                <button id="proj-btn-12" class="time-btn active">12 Months</button>
+              </div>
+            </div>
+            <div id="proj-chart" class="chart-area" style="height:400px"></div>
+          </div>
+          <div class="ai-card" style="margin-top: 32px;">
+            <div class="ai-card-title">✨ Projection Analysis</div>
+            <div class="ai-card-text">Based on your current savings rate and expenditure patterns, your wealth is
+              projected to grow linearly. Maintaining this trajectory will ensure you meet your primary financial
+              milestones ahead of schedule.</div>
+          </div>
+        </div>
+
+        <!-- GOALS PAGE -->
+        <div id="goals" class="page">
+          <div class="flex-between mb-24">
+            <div>
+              <div class="section-title mb-8">My Goals</div>
+              <div class="section-sub">Track your progress toward key milestones</div>
+            </div>
+            <button id="toggle-goal-btn" class="btn btn-primary" style="border-radius:999px">+ Add Goal</button>
+          </div>
+
+          <div id="add-goal-form" class="card mb-24" style="display:none; border: 1px solid var(--primary);">
+            <div class="section-title mb-16">Create New Goal</div>
+            <div class="grid grid-3 gap-16 mb-16">
+              <div class="form-group mb-0">
+                <label class="form-label">Goal Name</label>
+                <input id="goal-name" type="text" class="form-input" placeholder="e.g. New Car">
+              </div>
+              <div class="form-group mb-0">
+                <label class="form-label">Target Amount (₹)</label>
+                <input id="goal-target" type="number" class="form-input" placeholder="e.g. 500000">
+              </div>
+              <div class="form-group mb-0">
+                <label class="form-label">Current Progress (₹)</label>
+                <input id="goal-current" type="number" class="form-input" placeholder="e.g. 50000">
+              </div>
+            </div>
+            <button id="save-goal-btn" class="btn btn-primary">Save Goal</button>
+          </div>
+
+          <div id="goals-grid" class="grid grid-3"></div>
+        </div>
+
+        <!-- INVESTMENTS PAGE -->
+        <div id="investments" class="page">
+          <div class="grid grid-2">
+            <div class="card">
+              <div class="section-title">Recommended Asset Allocation</div>
+              <div class="flex-center mt-32 mb-32">
+                <div id="inv-donut"></div>
+              </div>
+              <div id="inv-list" class="mt-24"></div>
+            </div>
+            <div>
+              <div class="ai-card" style="height:100%">
+                <div class="ai-card-title" style="font-size:18px">✨ Investment Strategy</div>
+                <div class="ai-card-text mt-16" style="font-size:15px">
+                  Based on your financial profile, health score, and personality classification, we recommend a
+                  diversified portfolio.
+                  <br><br>
+                  This allocation balances growth potential with capital preservation, suited for your specific risk
+                  tolerance. Regular portfolio rebalancing is advised to maintain these target ratios.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- INSIGHTS PAGE -->
+        <div id="insights" class="page">
+          <div class="grid grid-3">
+            <div class="col-2">
+              <div class="section-title mb-16">Recent Alerts & Insights</div>
+              <div id="alerts-list"></div>
+            </div>
+            <div class="col-1 card" style="align-self:start">
+              <div class="section-title">Behavioral Summary</div>
+              <div class="mt-16 text-center">
+                <div class="stat-icon"
+                  style="margin:0 auto 16px;background:#F3F4F6;width:64px;height:64px;font-size:32px">🧠</div>
+                <div id="behavior-title" style="font-weight:700;font-size:18px;margin-bottom:8px">Analyzing...</div>
+                <div id="behavior-desc" style="font-size:13px;color:var(--text-light);line-height:1.6">Please wait while
+                  the AI analyzes your spending habits and financial data.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </main>
+
+    <!-- FAB REMOVED -->
+  </div>
+
+  <!-- CARD MODAL -->
+  <div id="card-modal" class="login-page" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; z-index:1000; background:rgba(0,0,0,0.5); backdrop-filter:blur(4px)">
+    <div class="login-card" style="width:400px">
+      <div class="flex-between mb-24">
+        <div class="section-title mb-0" id="card-modal-title">Card Details</div>
+        <button id="close-card-modal" style="background:none; border:none; font-size:24px; cursor:pointer; color:var(--text-light)">&times;</button>
+      </div>
+      <form id="card-form">
+        <div class="form-group">
+          <label class="form-label">Bank & Card Type</label>
+          <select id="card-type" class="form-input" required>
+            <option value="mastercard">Mastercard Black (Credit)</option>
+            <option value="visa">Visa Platinum (Credit)</option>
+            <option value="chase">Chase Sapphire (Credit)</option>
+            <option value="discover">Discover it (Cashback Credit)</option>
+            <option value="bofa">Bank of America (Debit)</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label class="form-label">Card Holder Name</label>
+          <input type="text" id="card-name" class="form-input" placeholder="e.g. John Doe" required>
+        </div>
+        <div class="form-group">
+          <label class="form-label">Card Number</label>
+          <input type="text" id="card-number" class="form-input" placeholder="xxxx xxxx xxxx xxxx" maxlength="19" required>
+        </div>
+        <div class="grid grid-2 gap-16">
+          <div class="form-group">
+            <label class="form-label">Expiry Date</label>
+            <input type="text" id="card-expiry" class="form-input" placeholder="MM/YY" maxlength="5" required>
+          </div>
+          <div class="form-group">
+            <label class="form-label">CVV</label>
+            <input type="password" id="card-cvv" class="form-input" placeholder="***" maxlength="3" required>
+          </div>
+        </div>
+        <button type="submit" class="btn btn-primary w-full mt-16">Save Card</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- TRANSACTION MODAL -->
+  <div id="transaction-modal" class="login-page" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; z-index:1000; background:rgba(0,0,0,0.5); backdrop-filter:blur(4px)">
+    <div class="login-card" style="width:400px">
+      <div class="flex-between mb-24">
+        <div class="section-title mb-0">Log Transaction</div>
+        <button id="close-transaction-modal" style="background:none; border:none; font-size:24px; cursor:pointer; color:var(--text-light)">&times;</button>
+      </div>
+      <form id="transaction-form">
+        <div class="form-group">
+          <label class="form-label">Type</label>
+          <div class="flex gap-16">
+            <label style="cursor:pointer; display:flex; align-items:center; gap:4px"><input type="radio" name="trans-type" value="expense" checked> Expense</label>
+            <label style="cursor:pointer; display:flex; align-items:center; gap:4px"><input type="radio" name="trans-type" value="income"> Income</label>
+          </div>
+        </div>
+        <div class="form-group">
+          <label class="form-label">Amount (₹)</label>
+          <input type="number" id="trans-amount" class="form-input" placeholder="e.g. 5000" required min="1">
+        </div>
+        <div class="form-group">
+          <label class="form-label">Category</label>
+          <select id="trans-category" class="form-input" required>
+            <option value="Investment|📈">Investment</option>
+            <option value="Shopping|🛍️">Shopping</option>
+            <option value="Insurance|🛡️">Insurance</option>
+            <option value="Education|🎓">Education / Tuition</option>
+            <option value="Groceries|🛒">Groceries</option>
+            <option value="Utilities|⚡">Utilities / Bills</option>
+            <option value="Entertainment|🍿">Entertainment</option>
+            <option value="Health|🏥">Health / Medical</option>
+            <option value="Salary|💼">Salary / Income</option>
+            <option value="Other|📄">Other</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label class="form-label">Short Note / Description</label>
+          <input type="text" id="trans-note" class="form-input" placeholder="e.g. Car Insurance Q3" required maxlength="30">
+        </div>
+        <button type="submit" class="btn btn-primary w-full mt-16">Save Transaction</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- ALL ACTIVITIES MODAL -->
+  <div id="all-activities-modal" class="login-page" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; z-index:1000; background:rgba(0,0,0,0.5); backdrop-filter:blur(4px)">
+    <div class="login-card" style="width:850px; max-width:95vw; max-height:85vh; display:flex; flex-direction:column; padding:32px;">
+      <div class="flex-between mb-24">
+        <div class="section-title mb-0">All Activities</div>
+        <button id="close-all-activities-modal" style="background:none; border:none; font-size:28px; cursor:pointer; color:var(--text-light); line-height:1">&times;</button>
+      </div>
+      <div style="flex:1; overflow-y:auto; overflow-x:hidden; padding-right:12px;">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th>Activity</th>
+              <th>Amount</th>
+              <th>Status</th>
+              <th>Date</th>
+            </tr>
+          </thead>
+          <tbody id="all-activities-list"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <script src="static/js/data.js"></script>
+  <script src="static/js/charts.js"></script>
+  <script src="static/js/animations.js"></script>
+  <script src="static/js/app.js"></script>
+</body>
+
+</html>

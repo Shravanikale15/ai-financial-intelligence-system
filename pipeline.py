@@ -16,6 +16,10 @@ personality_model = joblib.load("saved_models/personality_model.pkl")
 personality_scaler = joblib.load("saved_models/personality_scaler.pkl")
 personality_features = joblib.load("saved_models/personality_features.pkl")
 
+projection_model = joblib.load("saved_models/projection_model.pkl")
+projection_scaler = joblib.load("saved_models/projection_scaler.pkl")
+projection_features = joblib.load("saved_models/projection_features.pkl")
+
 def calculate_risk_score(health_score, stress_level, personality):
 
     # Convert stress to numeric
@@ -91,16 +95,32 @@ def evaluate_goal_feasibility(goal_amount, projection):
         "months_needed": None,
         "shortfall": round(float(shortfall), 2)
     }
-def generate_projection(current_surplus, months=6):
+def generate_projection(user_input: dict, months=6):
+    savings_rate = user_input.get("savings_rate", 0.35)
+    expense_ratio = user_input.get("expense_ratio", 0.55)
+    expense_volatility = user_input.get("expense_volatility", 3000)
+    current_surplus = user_input.get("monthly_surplus", 0)
     
     projections = []
     rolling_value = current_surplus
     
     for i in range(months):
-        # Slight stabilization factor
-        rolling_value = rolling_value * 0.98  # 2% conservative adjustment
-        projections.append(round(float(rolling_value), 2))
-    
+        test_df = pd.DataFrame([{
+            "savings_rate": savings_rate,
+            "expense_ratio": expense_ratio,
+            "expense_volatility": expense_volatility,
+            "monthly_surplus": rolling_value
+        }])
+        
+        scaled = projection_scaler.transform(test_df[projection_features])
+        pred = projection_model.predict(scaled)[0]
+        
+        # Bound predictions to protect against wild fluctuations/outliers
+        pred = max(-100000.0, min(200000.0, float(pred)))
+        
+        projections.append(round(pred, 2))
+        rolling_value = pred
+        
     return projections
 
 def run_full_financial_analysis(user_input: dict):
@@ -140,8 +160,7 @@ def run_full_financial_analysis(user_input: dict):
     # --------------------------
     # Savings Projection
     # --------------------------
-    current_surplus = user_input.get("monthly_surplus", 0)
-    projection = generate_projection(current_surplus)
+    projection = generate_projection(user_input)
 
 
     goal_amount = user_input.get("goal_amount")
