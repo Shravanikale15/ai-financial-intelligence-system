@@ -143,6 +143,7 @@
             <span>🔍</span>
             <input type="text" placeholder="Search transactions...">
           </div>
+          <button id="theme-toggle" class="notif-btn" title="Toggle Dark Mode">🌙</button>
           <button class="notif-btn">🔔</button>
           <button class="avatar-btn">JD</button>
         </div>
@@ -189,7 +190,7 @@
               <div class="card" style="padding:20px;border-radius:24px">
                 <div class="flex-between">
                   <div style="font-size:13px;color:var(--text-light);margin-bottom:8px">Stress Level</div>
-                  <div class="stat-icon" style="background:#FEE2E2">🚨</div>
+                  <div class="stat-icon" style="background:var(--stat-icon-red)">🚨</div>
                 </div>
                 <div id="dash-stress" style="font-size:24px;font-weight:700;color:var(--text)">--</div>
                 <div id="dash-stress-insight" style="font-size:11px;color:var(--text-light);margin-top:8px;line-height:1.4">Evaluating liquidity...</div>
@@ -197,7 +198,7 @@
               <div class="card" style="padding:20px;border-radius:24px">
                 <div class="flex-between">
                   <div style="font-size:13px;color:var(--text-light);margin-bottom:8px">Personality</div>
-                  <div class="stat-icon" style="background:#E0E7FF">👤</div>
+                  <div class="stat-icon" style="background:var(--stat-icon-blue)">👤</div>
                 </div>
                 <div id="dash-pers" style="font-size:24px;font-weight:700;color:var(--text)">--</div>
                 <div id="dash-pers-insight" style="font-size:11px;color:var(--text-light);margin-top:8px;line-height:1.4">Classifying traits...</div>
@@ -205,7 +206,7 @@
               <div class="card" style="padding:20px;border-radius:24px">
                 <div class="flex-between">
                   <div style="font-size:13px;color:var(--text-light);margin-bottom:8px">Risk Level</div>
-                  <div class="stat-icon" style="background:#FEF3C7">⚡</div>
+                  <div class="stat-icon" style="background:var(--stat-icon-amber)">⚡</div>
                 </div>
                 <div id="dash-risk" style="font-size:24px;font-weight:700;color:var(--text)">--</div>
                 <div id="dash-risk-insight" style="font-size:11px;color:var(--text-light);margin-top:8px;line-height:1.4">Calculating exposure...</div>
@@ -454,7 +455,7 @@
               <div class="section-title">Behavioral Summary</div>
               <div class="mt-16 text-center">
                 <div class="stat-icon"
-                  style="margin:0 auto 16px;background:#F3F4F6;width:64px;height:64px;font-size:32px">🧠</div>
+                  style="margin:0 auto 16px;background:var(--stat-icon-gray);width:64px;height:64px;font-size:32px">🧠</div>
                 <div id="behavior-title" style="font-weight:700;font-size:18px;margin-bottom:8px">Analyzing...</div>
                 <div id="behavior-desc" style="font-size:13px;color:var(--text-light);line-height:1.6">Please wait while
                   the AI analyzes your spending habits and financial data.</div>

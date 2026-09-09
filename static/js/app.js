@@ -12,6 +12,12 @@ let userActivities = JSON.parse(localStorage.getItem('finAI_activities')) || [];
 
 const App = {
   init() {
+    // Theme Initialization
+    const savedTheme = localStorage.getItem('finAI_theme');
+    if (savedTheme === 'dark') {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+    
     // Load profile if exists
     const profile = JSON.parse(localStorage.getItem('finAI_profile'));
     if (profile) {
@@ -34,6 +40,26 @@ const App = {
     window.addEventListener('hashchange', App.route);
     if (!window.location.hash) window.location.hash = '#login';
     App.route();
+
+    // Theme Toggle Listener
+    const themeBtn = document.getElementById('theme-toggle');
+    if (themeBtn) {
+      if (document.documentElement.getAttribute('data-theme') === 'dark') {
+        themeBtn.textContent = '☀️';
+      }
+      themeBtn.addEventListener('click', () => {
+        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        if (isDark) {
+          document.documentElement.removeAttribute('data-theme');
+          localStorage.setItem('finAI_theme', 'light');
+          themeBtn.textContent = '🌙';
+        } else {
+          document.documentElement.setAttribute('data-theme', 'dark');
+          localStorage.setItem('finAI_theme', 'dark');
+          themeBtn.textContent = '☀️';
+        }
+      });
+    }
 
     // Global Listeners
     document.getElementById('login-form')?.addEventListener('submit', async e => {
@@ -292,20 +318,24 @@ const App = {
       const [category, icon] = catVal.split('|');
       const note = document.getElementById('trans-note').value;
       
-      App.logActivity(category, icon, amount, 'Completed', note, type === 'expense');
-      
-      // Update inputs on dashboard
       const expInput = document.getElementById('dash-inp-expenses');
       const incInput = document.getElementById('dash-inp-income');
       const savInput = document.getElementById('dash-inp-savings');
       
       if (type === 'expense') {
+        const currentSavings = savInput ? Number(savInput.value) : 0;
+        if (amount > currentSavings) {
+          alert('Insufficient savings for this transaction.');
+          return;
+        }
         if (expInput) expInput.value = Number(expInput.value) + amount;
-        if (savInput) savInput.value = Math.max(0, Number(savInput.value) - amount);
+        if (savInput) savInput.value = currentSavings - amount;
       } else {
         if (incInput) incInput.value = Number(incInput.value) + amount;
         if (savInput) savInput.value = Number(savInput.value) + amount;
       }
+      
+      App.logActivity(category, icon, amount, 'Completed', note, type === 'expense');
       
       if (transactionModal) transactionModal.style.display = 'none';
       
@@ -381,7 +411,14 @@ const App = {
       if (amt && !isNaN(amt) && Number(amt) > 0) {
         const val = Number(amt);
         const savInput = document.getElementById('dash-inp-savings');
-        if (savInput) savInput.value = Math.max(0, Number(savInput.value) - val);
+        const currentSavings = savInput ? Number(savInput.value) : 0;
+        
+        if (val > currentSavings) {
+          alert('Insufficient savings for this transfer.');
+          return;
+        }
+        
+        if (savInput) savInput.value = currentSavings - val;
         App.logActivity('Transfer', '💸', val, 'Completed', 'Outgoing transfer', true);
         await App.triggerUpdate(true, null);
       }
@@ -640,6 +677,15 @@ const App = {
     
     if (amount && !isNaN(amount) && Number(amount) > 0) {
       const val = Number(amount);
+      const savInput = document.getElementById('dash-inp-savings');
+      const currentSavings = savInput ? Number(savInput.value) : (appData ? appData.savings : 0);
+      
+      if (val > currentSavings) {
+        alert('Insufficient savings to contribute this amount.');
+        return;
+      }
+      
+      if (savInput) savInput.value = currentSavings - val;
       
       // Update goal state
       goal.current += val;
@@ -695,7 +741,9 @@ const App = {
       App.logActivity('Goal Progress', '🎯', val, 'Completed', `Funded: ${goal.name}`, true);
       Render.activitiesList('dash-activities', 5);
       Render.goals(); // refresh buttons and UI
-      await App.syncState();
+      
+      // We must trigger update because savings decreased!
+      await App.triggerUpdate(true, null);
     }
   },
   
@@ -791,7 +839,7 @@ const Render = {
       <tr style="vertical-align: middle;">
         <td>
           <div style="display:flex; align-items:center; gap:12px; min-height:44px">
-            <div class="stat-icon" style="flex-shrink:0; background:#F3F4F6; width:36px; height:36px; font-size:18px; border-radius:10px; display:flex; align-items:center; justify-content:center;">${a.icon}</div>
+            <div class="stat-icon" style="flex-shrink:0; background:var(--stat-icon-gray); width:36px; height:36px; font-size:18px; border-radius:10px; display:flex; align-items:center; justify-content:center;">${a.icon}</div>
             <div style="display:flex; flex-direction:column; justify-content:center; text-align:left;">
               <div style="font-weight:600; color:var(--text); line-height:1.2">${a.type}</div>
               ${noteText ? `<div style="font-size:11px; color:var(--text-light); margin-top:4px; line-height:1.2; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:180px;">${noteText}</div>` : ''}
@@ -979,13 +1027,13 @@ const Render = {
            <div class="cc-discover-it">it</div>
            <div class="cc-chip"></div>
            <div style="flex:1; display:flex; align-items:center; justify-content:center; position:relative; z-index:2">
-               <div style="font-size:22px; font-weight:800; letter-spacing:1px; color:#111; display:flex; align-items:center">
+               <div style="font-size:22px; font-weight:800; letter-spacing:1px; color:var(--text); display:flex; align-items:center">
                    DISC<span style="display:inline-block; width:16px; height:16px; background:linear-gradient(135deg, #FF8C00, #FF4500); border-radius:50%; margin:0 2px"></span>VER
                </div>
            </div>
            <div class="cc-bottom">
-               <div class="cc-info" style="color:#111; opacity:0.8">${activeCard.name.toUpperCase()}</div>
-               <div style="font-size:14px; font-weight:700; color:#111; opacity:0.5">)))</div>
+               <div class="cc-info" style="color:var(--text); opacity:0.8">${activeCard.name.toUpperCase()}</div>
+               <div style="font-size:14px; font-weight:700; color:var(--text); opacity:0.5">)))</div>
            </div>
         </div>
       `;
@@ -1036,7 +1084,7 @@ const Render = {
     cardsList.innerHTML = otherCards.map((card) => {
       const originalIndex = userCards.indexOf(card);
       return `
-        <div class="wallet-mini" style="cursor:pointer; min-width:140px; padding:16px; border:1px solid #eee" onclick="App.swapCard(${originalIndex})">
+        <div class="wallet-mini" style="cursor:pointer; min-width:140px; padding:16px; border:1px solid var(--border)" onclick="App.swapCard(${originalIndex})">
           <div class="flex-between mb-8">
             <span style="font-size:18px">💳</span>
             <span style="font-size:10px; font-weight:600; opacity:0.6">${card.number.slice(-4)}</span>
@@ -1087,7 +1135,7 @@ const Render = {
             </div>
         </div>
         <div class="goal-target">Target: ₹${g.target.toLocaleString()} (Current: <span id="goal-current-${i}">₹${g.current.toLocaleString()}</span>)</div>
-        <div class="progress-container" style="height:8px; ${isComplete ? 'background:#D1FAE5;' : ''}">
+        <div class="progress-container" style="height:8px; ${isComplete ? 'background:var(--goal-complete-bg);' : ''}">
             <div id="goal-bar-${i}" class="progress-fill ${isComplete ? '' : 'gradient-fill striped'}" style="width:${pct}%; ${isComplete ? 'background:var(--emerald);' : ''}"></div>
         </div>
         <div class="goal-meta">
@@ -1112,7 +1160,7 @@ const Render = {
   insights() {
     document.getElementById('alerts-list').innerHTML = appData.alerts.map(a => `
       <div class="alert-item">
-        <div class="alert-icon" style="background:${a.type === 'success' ? '#D1FAE5' : a.type === 'warning' ? '#FEF3C7' : '#FEE2E2'}">${a.icon}</div>
+        <div class="alert-icon" style="background:${a.type === 'success' ? 'var(--alert-success-bg)' : a.type === 'warning' ? 'var(--alert-warning-bg)' : 'var(--alert-danger-bg)'}">${a.icon}</div>
         <div class="alert-content">
           <div class="alert-title">${a.title}</div>
           <div class="alert-desc">${a.desc}</div>

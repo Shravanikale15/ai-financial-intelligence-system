@@ -195,7 +195,7 @@ const Charts = {
       const t = document.createElementNS('http://www.w3.org/2000/svg', 'text');
       t.setAttribute('x', cx); t.setAttribute('y', cy - 4);
       t.setAttribute('text-anchor', 'middle'); t.setAttribute('font-size', '24');
-      t.setAttribute('font-weight', '700'); t.setAttribute('fill', '#111827');
+      t.setAttribute('font-weight', '700'); t.setAttribute('fill', '#5a6681ff');
       t.setAttribute('font-family', 'Outfit');
       t.textContent = options.centerText;
       svg.appendChild(t);
@@ -254,7 +254,7 @@ const Charts = {
     const t = document.createElementNS('http://www.w3.org/2000/svg', 'text');
     t.setAttribute('x', cx); t.setAttribute('y', cy + 2);
     t.setAttribute('text-anchor', 'middle'); t.setAttribute('font-size', '30');
-    t.setAttribute('font-weight', '700'); t.setAttribute('fill', '#111827');
+    t.setAttribute('font-weight', '700'); t.setAttribute('fill', '#5a6681ff');
     t.setAttribute('font-family', 'Outfit');
     t.textContent = value;
     svg.appendChild(t);
